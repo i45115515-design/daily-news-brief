@@ -1,0 +1,29 @@
+name: Notify Discord
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'daily-news-reports/latest-summary.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate payload JSON
+        run: python3 -m json.tool daily-news-reports/latest-summary.json > /dev/null
+
+      - name: Send to Discord
+        run: |
+          HTTP_CODE=$(curl -s -o /tmp/resp.txt -w "%{http_code}" -X POST \
+            -H "Content-Type: application/json" \
+            -d @daily-news-reports/latest-summary.json \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}")
+          echo "Discord HTTP status: $HTTP_CODE"
+          cat /tmp/resp.txt
+          if [ "$HTTP_CODE" != "204" ]; then
+            echo "::warning::Discord webhook returned $HTTP_CODE instead of 204"
+            exit 1
+          fi
