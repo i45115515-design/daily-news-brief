@@ -1,0 +1,29 @@
+{
+  "embeds": [
+    {
+      "title": "每日資訊彙整 2026-07-31 22:08",
+      "description": "掃描40個來源，成功30個、失敗10個。以下是被最多獨立來源同時談論的主題：",
+      "color": 11105572,
+      "fields": [
+        {
+          "name": "01. AI晶片與資料中心資本支出熱潮（4個來源）⚠️與今天19:25重複",
+          "value": "• [N2 Arrives, Capex Climbs: TSMC Doubles Down on AI Investment](https://en.macromicro.me/blog/n2-arrives-capex-climbs-tsmc-doubles-down-on-ai-investment) — 財經M平方 MacroMicro (2026-07-22)\n• [Can AMD break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (2026-07-25)\n• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
+          "inline": false
+        },
+        {
+          "name": "02. AI投資效益與估值辯論（3個來源）",
+          "value": "• [The Copium Wars](https://stratechery.com/2026/the-copium-wars/) — Stratechery (2026-07-20)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (2026-06-01)\n• [Karen Karniol-Tambour談AI與modern mercantilism](https://www.bridgewater.com/research-and-insights) — Bridgewater Associates (約2026-06-08)",
+          "inline": false
+        },
+        {
+          "name": "03. 創業者／新創建構方法論（2個來源）⚠️與今天19:25重複",
+          "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (2026-06-14)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (2026)",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-07-31_22-08.html"
+      }
+    }
+  ]
+}
