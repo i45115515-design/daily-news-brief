@@ -1,28 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-01 07:09",
-      "description": "掃描40個來源，成功30個、失敗10個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-01 22:08",
+      "description": "掃描40個來源，成功23個、失敗17個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI運算基礎建設熱潮：晶片、記憶體與雲端資本支出全面吃緊（5個來源）⚠️與今天00:07報告重複",
-          "value": "• [Vera Rubin NVL72 vs GB200 NVL72? Inference TCO & Architecture Analysis](https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference) — SemiAnalysis (約2026-07-24)\n• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [Chart of the Day: cloud providers re-accelerating on AI adoption](https://www.coatue.com/c/takes/chart-of-the-day-2026-07-21) — Coatue (2026-07-21)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)\n• [市場重新定價，庫存、資本支出與現金流三大訊號！](https://www.macromicro.me/blog/founder-s-article-market-repricing-three-key-signals-inventory-capital-expenditure-and-cash-flow) — 財經M平方 MacroMicro (2026-07-31)",
+          "name": "01. AI運算基礎建設熱潮：晶片、記憶體與雲端資本支出（4個來源）⚠️與今天00:07、07:09報告重複",
+          "value": "• [Nvidia GPU Debt Backstop Unleashes the AI Project Trinity](https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes) — SemiAnalysis (約2026-07-29)\n• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital官網 (2026-07-23)\n• [Chart of the Day: cloud providers re-accelerating](https://www.coatue.com/c/takes/chart-of-the-day-2026-07-21) — Coatue (2026-07-21)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
           "inline": false
         },
         {
-          "name": "02. AI Agentic Engineering／新型態軟體開發模式興起（3個來源）",
-          "value": "• [Y Combinator 2026 Hackathon Winner (Software for agents) Demo Video](https://www.youtube.com/watch?v=G-8GWsrxFog) — Y Combinator (2026-06-30)\n• [Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan](https://www.youtube.com/watch?v=96jN2OCOfLs) — Sequoia Capital YouTube (2026-04-29)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (日期未確認)",
-          "inline": false
-        },
-        {
-          "name": "03. AI巨頭與大型實驗室動向（2個來源）",
-          "value": "• [OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips](https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/) — Stratechery (2026-07-22)\n• [Inside Anthropic, the $965 Billion AI Juggernaut | The Circuit](https://www.youtube.com/watch?v=v1wZwxY3CMg) — Bloomberg Originals (2026-06-10)",
+          "name": "02. AI／AGI敘事升溫與新創建造熱潮（2個來源）",
+          "value": "• [Sam Altman: \"Never a Better Time to Do a Startup\"](https://www.youtube.com/watch?v=ZIaOBAjvc38) — Y Combinator (約2026-07-25)\n• [This is AGI: Sequoia AI Ascent 2026 Keynote](https://www.youtube.com/watch?v=LRo33rnv6rQ) — Sequoia Capital YouTube頻道 (約2026-04-30)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-01_07-09.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-01_22-08.html"
       }
     }
   ]
