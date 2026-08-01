@@ -1,0 +1,24 @@
+{
+  "embeds": [
+    {
+      "title": "每日資訊彙整 2026-08-01 12:04",
+      "description": "掃描40個來源，成功32個、失敗8個。以下是被最多獨立來源同時談論的主題：",
+      "color": 11105572,
+      "fields": [
+        {
+          "name": "01. AI晶片與推理運算基礎建設支出熱潮（5個來源）",
+          "value": "• [Vera Rubin NVL72 vs GB200 NVL72? Inference TCO & Architecture Analysis](https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference) — SemiAnalysis (2026-07-25)\n• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)\n• [台積電再度上調資本開支](https://www.macromicro.me/blog/market-update-with-n2-production-starting-and-inventory-rising-tsmc-has-once-again-increased-its-capital-expenditure) — MacroMicro (2026-07-16)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
+          "inline": false
+        },
+        {
+          "name": "02. 全球總體經濟情勢與風險評估分歧（3個來源）",
+          "value": "• [Neither US Exceptionalism Nor A European Boom: Macro Edition](https://research.gavekal.com/) — Gavekal Research (2026-07-28)\n• [Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/artificial-intelligence) — Bridgewater Associates (2026-07-16)\n• [Country Risk: Drivers, Measures and Investment Implications – The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (2026-07-05)",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-01_12-04.html"
+      }
+    }
+  ]
+}
