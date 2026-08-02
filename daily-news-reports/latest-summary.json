@@ -1,33 +1,33 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-02 22:08",
-      "description": "掃描40個來源，成功27個、失敗13個。以下前4大主題經比對後，全部與今天07:08的報告重複：",
+      "title": "每日資訊彙整 2026-08-03 07:10",
+      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI晶片、運算基礎設施與供應鏈投資熱潮（4個來源）⚠️ 與今天07:08重複",
-          "value": "• [Can AMD Break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (2026-07-29)\n• [The State Of AI Infrastructure](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) — ARK Invest (2026)\n• [EP331 AI十大科技趨勢全解析](https://www.youtube.com/watch?v=oitLoeQEQCA) — 曲博科技教室 (2026)\n• [AI供應鏈還能上車？PCB女王點名族群](https://www.youtube.com/watch?v=YpNAfckA4PU) — 今周刊 (2026-07-05)",
+          "name": "01. AI晶片、記憶體與半導體資本支出熱潮（3個來源）",
+          "value": "• [Can AMD Break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (約2026-07-29)\n• [N2 Arrives, Capex Climbs: TSMC Doubles Down on AI Investment](https://en.macromicro.me/blog/n2-arrives-capex-climbs-tsmc-doubles-down-on-ai-investment) — 財經M平方 MacroMicro (2026-07-22)\n• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
           "inline": false
         },
         {
-          "name": "02. AI如何重塑創業與科技思潮（4個來源）⚠️ 與今天07:08重複",
-          "value": "• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026年6-7月)\n• [Generalist Intelligence: The Off Switch](https://www.generalist.com/p/generalist-intelligence-june-19) — The Generalist (2026-06-19)\n• [A Catechism for Robots](https://kk.org/thetechnium/a-catechism-for-robots/) — Kevin Kelly (2026-04-13)",
+          "name": "02. 總體經濟隱憂與地緣政治風險評估（3個來源）",
+          "value": "• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu（Interconnected） (約2026-07-26)\n• [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (約2026-07-05)\n• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (約2026-01-02)",
           "inline": false
         },
         {
-          "name": "03. 總體經濟隱憂與科技股獲利疑慮（3個來源）⚠️ 與今天07:08重複",
-          "value": "• [Markets Weekly August 1, 2026](https://www.youtube.com/watch?v=fIY6Bm88VGs) — Financial Times (2026-08-01)\n• [央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — 財經M平方 MacroMicro (2026-07-27)\n• [H1 2026 Performance Update](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu (2026-07-24)",
+          "name": "03. 創業者精神與造富之道（3個來源）",
+          "value": "• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (約2026年7月中)\n• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026年6月中)\n• [Travis is Back](https://a16z.com/travis-is-back/) — a16z (約2026-07-22)",
           "inline": false
         },
         {
-          "name": "04. 地緣政治與全球化風險升溫（3個來源）⚠️ 與今天07:08重複",
-          "value": "• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (2026-07-26)\n• [Country Risk: The 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (2026-07)\n• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-02)",
+          "name": "04. AI技術思潮、生態系建構與發展史回顧（3個來源）",
+          "value": "• [Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden](https://www.youtube.com/watch?v=vPnVTHYplrQ) — Sequoia Capital (約2026-07-14)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (約2026-07-13)\n• [ITS, Eliza & MIT's AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk) — Computerphile (約2026-07-30)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-02_22-08.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-03_07-10.html"
       }
     }
   ]
