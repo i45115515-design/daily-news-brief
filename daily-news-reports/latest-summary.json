@@ -1,33 +1,33 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-02 07:08",
-      "description": "掃描40個來源，成功30個、失敗10個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-02 22:08",
+      "description": "掃描40個來源，成功27個、失敗13個。以下前4大主題經比對後，全部與今天07:08的報告重複：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI晶片與運算基礎設施投資熱潮（5個來源）",
-          "value": "• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [Can AMD break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (2026-07-26)\n• [On The Ground At The 2026 World AI Conference (Part II)](https://research.gavekal.com/) — Gavekal Research (2026-07-30)\n• [光進銅退還是光銅並進？獨家解析輝達 GTC 2026](https://www.youtube.com/watch?v=1Rms3FYgfPo) — 曲博科技教室 (2026-03-27)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)",
+          "name": "01. AI晶片、運算基礎設施與供應鏈投資熱潮（4個來源）⚠️ 與今天07:08重複",
+          "value": "• [Can AMD Break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (2026-07-29)\n• [The State Of AI Infrastructure](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) — ARK Invest (2026)\n• [EP331 AI十大科技趨勢全解析](https://www.youtube.com/watch?v=oitLoeQEQCA) — 曲博科技教室 (2026)\n• [AI供應鏈還能上車？PCB女王點名族群](https://www.youtube.com/watch?v=YpNAfckA4PU) — 今周刊 (2026-07-05)",
           "inline": false
         },
         {
-          "name": "02. 美股/AI股評價過熱與修正疑慮（4個來源）",
-          "value": "• [The Copium Wars (2026.30)](https://stratechery.com/2026/the-copium-wars/) — Stratechery (2026-07-24)\n• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu (2026-07-24)\n• [大賣空貝瑞狙擊美光 修正來了嗎?](https://www.youtube.com/watch?v=vkwgbSsMB2A) — 今周刊 (2026-07-07)\n• [製造業震盪，本週關注美國非農發布](https://sc.macromicro.me/blog/mm-preopening-for-the-week-the-manufacturing-industry-is-in-shock-pay-attention-to-the-us-nonfarm-release-this-week) — MacroMicro (2026年7月底/8月初)",
+          "name": "02. AI如何重塑創業與科技思潮（4個來源）⚠️ 與今天07:08重複",
+          "value": "• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026年6-7月)\n• [Generalist Intelligence: The Off Switch](https://www.generalist.com/p/generalist-intelligence-june-19) — The Generalist (2026-06-19)\n• [A Catechism for Robots](https://kk.org/thetechnium/a-catechism-for-robots/) — Kevin Kelly (2026-04-13)",
           "inline": false
         },
         {
-          "name": "03. AI如何重塑創業、媒體與內容生態（3個來源）",
-          "value": "• [New Media, One Year In](https://a16z.com/what-is-new-media-in-2026/) — a16z (2026-06-18)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (2026-07-14)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026年7月中旬)",
+          "name": "03. 總體經濟隱憂與科技股獲利疑慮（3個來源）⚠️ 與今天07:08重複",
+          "value": "• [Markets Weekly August 1, 2026](https://www.youtube.com/watch?v=fIY6Bm88VGs) — Financial Times (2026-08-01)\n• [央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — 財經M平方 MacroMicro (2026-07-27)\n• [H1 2026 Performance Update](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu (2026-07-24)",
           "inline": false
         },
         {
-          "name": "04. 中國與地緣政治動向（3個來源）",
-          "value": "• [The Limits of China's Military Reach](https://www.youtube.com/@ZeihanonGeopolitics) — Peter Zeihan (2026-07-31)\n• [台灣會好三十年 中國調整三十年](https://www.youtube.com/watch?v=GwS2_ApqMAk) — 財訊 (2026-06-26)\n• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-02)",
+          "name": "04. 地緣政治與全球化風險升溫（3個來源）⚠️ 與今天07:08重複",
+          "value": "• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (2026-07-26)\n• [Country Risk: The 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (2026-07)\n• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-02)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-02_07-08.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-02_22-08.html"
       }
     }
   ]
