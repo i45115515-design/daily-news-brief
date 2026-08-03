@@ -1,33 +1,28 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-03 07:10",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-03 22:08",
+      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題（本次3個主題皆與今天07:10報告重複）：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI晶片、記憶體與半導體資本支出熱潮（3個來源）",
-          "value": "• [Can AMD Break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (約2026-07-29)\n• [N2 Arrives, Capex Climbs: TSMC Doubles Down on AI Investment](https://en.macromicro.me/blog/n2-arrives-capex-climbs-tsmc-doubles-down-on-ai-investment) — 財經M平方 MacroMicro (2026-07-22)\n• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
+          "name": "01. AI晶片、運算基礎建設支出與財務疑慮（3個來源）⚠️與07:10重複",
+          "value": "• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)\n• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)\n• [Meta Earnings, Meta's Timing Problems, The Financial Tail](https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/) — Stratechery (2026-08-03)",
           "inline": false
         },
         {
-          "name": "02. 總體經濟隱憂與地緣政治風險評估（3個來源）",
-          "value": "• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu（Interconnected） (約2026-07-26)\n• [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (約2026-07-05)\n• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (約2026-01-02)",
+          "name": "02. 總體經濟隱憂與地緣政治風險（3個來源）⚠️與07:10重複",
+          "value": "• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (約2026年7月下旬)\n• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (約2026年7月)",
           "inline": false
         },
         {
-          "name": "03. 創業者精神與造富之道（3個來源）",
-          "value": "• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (約2026年7月中)\n• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026年6月中)\n• [Travis is Back](https://a16z.com/travis-is-back/) — a16z (約2026-07-22)",
-          "inline": false
-        },
-        {
-          "name": "04. AI技術思潮、生態系建構與發展史回顧（3個來源）",
-          "value": "• [Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden](https://www.youtube.com/watch?v=vPnVTHYplrQ) — Sequoia Capital (約2026-07-14)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (約2026-07-13)\n• [ITS, Eliza & MIT's AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk) — Computerphile (約2026-07-30)",
+          "name": "03. 創業精神、造富之道與科技思潮（2個來源）⚠️與07:10重複",
+          "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (2026-06-14)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (2026-07-13)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-03_07-10.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-03_22-08.html"
       }
     }
   ]
