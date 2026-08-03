@@ -1,28 +1,33 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-03 22:08",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題（本次3個主題皆與今天07:10報告重複）：",
+      "title": "每日資訊彙整 2026-08-04 07:09",
+      "description": "掃描40個來源，成功29個、失敗11個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI晶片、運算基礎建設支出與財務疑慮（3個來源）⚠️與07:10重複",
-          "value": "• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)\n• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)\n• [Meta Earnings, Meta's Timing Problems, The Financial Tail](https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/) — Stratechery (2026-08-03)",
+          "name": "01. AI晶片與運算基礎建設軍備競賽（5個來源）",
+          "value": "• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [Can AMD break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (約2026-07-29)\n• [DIGITIMES每日新聞20260708-E：Vera Rubin、NVIDIA Kyber機櫃](https://www.youtube.com/watch?v=2edDBi2ueRk) — DIGITIMES (2026-07-08)\n• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)\n• [Making a Billion Intelligent Machines](https://a16z.com/making-a-billion-intelligent-machines/) — a16z (2026-07-21)",
           "inline": false
         },
         {
-          "name": "02. 總體經濟隱憂與地緣政治風險（3個來源）⚠️與07:10重複",
-          "value": "• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (約2026年7月下旬)\n• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (約2026年7月)",
+          "name": "02. AI／科技股泡沫疑慮與獲利現金流轉弱反思（3個來源）",
+          "value": "• [2026.30: The Copium Wars](https://stratechery.com/2026/the-copium-wars/) — Stratechery (約2026-07-24)\n• [MM一週盤前：央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — 財經M平方 MacroMicro (約2026-08-01)\n• [The Buried $150B Bet Inside the Top 20 U.S. Stocks](https://www.youtube.com/watch?v=gAd5vMjlmAU) — WSJ (約2026-07-27)",
           "inline": false
         },
         {
-          "name": "03. 創業精神、造富之道與科技思潮（2個來源）⚠️與07:10重複",
-          "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (2026-06-14)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (2026-07-13)",
+          "name": "03. 地緣政治風險與總體經濟不確定性（4個來源）",
+          "value": "• [Ukraine's Military Reshuffling Highlights Resource Problems](https://www.youtube.com/watch?v=NNEi3RmD0sc) — Peter Zeihan (2026-07-24)\n• [Commodity Outlook in the Wake of the U.S.-Iran War](https://blog.gorozen.com/blog/commodity-outlook-in-the-wake-of-the-us-iran-war) — Goehring & Rozencwajg (約2026年7月下旬)\n• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [Country Risk 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (2026-07-05)",
+          "inline": false
+        },
+        {
+          "name": "04. 中國科技與經濟動向（3個來源）",
+          "value": "• [On The Ground At The 2026 World AI Conference (Part II)](https://research.gavekal.com/) — Gavekal Research (2026-07-30)\n• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnect.substack.com/p/h1-2026-performance-update-getting) — Kevin Xu (約2026-07-24)\n• [Newsletter #516: HHS Accelerates Drug Development As China Gains Ground](https://www.ark-invest.com/newsletters) — ARK Invest (2026-07-14)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-03_22-08.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-04_07-09.html"
       }
     }
   ]
