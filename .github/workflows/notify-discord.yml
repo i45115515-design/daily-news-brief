@@ -2,7 +2,7 @@ name: Notify Discord
 
 on:
   push:
-    branches: [main]
+    branches: [master, main]
     paths:
       - 'daily-news-reports/latest-summary.json'
 
@@ -17,6 +17,10 @@ jobs:
 
       - name: Send to Discord
         run: |
+          if [ -z "${{ secrets.DISCORD_WEBHOOK_URL }}" ]; then
+            echo "::error::DISCORD_WEBHOOK_URL repo secret is empty or not set. Add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
           HTTP_CODE=$(curl -s -o /tmp/resp.txt -w "%{http_code}" -X POST \
             -H "Content-Type: application/json" \
             -d @daily-news-reports/latest-summary.json \
