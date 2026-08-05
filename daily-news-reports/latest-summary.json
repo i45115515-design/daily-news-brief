@@ -1,30 +1,24 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-05 07:09",
-      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-05 22:16",
+      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題（皆與今天07:09報告主題重複）：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. 全球AI資本支出、晶片供需與競爭（4個來源）",
-          "value": "• [Meta Earnings, Meta's Timing Problems, The Financial Tail](https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/) — Stratechery (2026-08-03)\n• [Can AMD break the CUDA Moat? AMD Advancing AI 2026](https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing) — SemiAnalysis (2026-07-25)\n• [Partnering with Etched: Building the Inference Machine](https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/) — Sequoia Capital (2026-07-23)\n• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
+          "name": "01. 全球AI資本支出、算力/晶片供需與模型競爭（5個來源）⚠️與07:09重複",
+          "value": "• [Investing in Volta](https://a16z.com/announcement/investing-in-volta/) — a16z (2026-08-04)\n• [Kimi K3: The Manos, The Mythos, The Legendos](https://newsletter.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the) — SemiAnalysis (推估2026-08-03)\n• [A Script for Mark Zuckerberg](https://stratechery.com/2026/a-script-for-mark-zuckerberg/) — Stratechery (推估2026-08-03)\n• [True 3D DRAM](https://www.youtube.com/watch?v=byWZoKCdePo) — Asianometry (推估2026-07-29)\n• [Generalist Intelligence: RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
           "inline": false
         },
         {
-          "name": "02. 總體經濟與地緣政治風險、典範轉移（4個來源）",
-          "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [市場重新定價：庫存、資本開支與現金流三大訊號](https://sc.macromicro.me/blog/founder-s-article-market-repricing-three-key-signals-inventory-capital-expenditure-and-cash-flow) — 財經M平方 MacroMicro (約2026-07-31)\n• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (約2026-07-28)\n• [Country Risk 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (約2026-07)",
-          "inline": false
-        },
-        {
-          "name": "03. 中國科技實力與經濟動向（2個來源）",
-          "value": "• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnected.blog/archive/) — Kevin Xu (2026-07-24)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (約2026-01-02)",
+          "name": "02. 總體經濟、地緣政治風險與資源展望（4個來源）⚠️與07:09重複",
+          "value": "• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)\n• [Commodity Outlook in the Wake of the U.S.-Iran War](https://blog.gorozen.com/blog/commodity-outlook-in-the-wake-of-the-us-iran-war) — Goehring & Rozencwajg (推估2026-07-22)\n• [Globalisation Will Be DEAD in 3 Years](https://www.youtube.com/watch?v=4aOnMVrhTO0) — Peter Zeihan (推估2026-07底)\n• [Country Risk 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (2026年7月)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-05_07-09.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-05_22-16.html"
       }
     }
   ]
 }
-
