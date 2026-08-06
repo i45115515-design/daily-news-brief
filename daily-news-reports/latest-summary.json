@@ -1,18 +1,18 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-06 22:13",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-07 07:09",
+      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI資本支出與「泡沫」疑慮升溫（4個來源）⚠️ 與今天07:10報告重複",
-          "value": "• [Google Earnings, The Frontier Case, Amazon Earnings](https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/) — Stratechery (2026-08-05)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (推估2026-08-05)\n• [最完整的 AI 供應鏈拆解：掌握劇烈波動下的關鍵風險](https://www.macromicro.me/blog/market-update-the-most-complete-breakdown-of-the-ai-supply-chain-understanding-the-key-risks-amidst-dramatic-fluctuations) — 財經M平方 MacroMicro (推估2026-08-06)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (推估2026-07-10)",
+          "name": "01. 科技巨頭財報後AI資本支出／「泡沫」疑慮持續（2個來源）",
+          "value": "• [Google Earnings, The Frontier Case, Amazon Earnings](https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/) — Stratechery (推估2026-08-05)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-06_22-13.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-07_07-09.html"
       }
     }
   ]
