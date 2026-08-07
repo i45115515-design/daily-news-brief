@@ -1,18 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-07 22:26",
-      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-08 07:08",
+      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. 科技巨頭財報後AI資本支出／「泡沫」疑慮持續（2個來源）⚠️ 與今天07:09重複",
+          "name": "01. 科技巨頭財報後AI資本支出／「泡沫」疑慮持續（2個來源）",
           "value": "• [Google Earnings, The Frontier Case, Amazon Earnings](https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/) — Stratechery (2026-08-05)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (Interconnected) (2026-08-05)",
+          "inline": false
+        },
+        {
+          "name": "02. AI需求帶動記憶體（DRAM）產業熱潮（2個來源）",
+          "value": "• [Embedded Memories: The Next Generation](https://www.youtube.com/watch?v=iFoma1jUToU) — Asianometry (推估2026-06-21)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-07_22-26.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-08_07-08.html"
       }
     }
   ]
