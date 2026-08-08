@@ -43,6 +43,20 @@ git rev-parse HEAD origin/master
 - 通知完全交給 `.github/workflows/notify-discord.yml`：只要 `daily-news-reports/latest-summary.json` 的內容在 push 到 GitHub 後有變化，GitHub Actions 會自動轉發到 Discord。
 - 因此本 repo 唯一要做的事，就是把 `latest-summary.json` 寫對格式（Discord embed JSON）、成功 commit 且**驗證過確實 push 到 GitHub**。
 
+### ⚠️ 2026-08-09 發現：`DISCORD_WEBHOOK_URL` repo secret 從未設定過
+
+檢查 `Notify Discord` workflow 的完整執行歷史（截至 2026-08-09，共 13 次 run），**全部 13 次都是 failure**，卡在 "Send to Discord" 這個 step，錯誤訊息固定是：
+
+```
+::error::DISCORD_WEBHOOK_URL repo secret is empty or not set. Add it in Settings > Secrets and variables > Actions.
+```
+
+也就是說：即使本次已經修好 detached HEAD 造成的 push 問題、report 也確實 push 到 GitHub 了，Discord 通知本身從這個 workflow 建立以來就從來沒有成功發送過一次——跟 push 是否成功完全無關，是另一個獨立的問題。
+
+**這件事 agent session 自己無法修復**：需要使用者本人到 GitHub repo 的 Settings → Secrets and variables → Actions，新增一個名為 `DISCORD_WEBHOOK_URL` 的 repository secret，值是真正的 Discord webhook URL。Claude Code session 沒有權限寫入 repo secrets，也沒有這個 webhook URL 的值。
+
+如果之後的排程執行又發現 Discord 完全沒收到通知，**先查 `Notify Discord` workflow 最近一次 run 的 log**（用 GitHub Actions API／MCP 工具），優先確認是不是這個 secret 依然沒設定，不要一開始就假設是 push 或 detached HEAD 的問題。
+
 ## 內容規範
 
 - 這個 repo 完全公開，只放公開新聞摘要報告，絕對不要寫入任何使用者個人/敏感資料。
