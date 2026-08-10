@@ -1,19 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-10 22:17",
-      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-11 07:16",
+      "description": "掃描40個來源，成功28個、失敗12個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {
-          "name": "01. AI資本支出／運算基礎建設熱潮持續延燒，泡沫疑慮同步升溫（5個來源）⚠️ 與今天07:12的報告重複",
-          "value": "• [Google Earnings, The Frontier Case, Amazon Earnings](https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/) — Stratechery (2026-08-05)\n• [Gemini is Cooked but GCP is Cooking](https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking) — SemiAnalysis (2026-08-07)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (推估2026-06-01)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26，較舊)",
-          "inline": false
-        }
+        {"name": "01. AI資本支出／運算基礎建設持續加碼（2個來源）", "value": "• [Apple Earnings, More on Amazon's Earnings](https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/) — Stratechery (2026-08-10)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (推估2026-08-08)", "inline": false},
+        {"name": "02. 疲弱就業數據牽動央行政策與市場走勢（2個來源）", "value": "• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)\n• [Weak Jobs Report Fuels Record-High Stock Rally](https://www.youtube.com/watch?v=Ci0Xh0ZsN1I) — The Wall Street Journal (2026-08-07)", "inline": false},
+        {"name": "03. 信用／槓桿系統性風險升溫（2個來源）", "value": "• [What's Going on in Private Credit?](https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit) — Oaktree Capital (2026-04-09)\n• [韓國槓桿之亂 帶給台灣的啟示](https://www.youtube.com/watch?v=K3lc-dVCJTE) — 財訊 (推估2026-07-03)", "inline": false}
       ],
-      "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-10_22-17.html"
-      }
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-11_07-16.html"}
     }
   ]
 }
