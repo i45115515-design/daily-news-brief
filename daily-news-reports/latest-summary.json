@@ -1,15 +1,29 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-11 07:16",
-      "description": "掃描40個來源，成功28個、失敗12個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-11 22:15",
+      "description": "掃描40個來源，成功23個、失敗17個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出／運算基礎建設持續加碼（2個來源）", "value": "• [Apple Earnings, More on Amazon's Earnings](https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/) — Stratechery (2026-08-10)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (推估2026-08-08)", "inline": false},
-        {"name": "02. 疲弱就業數據牽動央行政策與市場走勢（2個來源）", "value": "• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)\n• [Weak Jobs Report Fuels Record-High Stock Rally](https://www.youtube.com/watch?v=Ci0Xh0ZsN1I) — The Wall Street Journal (2026-08-07)", "inline": false},
-        {"name": "03. 信用／槓桿系統性風險升溫（2個來源）", "value": "• [What's Going on in Private Credit?](https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit) — Oaktree Capital (2026-04-09)\n• [韓國槓桿之亂 帶給台灣的啟示](https://www.youtube.com/watch?v=K3lc-dVCJTE) — 財訊 (推估2026-07-03)", "inline": false}
+        {
+          "name": "01. AI資本支出／運算基礎建設持續加碼（2個來源）⚠️與今天07:16報告重複",
+          "value": "• [2026.32: Earnings and Learnings](https://stratechery.com/2026/earnings-and-learnings/) — Stratechery (2026-08-10)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)",
+          "inline": false
+        },
+        {
+          "name": "02. 地緣政治／國家風險牽動總體經濟與投資決策（2個來源）",
+          "value": "• [美伊戰爭打亂降息循環？26H2全球央行大解析](https://www.macromicro.me/blog/market-update-will-the-usiran-war-disrupt-the-interest-rate-cut-cycle-26h2-global-central-bank-analysis) — 財經M平方 MacroMicro (2026-08-06)\n• [Country Risk: The 2026 Edition](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — Aswath Damodaran (推估2026-07)",
+          "inline": false
+        },
+        {
+          "name": "03. AI時代下的新創建構與產品迭代方法論（2個來源）",
+          "value": "• [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) — a16z (2026-08-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund(ff.co) (推估2026-07)",
+          "inline": false
+        }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-11_07-16.html"}
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-11_22-15.html"
+      }
     }
   ]
 }
