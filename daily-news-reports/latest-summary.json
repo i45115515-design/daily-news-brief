@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-12 22:15",
-      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-13 07:09",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資料中心／晶片供應鏈的資本支出與風險（2個來源）⚠️與今天07:12重複", "value": "• [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Stratechery (2026-08-11)\n• [Ultra-High Interactivity on NVIDIA GPUs? – TileRT InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-10)", "inline": false},
-        {"name": "02. 全球央行貨幣政策與總體經濟典範轉移（2個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)", "inline": false}
+        {"name": "01. AI資料中心／晶片供應鏈的資本支出與風險（2個來源）", "value": "• [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Stratechery (2026-08-11)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)", "inline": false},
+        {"name": "02. 全球央行貨幣政策與總體經濟走向（2個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (推估2026年7月下旬)\n• [MM一週盤前：非農意外衰退、升息預期降溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-unexpectedly-weak-nonfarm-payrolls-and-cooling-interest-rate-hike-expectations-this-week-s-focus-is-on-the-us-cpi) — 財經M平方 MacroMicro (推估2026-08-09)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-12_22-15.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-13_07-09.html"}
     }
   ]
 }
