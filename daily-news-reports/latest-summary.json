@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-13 07:09",
-      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-13 22:20",
+      "description": "掃描40個來源，成功17個、失敗23個。本次因網路白名單封鎖YouTube網域，16個YouTube頻道全數無法取得資料，未發現符合2個以上獨立來源同時報導門檻的共同主題。",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資料中心／晶片供應鏈的資本支出與風險（2個來源）", "value": "• [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Stratechery (2026-08-11)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)", "inline": false},
-        {"name": "02. 全球央行貨幣政策與總體經濟走向（2個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (推估2026年7月下旬)\n• [MM一週盤前：非農意外衰退、升息預期降溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-unexpectedly-weak-nonfarm-payrolls-and-cooling-interest-rate-hike-expectations-this-week-s-focus-is-on-the-us-cpi) — 財經M平方 MacroMicro (推估2026-08-09)", "inline": false}
+        {"name": "⚠️ 本次無跨來源重複主題", "value": "多數來源因網路連線限制（尤其全部YouTube頻道）無法取得資料，成功取得的17個來源之間內容彼此獨立，未形成2個以上來源共同報導的主題。詳見完整報告。", "inline": false},
+        {"name": "本次較值得留意的單一來源資訊", "value": "• [Record high krone return in the first half of the year](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/record-high-krone-return-in-the-first-half-of-the-year/) — NBIM (2026-08-12)\n• [Knowing When to Stop](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) — a16z (2026-08-06)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-13_07-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-13_22-20.html"}
     }
   ]
 }
