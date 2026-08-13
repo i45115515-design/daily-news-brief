@@ -1,14 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-13 22:20",
-      "description": "掃描40個來源，成功17個、失敗23個。本次因網路白名單封鎖YouTube網域，16個YouTube頻道全數無法取得資料，未發現符合2個以上獨立來源同時報導門檻的共同主題。",
+      "title": "每日資訊彙整 2026-08-13 23:53",
+      "description": "掃描40個來源，成功18個、失敗22個（16個YouTube頻道因網路白名單全數無法取得）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "⚠️ 本次無跨來源重複主題", "value": "多數來源因網路連線限制（尤其全部YouTube頻道）無法取得資料，成功取得的17個來源之間內容彼此獨立，未形成2個以上來源共同報導的主題。詳見完整報告。", "inline": false},
-        {"name": "本次較值得留意的單一來源資訊", "value": "• [Record high krone return in the first half of the year](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/record-high-krone-return-in-the-first-half-of-the-year/) — NBIM (2026-08-12)\n• [Knowing When to Stop](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) — a16z (2026-08-06)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)", "inline": false}
+        {"name": "01. AI推理運算基礎建設與新創布局（2個來源）", "value": "• [Ultra-High Interactivity on NVIDIA GPUs?](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-10)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)", "inline": false},
+        {"name": "02. AI投資過熱／估值泡沫疑慮（2個來源）", "value": "• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)\n• [The Situational Awareness Blow-up](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (推估2026-08-11)", "inline": false},
+        {"name": "03. 利率與全球央行貨幣政策展望 ⚠️與今天07:09報告重複（2個來源）", "value": "• [The Natural Rate of Interest](https://research.gavekal.com/) — Gavekal Research (2026-08-11)\n• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — MacroMicro (2026-08-04)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-13_22-20.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-13_23-53.html"}
     }
   ]
 }
