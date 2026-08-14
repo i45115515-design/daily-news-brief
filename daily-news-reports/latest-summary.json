@@ -1,14 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-14 07:25",
-      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-14 22:16",
+      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI推理/資料中心基礎建設投資持續加碼（3個來源）", "value": "• [SpaceX 10GW in 2027 – Why It's Real, Will Drive $500B ARR for SpaceX...](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-10)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Chart of the Day（雲端業者成長再加速）](https://www.coatue.com/c/takes/chart-of-the-day-2026-07-21) — Coatue (2026-07-21)", "inline": false},
-        {"name": "02. AI投資過熱／估值泡沫疑慮升溫（2個來源）", "value": "• [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Stratechery (2026-08-11)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (Interconnected) (2026-08-05)", "inline": false}
+        {"name": "01. 全球總體經濟：財富效應、央行政策與主權基金布局（4個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07)\n• [How Far Can Wealth Effects Go?](https://research.gavekal.com/teaser/how-far-can-wealth-effects-go/) — Gavekal Research (2026-08-12)\n• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)\n• [Half-year report 2026](https://www.nbim.no/en/news-and-insights/reports/2026/half-year-report-2026/) — NBIM (2026-08-12)", "inline": false},
+        {"name": "02. AI原生工具與智能體正在重塑內容創作與產品開發（4個來源，信心度中）", "value": "• [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) — a16z (2026-08-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)\n• [Introducing Generalist Intelligence](https://www.generalist.com/p/introducing-generalist-intelligence) — The Generalist (2026-06-12)\n• [Latent Space as a New Medium](https://kk.org/thetechnium/latent-space-as-a-new-medium/) — Kevin Kelly (2026-07-13)", "inline": false},
+        {"name": "03. AI推理/資料中心基礎建設投資持續加碼（3個來源）⚠️ 與今天 07:25 的報告重複", "value": "• [SpaceX 10GW in 2027 – Why It's Real...](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-10)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Chart of the Day（雲端業者成長再加速）](https://www.coatue.com/c/takes/chart-of-the-day-2026-07-21) — Coatue (2026-07-21)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-14_07-25.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-14_22-16.html"}
     }
   ]
 }
