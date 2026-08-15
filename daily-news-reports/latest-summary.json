@@ -1,16 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-15 07:09",
-      "description": "掃描40個來源，成功23個、失敗17個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-15 22:09",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題（本次僅找到2個跨來源重複主題）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 全球總體經濟：財富效應、央行政策與主權基金布局（3個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [Half-year report 2026](https://www.nbim.no/en/news-and-insights/reports/2026/half-year-report-2026/) — NBIM (2026-08-12)\n• [MM一週盤前：非農意外衰退、升息預期降溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-unexpectedly-weak-nonfarm-payrolls-and-cooling-interest-rate-hike-expectations-this-week-s-focus-is-on-the-us-cpi) — MacroMicro (2026-08-09)", "inline": false},
-        {"name": "02. AI推理/資料中心基礎建設投資持續加碼（2個來源）", "value": "• [SpaceX 10GW in 2027 – Why It's Real](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)", "inline": false},
-        {"name": "03. AI原生工具與創業者建構思維正在重塑產品開發（2個來源）", "value": "• [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) — a16z (2026-08-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false},
-        {"name": "04. 能源供給與地緣政治風險：石油/OPEC（2個來源，信心度中）", "value": "• [Global Energy Stressors: Europe's Oil Supply Problem](https://www.youtube.com/watch?v=m5EbXdrljQs) — Peter Zeihan (2026-08-12)\n• [Could the Tanks Run Dry - UAE Leaves OPEC](https://www.gorozen.com/commentaries/2026-q1) — Goehring & Rozencwajg (2026-05-21)", "inline": false}
+        {"name": "01. AI推理/資料中心基礎建設投資持續加碼（4個來源）⚠️與今天07:09報告重複", "value": "• [2026.33: The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (2026-08-14)\n• [Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-10)\n• [How Companies Are Building Their Own Intelligence](https://www.youtube.com/watch?v=bMMv0bZzONg) — Sequoia Capital YouTube (約2026-08-11)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital官網 (2026-08-12)", "inline": false},
+        {"name": "02. 全球總體經濟：央行政策、主權基金與總經數據（4個來源）⚠️與今天07:09報告重複", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater (2026-07-27)\n• [Record high krone return in the first half of the year](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/record-high-krone-return-in-the-first-half-of-the-year/) — NBIM (2026-08-12)\n• [A Shifting Global Currency Landscape](https://research.gavekal.com/article/a-shifting-global-currency-landscape/) — Gavekal Research (2026-08-06)\n• [【MM一週盤前】非農意外衰退、升息預期降溫，本週聚焦美國CPI！](https://www.macromicro.me/blog/mm-weekly-premarket-update-unexpectedly-weak-nonfarm-payrolls-and-cooling-interest-rate-hike-expectations-this-week-s-focus-is-on-the-us-cpi) — 財經M平方 MacroMicro (約2026-08-08)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-15_07-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-15_22-09.html"}
     }
   ]
 }
