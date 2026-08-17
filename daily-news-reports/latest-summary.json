@@ -1,13 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-17 22:09",
-      "description": "掃描40個來源，成功24個、失敗16個（YouTube類來源因網路白名單限制成功率偏低）。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-18 07:11",
+      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設／算力資本支出與泡沫疑慮（6個來源）⚠️與今天07:12重複", "value": "• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Full of Cold Air - PJM's $12B modeling mistake](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) — SemiAnalysis (約2026-08-17)\n• [The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (2026-08-10)\n• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)\n• [資料中心供電合作案(Idemitsu/Hedgehog)](https://marathoncapital.com/news-events) — Marathon Capital (2026-07-21)", "inline": false}
+        {"name": "01. AI投資熱潮的泡沫疑慮升溫（2個來源）", "value": "• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (Interconnected) (2026-08-05)\n• [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (2026-08-10)", "inline": false},
+        {"name": "02. 全球總體經濟／貨幣格局出現典範轉移（2個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)\n• [A Shifting Global Currency Landscape](https://research.gavekal.com/article/a-shifting-global-currency-landscape/) — Gavekal Research (約2026-08-06)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-17_22-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-18_07-11.html"}
     }
   ]
 }
