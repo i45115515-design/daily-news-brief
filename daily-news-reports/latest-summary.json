@@ -1,24 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-18 22:13",
-      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-19 07:11",
+      "description": "掃描40個來源，成功24個、失敗16個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {
-          "name": "01. AI投資狂潮降溫了嗎？泡沫與資本支出辯論升溫（4個來源）⚠️與今天07:11報告重複",
-          "value": "• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)\n• [The Situational Awareness Blow-up](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (約2026-08-10)\n• [Understanding AI's More Dangerous Phase](https://www.bridgewater.com/understanding-ais-more-dangerous-phase-content-ctd) — Bridgewater Associates (約2026-06-01)\n• [2026.33: The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (約2026-08-14)",
-          "inline": false
-        },
-        {
-          "name": "02. AI推理（Inference）基礎設施成為投資與技術焦點（2個來源）",
-          "value": "• [Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-10)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)",
-          "inline": false
-        }
+        {"name": "01. AI基礎建設資本支出熱潮與市場估值疑慮持續發酵（4個來源）", "value": "• [2026.33: The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (2026-08-10所在週)\n• [SpaceX 10GW in 2027 – Why It's Real...](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026年8月上旬)\n• [Our Response to a Widely Circulated Market Valuation Chart](https://www.coatue.com/c/takes/our-response-to-a-widely-circulated-market-valuation-chart) — Coatue (2026-08-03)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)", "inline": false}
       ],
-      "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-18_22-13.html"
-      }
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-19_07-11.html"}
     }
   ]
 }
