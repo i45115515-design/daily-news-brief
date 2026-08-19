@@ -1,13 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-19 22:12",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-20 07:16",
+      "description": "掃描40個來源，成功24個、失敗16個（本次YouTube網域完全被環境網路政策封鎖）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出／新創投資熱潮與估值疑慮持續延燒（3個來源）⚠️ 與今天07:11報告重複", "value": "• [Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (2026-08-18)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (2026-08-10)", "inline": false}
+        {"name": "01. AI晶片、資料中心與推論運算基礎建設熱潮（3個來源）", "value": "• [Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (2026-08-18)\n• [Ultra-High Interactivity on NVIDIA GPUs? TileRT on InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-16)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)", "inline": false},
+        {"name": "02. AI投資熱潮的疑慮與資金循環模式（2個來源，關聯性較弱⚠️）", "value": "• [Nvidia Backs OpenAI Data Center...](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (2026-08-18)\n• [The Situational Awareness Blow-up](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (2026-08-10)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-19_22-12.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-20_07-16.html"}
     }
   ]
 }
