@@ -1,15 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-20 22:19",
-      "description": "掃描40個來源，成功34個、失敗6個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-21 07:15",
+      "description": "掃描40個來源，成功/部分取得28個、完全失敗12個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI推論運算與資料中心基礎建設投資熱潮持續（3個來源）⚠️ 與今天07:16報告重複", "value": "• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (約2026-08-07)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Our Continued Partnership with Anthropic](https://www.coatue.com/blog/press/our-continued-partnership-with-anthropic) — Coatue (約2026-07-20)", "inline": false},
-        {"name": "02. Stripe收購OpenRouter：AI API中介層成為併購焦點（2個來源，同日發布）", "value": "• [OpenRouter & Stripe: The Intelligence Network](https://a16z.com/openrouter-stripe-the-intelligence-network/) — a16z (2026-08-19)\n• [Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model](https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/) — Stratechery (2026-08-19)", "inline": false},
-        {"name": "03. 石油市場：地緣政治與供給疑慮升溫（2個來源）", "value": "• [The Shadow Fleet Is Sinking](https://www.youtube.com/watch?v=muko3_2L9gY) — Peter Zeihan (約2026-08-19)\n• [Why Haven't the Tanks Run Dry? What Investors Are Missing in Oil.](https://blog.gorozen.com/blog/why-havent-the-tanks-run-dry) — Goehring & Rozencwajg (2026-08-17)", "inline": false}
+        {"name": "01. AI資本支出／基礎建設投資熱潮與泡沫疑慮並存（4個來源）", "value": "• [Ultra-High Interactivity on NVIDIA GPUs? TileRT on InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (2026-08-10)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [2026.33: The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (約2026-08-10)\n• [The Situational Awareness Blow-up](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (2026年8月)", "inline": false},
+        {"name": "02. 總體經濟：通膨降溫 vs. 殖利率風險升溫的兩極看法（2個來源）", "value": "• [美國通膨溫和、銷售降溫，市場不再定價今年升息](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-inflation-is-moderate-sales-are-cooling-and-the-expected-rate-hike-this-year-has-been-reduced-to-less-than-1-basis-point) — 財經M平方 MacroMicro (約2026-08中旬)\n• [Gavekal Research 研究首頁（Louis-Vincent Gave專欄，討論殖利率與利差風險）](https://research.gavekal.com/) — Gavekal Research (2026-08-19)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-20_22-19.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-21_07-15.html"}
     }
   ]
 }
