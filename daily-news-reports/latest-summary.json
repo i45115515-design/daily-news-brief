@@ -1,14 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-21 22:10",
-      "description": "掃描40個來源，成功31個、失敗9個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-22 07:09",
+      "description": "掃描40個來源，成功/部分取得26個、完全無法取得14個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出／基礎建設投資熱潮與集中度風險（2個來源）⚠️ 與今天07:15的報告重複", "value": "• [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Stratechery (2026-08-11)\n• [SpaceX 10GW in 2027 – Why It's Real, Will Drive $500B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)", "inline": false},
-        {"name": "02. 聯準會重大政策決策與鷹鴿立場分歧（2個來源）", "value": "• [Yardeni Research｜The Hawks Versus Owls At The Fed](https://en.macromicro.me/blog/yardeni-research-the-hawks-versus-owls-at-the-fed) — 財經M平方 MacroMicro (2026-08-19)\n• [This Is One of the Most Important Policy Decisions of Our Lifetime（NYT客座評論）](https://www.bridgewater.com/in-the-news) — Bridgewater Associates (2026-08-14)", "inline": false}
+        {"name": "01. AI基礎建設／運算力大舉投資熱潮（5個來源）", "value": "• [SpaceX 10GW in 2027 – Why It's Real...](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Stripe Acquiring OpenRouter, Aggregating AI?](https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/) — Stratechery (2026-08-17)\n• [The Situational Awareness Blow-up](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — Aswath Damodaran (2026-08-10)\n• [The State Of AI Infrastructure](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) — ARK Invest (2026-03-26)", "inline": false},
+        {"name": "02. 創辦人／新創建構典範轉移（3個來源）", "value": "• [Rise of the Borderless Founder](https://a16z.com/rise-of-the-borderless-founder/) — a16z (2026-08-20)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)\n• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (2026-06-14)", "inline": false},
+        {"name": "03. 聯準會利率政策與美國總體經濟走向（2個來源）", "value": "• [【MM一週盤前】美國通膨溫和、銷售降溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-inflation-is-moderate-sales-are-cooling-and-the-expected-rate-hike-this-year-has-been-reduced-to-less-than-1-basis-point) — MacroMicro (2026-08-14)\n• This Is One of the Most Important Policy Decisions of Our Lifetime — Bridgewater Associates (2026-08-14)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-21_22-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-22_07-09.html"}
     }
   ]
 }
