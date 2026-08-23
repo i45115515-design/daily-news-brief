@@ -1,16 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-23 07:09",
-      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-23 22:09",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題（皆與今天07:09的報告重疊）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出是否過熱？投資紀律與泡沫疑慮持續發酵（3個來源）", "value": "• [The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (2026-08-15)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) — SemiAnalysis (2026年)", "inline": false},
-        {"name": "02. AI模型能力軍備競賽：開源追趕與「是否已達成AGI」辯論（3個來源）", "value": "• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (2026-08-21)\n• [OpenAI's Joshua Achiam: Did We Already Reach AGI?](https://a16z.com/podcast/openais-joshua-achiam-did-we-already-reach-agi/) — a16z Podcast (2026-08-04)\n• [Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next](https://www.youtube.com/watch?v=SlGRN8jh2RI) — Sequoia Capital YouTube (日期未確認)", "inline": false},
-        {"name": "03. 總體經濟：央行政策路徑、殖利率上升與勞動市場走弱疑慮（2個來源）", "value": "• 能源價格上漲、公債殖利率上升與利差擴大 — Gavekal Research (2026-08-19，https://research.gavekal.com/)\n• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)", "inline": false},
-        {"name": "04. AI基礎建設與晶片供應鏈投資熱潮（2個來源）", "value": "• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [EMIB-T, HBM4 Challenges, Microfluidic Cooling, Photonic Interconnects (ECTC 2026)](https://newsletter.semianalysis.com/p/ectc2026) — SemiAnalysis (2026年)", "inline": false}
+        {"name": "01. AI資本支出/資料中心建設熱潮的商業模式被市場檢視（4個來源）⚠️與今天07:09重複", "value": "• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (約2026-08-10)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• MM一週盤前：關注央行年會與輝達財報 — MacroMicro (約2026-08-17)", "inline": false},
+        {"name": "02. 殖利率上升、能源價格牽動總體經濟與央行政策成焦點（2個來源）⚠️與今天07:09重複", "value": "• MM一週盤前：財政部出手緩解美債壓力 — MacroMicro (約2026-08-17)\n• 能源價格、殖利率與利差同步上升，建議降低風險 — Gavekal Research/Louis-Vincent Gave (2026-08-19)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-23_07-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-23_22-09.html"}
     }
   ]
 }
