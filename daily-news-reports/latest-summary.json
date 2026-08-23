@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-23 22:09",
-      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題（皆與今天07:09的報告重疊）：",
+      "title": "每日資訊彙整 2026-08-24 07:09",
+      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出/資料中心建設熱潮的商業模式被市場檢視（4個來源）⚠️與今天07:09重複", "value": "• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (約2026-08-10)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• MM一週盤前：關注央行年會與輝達財報 — MacroMicro (約2026-08-17)", "inline": false},
-        {"name": "02. 殖利率上升、能源價格牽動總體經濟與央行政策成焦點（2個來源）⚠️與今天07:09重複", "value": "• MM一週盤前：財政部出手緩解美債壓力 — MacroMicro (約2026-08-17)\n• 能源價格、殖利率與利差同步上升，建議降低風險 — Gavekal Research/Louis-Vincent Gave (2026-08-19)", "inline": false}
+        {"name": "01. AI熱潮邁入商業化與競爭實績的檢驗期（4個來源）", "value": "• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (2026-08-21)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-21)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Worldbuilding with Spatial Intelligence](https://kevinkelly.substack.com/p/worldbuilding-with-spatial-intelligence) — Kevin Kelly (約2026-08-14)", "inline": false},
+        {"name": "02. 創業建議與新創經營哲學（3個來源）", "value": "• [How to Earn a Billion Dollars](http://paulgraham.com/earn.html) — Paul Graham (約2026-06-14)\n• [Rise of the Borderless Founder](https://a16z.com/rise-of-the-borderless-founder/) — a16z (2026-08-20)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (2026-07-14)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-23_22-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-24_07-09.html"}
     }
   ]
 }
