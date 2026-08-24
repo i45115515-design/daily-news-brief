@@ -1,15 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-24 22:09",
-      "description": "掃描40個來源，成功26個、失敗14個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-25 07:09",
+      "description": "掃描40個來源，成功20個、失敗20個（多數為YouTube頻道，因WebSearch額度用罄與網路出口限制所致）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI熱潮持續發酵：研究、總體經濟到投資人視角全面聚焦（7個來源）⚠️部分與今天07:09報告重複", "value": "• [Why AI Models Stop Learning, and How to Start It Again](https://www.youtube.com/watch?v=xH7U7w9Qzlo) — Sequoia Capital YouTube (2026-08-19)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree Capital/Howard Marks (2026-02-26)\n• [The Macroeconomics of AI: Part II](https://research.gavekal.com/) — Gavekal Research (2026-08-21)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (2026-06-01)\n• [Own Your Intelligence: Sovereign AI Guide](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false},
-        {"name": "02. 南韓金融市場動向（2個來源）", "value": "• [South Korea's Bull Market Return](https://en.macromicro.me/blog/south-korea-s-return-to-a-bull-market-what-the-economy-and-leverage-data-tell-us) — 財經M平方 MacroMicro (2026-08-20)\n• [韓國槓桿之亂 帶給台灣的啟示](https://www.youtube.com/watch?v=K3lc-dVCJTE) — 財訊 (2026-07-03)", "inline": false},
-        {"name": "03. 創業/新創經營建議（2個來源）⚠️與今天07:09報告完全重複", "value": "• [How to Earn a Billion Dollars](http://paulgraham.com/earn.html) — Paul Graham (2026-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group/ff.co (2026-07-14)", "inline": false}
+        {"name": "01. AI熱潮持續延燒：基礎建設、自主代理到估值疑慮（5個來源）", "value": "• [Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/) — Stratechery (2026-08-24)\n• [AgentX - InferenceXv3: CUDA Moat in Agentic Inferencing?](https://newsletter.semianalysis.com/p/agentx-inferencexv3-does-cuda-moat) — SemiAnalysis (2026-08-23)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-21)\n• [Own Your Intelligence: Sovereign AI Guide](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)\n• [Cursor + SpaceXAI: fastest iterating team wins](https://a16z.com/cursor-spacexai-the-fastest-iterating-team-wins/) — a16z (2026-08-14)", "inline": false},
+        {"name": "02. 創業/新創經營建議（2個來源）", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group/ff.co (2026-07-14)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-24_22-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-25_07-09.html"}
     }
   ]
 }
