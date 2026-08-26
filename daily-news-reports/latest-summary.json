@@ -1,15 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-26 22:12",
-      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-27 07:17",
+      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題（本次因網路政策封鎖多數網站直接存取，改以搜尋引擎備援查找，部分項目可能非當下最新）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI熱潮延燒：主權AI、晶片推論之爭與估值提問（4個來源）⚠️ 與今天07:11報告重複", "value": "• [Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/) — Stratechery (2026-08-24)\n• [AgentX - InferenceXv3](https://newsletter.semianalysis.com/p/agentx-inferencexv3-does-cuda-moat) — SemiAnalysis (約2026-08-24)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [Own Your Intelligence](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false},
-        {"name": "02. 新創經營心法／打造十億美元事業（2個來源）⚠️ 與今天07:11報告重複", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026-06)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (2026-07-14)", "inline": false},
-        {"name": "03. 能源儲能/電力基礎建設吸引資本進場（2個來源）", "value": "• [Investing in Volta](https://a16z.com/announcement/investing-in-volta/) — a16z (2026-08-04)\n• [Marathon Capital Advises Kyuden International...](https://marathoncapital.com/news-events/marathon-capital-advises-kyuden-international-on-equity-investment-in-spearmint-energys-texas-battery-storage-projects) — Marathon Capital (2026-07-22)", "inline": false}
+        {"name": "01. OpenAI客製晶片Jalapeño效能超越Nvidia Blackwell（2個來源）", "value": "• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (2026-08-25)\n• [Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño](https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/) — Stratechery (2026-08-26)", "inline": false},
+        {"name": "02. 股市創高後修正疑慮：南韓牛市數據與台股基金經理人示警（2個來源）", "value": "• [South Korea's Bull Market Return](https://en.macromicro.me/blog/south-korea-s-return-to-a-bull-market-what-the-economy-and-leverage-data-tell-us) — 財經M平方 MacroMicro (2026-08-21)\n• [張錫：不要以為這次不一樣 漲多必然修正](https://www.youtube.com/watch?v=HMNRsW4dfwU) — 財訊 YouTube (約2026-08中旬)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-26_22-12.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-27_07-17.html"}
     }
   ]
 }
