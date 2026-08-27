@@ -1,16 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-27 22:08",
-      "description": "掃描40個來源，成功29個、失敗11個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-28 07:10",
+      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 地緣政治與保護主義升溫，重塑全球資源與貿易格局（3個來源）", "value": "• [The Collapse of the World's Strategic Straits - Part 2](https://www.youtube.com/watch?v=xDOkW-bKMOg) — Peter Zeihan (2026-08-19)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (約2026年5月)\n• [The Investment Consequences Of The US-Canada Trade Spat](https://research.gavekal.com/article/the-investment-consequences-of-the-us-canada-trade-spat/) — Gavekal Research (2026-08-24)", "inline": false},
-        {"name": "02. AI 熱潮降溫：市場開始質疑泡沫與獲利基本面（2個來源）", "value": "• [Fear of AI Bubble Could Pop The Bubble](https://interconnect.substack.com/p/fear-of-ai-bubble-could-pop-the-bubble) — Kevin Xu (2026-08-05)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false},
-        {"name": "03. 創投圈熱議新創公司的組建與擴張新模式（2個來源）", "value": "• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)\n• [Rise of the Borderless Founder](https://a16z.com/rise-of-the-borderless-founder/) — a16z (2026-08-20)", "inline": false},
-        {"name": "04. 「如何賺到一億美元」成為科技思想圈熱議題材（2個來源）", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026年6月)\n• [A Billion Dollars](https://kk.org/thetechnium/a-billion-dollars/) — Kevin Kelly (2026-08-24)", "inline": false}
+        {"name": "01. OpenAI自研AI晶片「Jalapeño」直逼Nvidia Blackwell（2個來源）", "value": "• [Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño](https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/) — Stratechery (2026-08-26)\n• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (2026-08-25)", "inline": false},
+        {"name": "02. AI熱潮下的路線之爭：主權AI布局與估值疑慮（2個來源）", "value": "• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide/) — Sequoia Capital (2026-08-19)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-21)", "inline": false},
+        {"name": "03. 創投圈熱議新創公司的組建與擴張新模式（2個來源）", "value": "• [Rise of the Borderless Founder](https://a16z.com/rise-of-the-borderless-founder/) — a16z (2026-08-20)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false},
+        {"name": "04. 「十億美元」成為科技思想圈熱議題材（2個來源）", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (約2026年6月)\n• [A Billion Dollars](https://kk.org/thetechnium/a-billion-dollars/) — Kevin Kelly (2026-08-24)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-27_22-08.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-28_07-10.html"}
     }
   ]
 }
