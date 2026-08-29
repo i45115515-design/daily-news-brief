@@ -1,22 +1,17 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-29 07:11",
-      "description": "掃描40個來源，成功8個、失敗32個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-29 22:15",
+      "description": "掃描40個來源，10個完全無法取得資料，其餘多數過時或無法確認為最新。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI基礎建設資本支出「軍備競賽」持續加碼（6個來源）",
-          "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Sequoia Aims $10 Billion at AI, Reindustrialization](https://www.bloomberg.com/news/articles/2026-08-05/sequoia-aims-10-billion-at-ai-reindustrialization) — Sequoia Capital(Bloomberg報導) (2026-08-05)\n• [The CapEx Train Keeps Rolling](https://stratechery.com/2026/the-capex-train-keeps-rolling/) — Stratechery (2026年8月上旬)\n• [SpaceX 10GW in 2027](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)\n• [Gavekal Technologies: Briefing](https://research.gavekal.com/gavekal-technologies/gavekal-technologies-briefing/) — Gavekal Research (2026年8月初)",
-          "inline": false
-        },
-        {
-          "name": "02. 機構資金與主權基金加碼「太空+AI基建」概念資產（2個來源）",
-          "value": "• [Norway wealth fund reveals SpaceX stake, record $184B profit](https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html) — NBIM(CNBC報導) (2026-08-12)\n• [Ark Invest's Latest Portfolio Shifts: SpaceX Stake, Roblox Exit](https://blockonomi.com/ark-invests-latest-portfolio-shifts-37m-spacex-stake-96m-roblox-exit-in-august-2026/) — ARK Invest (2026年8月上旬)",
+          "name": "01. AI「炒作 vs 真實價值」估值辯論延燒（3個來源）",
+          "value": "• [Our Response to a Widely Circulated Market Valuation Chart](https://www.coatue.com/c/takes/our-response-to-a-widely-circulated-market-valuation-chart) — Coatue (2026-08-03)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [2026.35: Internet Hype and Real World Change](https://stratechery.com/2026/internet-hype-and-real-world-change/) — Stratechery (約2026-08-24)",
           "inline": false
         }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-29_07-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-29_22-15.html"}
     }
   ]
 }
