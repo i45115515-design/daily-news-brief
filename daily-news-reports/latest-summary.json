@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-30 07:15",
-      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-30 22:11",
+      "description": "掃描40個來源，取得部分資料30個、完全無法取得資料10個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI 產業現況、資本布局與估值疑慮同時受到多方檢視（4個來源）", "value": "• [a16z 成立11億美元Machine Age基金加速AI實體基礎建設](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/) — a16z (2026-08-28)\n• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (2026-08-21)\n• [AI's Bar Mitzvah Moment? From Hope & Hype to Hard Business Questions!](https://aswathdamodaran.substack.com/p/ais-bar-mitzvah-moment-from-hope) — Aswath Damodaran (2026-08-20)\n• [Without a Theory of Intelligence](https://kk.org/thetechnium/without-a-theory-of-intelligence/) — Kevin Kelly (約2026-08-24)", "inline": false}
+        {"name": "01. AI 產業現況、資本布局與估值疑慮持續受到多方檢視（6個來源）⚠️ 與今天 07:15 的報告重複", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [2026.35: Internet Hype and Real World Change](https://stratechery.com/2026/internet-hype-and-real-world-change/) — Stratechery (約2026-08-28)\n• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (約2026-08-25/26)\n• [The Macroeconomics of AI (Part II)](https://research.gavekal.com/) — Gavekal Research (2026-08-21)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (約2026-08-20)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-30_07-15.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-30_22-11.html"}
     }
   ]
 }
