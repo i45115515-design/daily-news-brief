@@ -1,13 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-08-30 22:11",
-      "description": "掃描40個來源，取得部分資料30個、完全無法取得資料10個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-08-31 07:12",
+      "description": "掃描40個來源，取得部分資料27個、完全無法取得資料13個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI 產業現況、資本布局與估值疑慮持續受到多方檢視（6個來源）⚠️ 與今天 07:15 的報告重複", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [2026.35: Internet Hype and Real World Change](https://stratechery.com/2026/internet-hype-and-real-world-change/) — Stratechery (約2026-08-28)\n• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (約2026-08-25/26)\n• [The Macroeconomics of AI (Part II)](https://research.gavekal.com/) — Gavekal Research (2026-08-21)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (約2026-08-20)", "inline": false}
+        {"name": "01. AI 是否為泡沫？估值與算力投資風險的反思（3個來源）", "value": "• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [算力證券化時代來臨：AI會重演2008次貸危機嗎](https://en.macromicro.me/blog/the-era-of-computing-power-securitization-has-arrived-will-ai-repeat-the-2008-subprime-crisis) — 財經M平方 MacroMicro (2026-08-21)\n• [Is It a Bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble) — Oaktree Capital / Howard Marks (2025-12-09)", "inline": false},
+        {"name": "02. AI晶片/算力軍備競賽：OpenAI自研晶片「Jalapeño」挑戰Nvidia（2個來源）", "value": "• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (2026-08-26)\n• [Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño](https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/) — Stratechery (約2026-08-25)\n• [Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (2026-08-18)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (2026-08-19)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-30_22-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-08-31_07-12.html"}
     }
   ]
 }
