@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-02 22:20",
-      "description": "掃描40個來源，成功31個、失敗9個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-03 07:11",
+      "description": "掃描40個來源，成功33個、失敗7個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出、晶片與電力基建投資持續加碼，估值與泡沫疑慮同步升溫（5個來源）⚠️與07:12報告重複", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Partnering with Preview](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [$12B ratepayers' money wasted, PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) — SemiAnalysis (2026-08-16)\n• [Our Response to a Market Valuation Chart](https://www.coatue.com/c/takes/our-response-to-a-widely-circulated-market-valuation-chart) — Coatue (約2026-07-20)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false},
-        {"name": "02. 傑克森霍爾年會後聯準會鷹派表態，市場關注利率與通膨政策走向（2個來源）", "value": "• [A DTR Moment For The Fed And Treasury](https://research.gavekal.com/) — Gavekal Research (2026-08-31)\n• [Jackson Hole 釋放偏鷹訊號，本週聚焦非農](https://www.macromicro.me/blog/mm-weekly-premarket-update-warsh-reiterates-commitment-to-combating-inflation-at-central-bank-meeting-focus-this-week-on-nonfarm) — 財經M平方 MacroMicro (約2026-08-29～08-31)", "inline": false}
+        {"name": "01. 地緣政治裂解下的戰略要地與資源爭奪：荷姆茲海峽風險成關鍵交集（3個來源）", "value": "• [Two Resource Grabs Reshaping Markets](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (約2026年上半年)\n• [The Collapse of the World's Strategic Straits - Part 2](https://www.youtube.com/watch?v=xDOkW-bKMOg) — Peter Zeihan (2026-08-19)\n• [Q2 2026 Natural Resource Market Commentary](https://www.gorozen.com/commentaries) — Goehring & Rozencwajg (約2026-09-02)", "inline": false},
+        {"name": "02. 全球央行貨幣政策分歧與公債市場走向持續受關注（2個來源）", "value": "• [Where Should One Buy Bonds?](https://research.gavekal.com/) — Gavekal Research (約2026-09-01)\n• [H2 2026 Global Central Bank Outlook](https://en.macromicro.me/blog/h2-2026-global-central-bank-outlook) — 財經M平方 MacroMicro (2026-08-04)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-02_22-20.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-03_07-11.html"}
     }
   ]
 }
