@@ -1,13 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-02 07:12",
-      "description": "掃描40個來源，成功35個、失敗5個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-02 22:20",
+      "description": "掃描40個來源，成功31個、失敗9個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出與晶片投資熱潮持續延燒，樂觀加碼與效益/泡沫疑慮並存（5個來源）", "value": "• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [Partnering with Preview](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face](https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/) — Stratechery (約2026-09-01)\n• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (約2026-08-26)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false}
+        {"name": "01. AI資本支出、晶片與電力基建投資持續加碼，估值與泡沫疑慮同步升溫（5個來源）⚠️與07:12報告重複", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Partnering with Preview](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [$12B ratepayers' money wasted, PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) — SemiAnalysis (2026-08-16)\n• [Our Response to a Market Valuation Chart](https://www.coatue.com/c/takes/our-response-to-a-widely-circulated-market-valuation-chart) — Coatue (約2026-07-20)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false},
+        {"name": "02. 傑克森霍爾年會後聯準會鷹派表態，市場關注利率與通膨政策走向（2個來源）", "value": "• [A DTR Moment For The Fed And Treasury](https://research.gavekal.com/) — Gavekal Research (2026-08-31)\n• [Jackson Hole 釋放偏鷹訊號，本週聚焦非農](https://www.macromicro.me/blog/mm-weekly-premarket-update-warsh-reiterates-commitment-to-combating-inflation-at-central-bank-meeting-focus-this-week-on-nonfarm) — 財經M平方 MacroMicro (約2026-08-29～08-31)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-02_07-12.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-02_22-20.html"}
     }
   ]
 }
