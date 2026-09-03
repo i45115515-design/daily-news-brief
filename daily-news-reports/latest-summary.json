@@ -1,15 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-03 22:13",
-      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-04 07:11",
+      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI運算基礎設施需求熱潮：記憶體漲價、晶片與資料中心資源緊張（3個來源）", "value": "• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (約2026-04-22)", "inline": false},
-        {"name": "02. AI熱潮降溫檢視：從炒作轉向嚴肅商業提問、開源模型追趕削弱差異化（3個來源）", "value": "• [Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/) — Stratechery (2026-09-01)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-21)\n• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (2026-08-21)", "inline": false},
-        {"name": "03. Fed主席交接（Kevin Warsh）與聯準會/財政部政策路線受矚目（2個來源）⚠️ 與今天07:11報告重複", "value": "• [A DTR Moment For The Fed And Treasury](https://research.gavekal.com/) — Gavekal Research (約2026-08-31)\n• [WEFC | Warsh Away The Heat](https://en.macromicro.me/blog/wefc-warsh-away-the-heat) — 財經M平方 MacroMicro (2026-08-17)", "inline": false}
+        {"name": "01. AI高資本支出熱潮下的估值/泡沫辯論持續延燒（4個來源）", "value": "• [Is It a Bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble) — Oaktree/Howard Marks (2025-12-09)\n• [Nvidia Backs OpenAI Data Center...](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (約2026-08-18)\n• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (約2026-08-08)\n• [AI's Bar Mitzvah Moment?](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (約2026-08-21)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-03_22-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-04_07-11.html"}
     }
   ]
 }
