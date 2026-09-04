@@ -1,13 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-04 22:11",
-      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-05 07:18",
+      "description": "掃描40個來源，成功10個、失敗30個。本次未找到被2個以上獨立來源同時報導/討論的明確共同主題，以下列出4則個別重要動態（依日期新到舊排序）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎設施資本支出（CapEx）熱潮持續發酵，泡沫疑慮與供應鏈風險並存（6個來源）⚠️ 與今天07:11報告重複", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (約2026-07)\n• [Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face](https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/) — Stratechery (2026-09-01)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (2026-08-30)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Q4 Outlook: The Three Great Battles](https://en.macromicro.me/blog/q4-meo-market-strategy-at-alltime-highs-the-three-great-battles) — 財經M平方 MacroMicro (約2026-09)", "inline": false}
+        {"name": "01. Friction and Feedback（單一來源）", "value": "• [Friction and Feedback](https://stratechery.com/2026/friction-and-feedback/) — Stratechery (2026-09-04)\n討論Meta與美國29州和解，以及Anthropic資料保留政策變動", "inline": false},
+        {"name": "02. 挪威主權基金債券配置建議（單一來源）", "value": "• [The Government Pension Fund Global – analyses and assessments of the investment strategy for bonds](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds) — NBIM (2026-09-01)\n建議政府債券配置比例從70%降至50%", "inline": false},
+        {"name": "03. 韓國主權級AI投資（單一來源）", "value": "• [Korea's Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses](https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign) — SemiAnalysis (2026-09-01)", "inline": false},
+        {"name": "04. a16z擴大成長期基金（單一來源）", "value": "• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-04_22-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-05_07-18.html"}
     }
   ]
 }
