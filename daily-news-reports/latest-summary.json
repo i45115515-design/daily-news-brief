@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-04 07:11",
-      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-04 22:11",
+      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI高資本支出熱潮下的估值/泡沫辯論持續延燒（4個來源）", "value": "• [Is It a Bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble) — Oaktree/Howard Marks (2025-12-09)\n• [Nvidia Backs OpenAI Data Center...](https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/) — Stratechery (約2026-08-18)\n• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (約2026-08-08)\n• [AI's Bar Mitzvah Moment?](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (約2026-08-21)", "inline": false}
+        {"name": "01. AI基礎設施資本支出（CapEx）熱潮持續發酵，泡沫疑慮與供應鏈風險並存（6個來源）⚠️ 與今天07:11報告重複", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (約2026-07)\n• [Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face](https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/) — Stratechery (2026-09-01)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (2026-08-30)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Q4 Outlook: The Three Great Battles](https://en.macromicro.me/blog/q4-meo-market-strategy-at-alltime-highs-the-three-great-battles) — 財經M平方 MacroMicro (約2026-09)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-04_07-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-04_22-11.html"}
     }
   ]
 }
