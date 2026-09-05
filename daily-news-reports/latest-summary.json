@@ -1,16 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-05 22:09",
-      "description": "掃描40個來源，成功26個、失敗14個。本次找到1個被2個以上獨立來源同時討論的共同主題，以下列出該主題與3則其他個別重要動態（依日期新到舊排序）：",
+      "title": "每日資訊彙整 2026-09-06 07:09",
+      "description": "掃描40個來源，成功29個、失敗11個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設與投資熱潮持續（2個來源＋1個輔助佐證）", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face](https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/) — Stratechery (約2026-09-01)\n• [TokenBudgeting: Our Conversations with Enterprises on Token Spend](https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations) — SemiAnalysis (約2026-06-30，日期不確定)", "inline": false},
-        {"name": "02. 中國市場流動性過剩（單一來源）", "value": "• [A World In Disequilibrium: Too Much Cash In China](https://research.gavekal.com/) — Gavekal Research (約2026-09-01/03)", "inline": false},
-        {"name": "03. 挪威主權基金股權指數風險評估（單一來源）", "value": "• [Submissions to Ministry 2026](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds) — NBIM (2026-09-01)\n就股權指數地緣政治風險與集中度風險回覆財政部", "inline": false},
-        {"name": "04. 天然資源市場季度展望（單一來源）", "value": "• [Q2 2026 Natural Resource Market Commentary](https://seekingalpha.com/article/4942415-goehring-and-rozencwajg-q2-2026-natural-resource-market-commentary) — Goehring & Rozencwajg (約2026-08-28~09-02)", "inline": false}
+        {"name": "01. AI實體基礎建設資本支出熱潮持續（3個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater (約2026-07-27)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (約2026-08-30)", "inline": false},
+        {"name": "02. 2026伊朗戰爭重燃牽動總體經濟與媒體敘事（2個來源）", "value": "• [The War and Reasonable Doubt](https://stratechery.com/2026/the-war-and-reasonable-doubt/) — Stratechery (2026-09-04)\n• [Will India's Growth Keep Defying Global Headwinds?](https://research.gavekal.com/) — Gavekal Research (2026-09-04)", "inline": false},
+        {"name": "03. AI學習能力與智能本質引發討論（2個來源）", "value": "• [Without a theory of intelligence](https://kk.org/thetechnium/without-a-theory-of-intelligence/) — Kevin Kelly (約2026-08-24)\n• [The next scaling law: learning velocity \"on the job\"](https://www.coatue.com/c/takes) — Coatue (約2026-07-20)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-05_22-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-06_07-09.html"}
     }
   ]
 }
