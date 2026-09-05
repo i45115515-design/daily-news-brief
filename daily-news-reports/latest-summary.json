@@ -1,16 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-05 07:18",
-      "description": "掃描40個來源，成功10個、失敗30個。本次未找到被2個以上獨立來源同時報導/討論的明確共同主題，以下列出4則個別重要動態（依日期新到舊排序）：",
+      "title": "每日資訊彙整 2026-09-05 22:09",
+      "description": "掃描40個來源，成功26個、失敗14個。本次找到1個被2個以上獨立來源同時討論的共同主題，以下列出該主題與3則其他個別重要動態（依日期新到舊排序）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. Friction and Feedback（單一來源）", "value": "• [Friction and Feedback](https://stratechery.com/2026/friction-and-feedback/) — Stratechery (2026-09-04)\n討論Meta與美國29州和解，以及Anthropic資料保留政策變動", "inline": false},
-        {"name": "02. 挪威主權基金債券配置建議（單一來源）", "value": "• [The Government Pension Fund Global – analyses and assessments of the investment strategy for bonds](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds) — NBIM (2026-09-01)\n建議政府債券配置比例從70%降至50%", "inline": false},
-        {"name": "03. 韓國主權級AI投資（單一來源）", "value": "• [Korea's Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses](https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign) — SemiAnalysis (2026-09-01)", "inline": false},
-        {"name": "04. a16z擴大成長期基金（單一來源）", "value": "• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)", "inline": false}
+        {"name": "01. AI基礎建設與投資熱潮持續（2個來源＋1個輔助佐證）", "value": "• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face](https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/) — Stratechery (約2026-09-01)\n• [TokenBudgeting: Our Conversations with Enterprises on Token Spend](https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations) — SemiAnalysis (約2026-06-30，日期不確定)", "inline": false},
+        {"name": "02. 中國市場流動性過剩（單一來源）", "value": "• [A World In Disequilibrium: Too Much Cash In China](https://research.gavekal.com/) — Gavekal Research (約2026-09-01/03)", "inline": false},
+        {"name": "03. 挪威主權基金股權指數風險評估（單一來源）", "value": "• [Submissions to Ministry 2026](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds) — NBIM (2026-09-01)\n就股權指數地緣政治風險與集中度風險回覆財政部", "inline": false},
+        {"name": "04. 天然資源市場季度展望（單一來源）", "value": "• [Q2 2026 Natural Resource Market Commentary](https://seekingalpha.com/article/4942415-goehring-and-rozencwajg-q2-2026-natural-resource-market-commentary) — Goehring & Rozencwajg (約2026-08-28~09-02)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-05_07-18.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-05_22-09.html"}
     }
   ]
 }
