@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-06 07:09",
-      "description": "掃描40個來源，成功29個、失敗11個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-06 22:10",
+      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI實體基礎建設資本支出熱潮持續（3個來源）", "value": "• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater (約2026-07-27)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (約2026-08-30)", "inline": false},
-        {"name": "02. 2026伊朗戰爭重燃牽動總體經濟與媒體敘事（2個來源）", "value": "• [The War and Reasonable Doubt](https://stratechery.com/2026/the-war-and-reasonable-doubt/) — Stratechery (2026-09-04)\n• [Will India's Growth Keep Defying Global Headwinds?](https://research.gavekal.com/) — Gavekal Research (2026-09-04)", "inline": false},
-        {"name": "03. AI學習能力與智能本質引發討論（2個來源）", "value": "• [Without a theory of intelligence](https://kk.org/thetechnium/without-a-theory-of-intelligence/) — Kevin Kelly (約2026-08-24)\n• [The next scaling law: learning velocity \"on the job\"](https://www.coatue.com/c/takes) — Coatue (約2026-07-20)", "inline": false}
+        {"name": "01. AI浪潮衝擊產業結構、政策與估值的大辯論（3個來源）", "value": "• [This Is One of the Most Important Policy Decisions of Our Lifetime](https://www.bridgewater.com/in-the-news) — Bridgewater Associates (約2026-08-14)\n• [The Incumbents Are Coming](https://a16z.com/the-incumbents-are-coming/) — a16z (2026-09-03)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false},
+        {"name": "02. AI基礎建設佈局：主權化與資安風險並重（2個來源）⚠️ 與今天07:09報告部分重複", "value": "• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital官網 (2026-08-19)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (約2026-08-30)", "inline": false},
+        {"name": "03. AI學習能力與智能本質引發討論（2個來源）⚠️ 與今天07:09報告完全重複", "value": "• [Without a theory of intelligence](https://kk.org/thetechnium/without-a-theory-of-intelligence/) — Kevin Kelly (約2026-08-18)\n• [The next scaling law: learning velocity \"on the job\"](https://www.coatue.com/insights) — Coatue (約2026-07-20)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-06_07-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-06_22-10.html"}
     }
   ]
 }
