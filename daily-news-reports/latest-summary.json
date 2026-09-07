@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-07 07:18",
-      "description": "掃描40個來源，成功15個、失敗25個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-07 22:10",
+      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI產業迎來估值與資安雙重拷問（2個來源）", "value": "• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (約2026-08-20)\n• [Most Neoclouds Suck At Security](https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security) — SemiAnalysis (約2026-08-30)", "inline": false},
-        {"name": "02. 總體經濟與地緣政治風險升溫（2個來源）", "value": "• [NBIM：股票指數地緣政治與集中度風險問答信函](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM挪威主權基金 (2026-09-01)\n• [Will India's Growth Keep Defying Global Headwinds?](https://research.gavekal.com/) — Gavekal Research (2026-09-04)", "inline": false}
+        {"name": "01. AI獲利能力與估值持續受市場質疑（2個來源）⚠️ 與今天07:18報告部分重複", "value": "• [The Scaling and Profitability Trade off: Venture Capital's Weakest Link!](https://aswathdamodaran.blogspot.com/2026/09/the-scaling-and-profitability-trade-off.html) — Aswath Damodaran (2026-09)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (2026-06-01)", "inline": false},
+        {"name": "02. AI浪潮下的資源與電力爭奪加劇（2個來源）", "value": "• [$12B of US ratepayers' money wasted on a modeling mistake and PJM wants to do it again](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) — SemiAnalysis (2026-08-16)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (約2026年5月)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-07_07-18.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-07_22-10.html"}
     }
   ]
 }
