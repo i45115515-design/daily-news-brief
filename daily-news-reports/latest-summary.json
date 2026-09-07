@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-07 22:10",
-      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-08 07:11",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI獲利能力與估值持續受市場質疑（2個來源）⚠️ 與今天07:18報告部分重複", "value": "• [The Scaling and Profitability Trade off: Venture Capital's Weakest Link!](https://aswathdamodaran.blogspot.com/2026/09/the-scaling-and-profitability-trade-off.html) — Aswath Damodaran (2026-09)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (2026-06-01)", "inline": false},
-        {"name": "02. AI浪潮下的資源與電力爭奪加劇（2個來源）", "value": "• [$12B of US ratepayers' money wasted on a modeling mistake and PJM wants to do it again](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted) — SemiAnalysis (2026-08-16)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (約2026年5月)", "inline": false}
+        {"name": "01. 科技界同步反思「AI熱潮是否兌現為商業實質」（3個來源）", "value": "• [The Scaling versus Profitability Trade-off: Venture Capital's Weakest Link!](https://aswathdamodaran.blogspot.com/2026/09/the-scaling-and-profitability-trade-off.html) — Aswath Damodaran (2026-09-02)\n• [The Incumbents Are Coming](https://a16z.com/the-incumbents-are-coming/) — a16z (2026-09-03)\n• [2026.35: Internet Hype and Real World Change](https://stratechery.com/2026/internet-hype-and-real-world-change/) — Stratechery (2026-09-04)", "inline": false},
+        {"name": "02. AI運算基礎設施持續大舉擴建（2個來源）", "value": "• [SpaceX 10GW in 2027 – Why It's Real...](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real) — SemiAnalysis (2026-08-07)\n• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-07_22-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-08_07-11.html"}
     }
   ]
 }
