@@ -1,15 +1,24 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-10 07:11",
-      "description": "掃描40個來源，成功23個、失敗17個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-10 22:11",
+      "description": "掃描40個來源，成功32個、失敗8個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設持續擴張，是否泡沫化辯論升溫（4個來源）", "value": "• [Is It a Bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble) — Oaktree Capital (日期不確定)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [TPU Inference Externalization Full Steam Ahead](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) — SemiAnalysis (約2026-09-07)\n• [AI is Expanding Across the Stack](https://www.coatue.com/blog/perspective/ai-is-expanding-across-the-stack) — Coatue (2026-04-28)", "inline": false},
-        {"name": "02. AI走向主權AI與代理人應用落地（3個來源）", "value": "• [OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent](https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/) — Stratechery (2026-09-09)\n• [The Incumbents Are Coming](https://a16z.com/the-incumbents-are-coming/) — a16z (2026-09-03)\n• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false},
-        {"name": "03. 地緣政治風險升溫牽動油價與股市集中度疑慮（2個來源）", "value": "• [research.gavekal.com](https://research.gavekal.com/) — Gavekal Research：伊朗衝突推升油價、停滯性通膨疑慮 (2026-09-04)\n• [NBIM意見信](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM（挪威主權基金）：地緣政治風險與股市集中度風險 (約2026-09-01)", "inline": false}
+        {
+          "name": "01. AI基礎建設、應用與經濟效益持續擴張，泡沫化論戰未歇（5個來源）⚠️與今天07:11報告重複",
+          "value": "• [TPU Inference Externalization Full Steam Ahead](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) — SemiAnalysis (約2026-09-07)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital官網 (2026-09-02)\n• [The AI Consumer Surplus](https://verdadcap.com/weekly-research) — Verdad Capital (約2026-06-01)\n• [AI/Kimi K3相關討論](https://en.macromicro.me/blog) — 財經M平方 MacroMicro (約2026-09-02)",
+          "inline": false
+        },
+        {
+          "name": "02. 地緣政治風險牽動能源／資源布局與市場疑慮（4個來源）⚠️與今天07:11報告重複",
+          "value": "• [Why a Russian-Chinese Pipeline Won't Happen](https://www.youtube.com/watch?v=QfjQAvzAnn4) — Peter Zeihan (約2026-09-09)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights) — Bridgewater Associates (日期不確定)\n• [伊朗衝突推升油價、停滯性通膨疑慮](https://research.gavekal.com/) — Gavekal Research (2026-09-04)\n• [地緣政治風險與股票指數集中度風險意見信](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (約2026-09-01)",
+          "inline": false
+        }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-10_07-11.html"}
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-10_22-11.html"
+      }
     }
   ]
 }
