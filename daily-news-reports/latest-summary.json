@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-11 07:10",
-      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-11 22:19",
+      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI能力邊界與「認知革命」辯論（3個來源）", "value": "• [The Cognitive Revolution (When Machines Do the Thinking)](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [Daniel Litt: The Mathematician's Guide to AI](https://a16z.com/podcast/daniel-litt-the-mathematicians-guide-to-ai/) — a16z (2026-09-01)\n• [Write Things Down（提及黃仁勳AGI言論）](https://stratechery.com/2026/write-things-down/) — Stratechery (約2026-09-08)", "inline": false},
-        {"name": "02. AI基礎建設的資金與電力瓶頸（2個來源）", "value": "• [$3.5 Trillion in Shadow Financing: The Hidden Financial Architecture Behind the AI Boom](https://en.macromicro.me/blog/3-5-trillion-in-shadow-financing-the-hidden-financial-architecture-behind-the-ai-boom) — 財經M平方 MacroMicro (2026-09-09)\n• [What is So Hard About Behind-The-Meter Power For Datacenters? Part 1](https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the) — SemiAnalysis (約2026-09-10)", "inline": false}
+        {"name": "01. AI能力進展與價值辯論（3個來源）⚠️ 與今天07:10重複", "value": "• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent](https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/) — Stratechery (2026-09-09)\n• [AI's Bar Mitzvah Moment](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)", "inline": false},
+        {"name": "02. 全球原油／戰略儲油存量爭議（2個來源）", "value": "• [The End of U.S. Strategic Petroleum Reserve](https://www.youtube.com/watch?v=j5g0Ud8i0C0) — Peter Zeihan (約2026-08-31)\n• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (2026 Q2)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-11_07-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-11_22-19.html"}
     }
   ]
 }
