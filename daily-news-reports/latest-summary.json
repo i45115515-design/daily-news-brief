@@ -1,27 +1,27 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-13 07:10",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-13 22:10",
+      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題（皆與今天07:10報告重複）：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI／AGI 成為當前市場與企業策略的主導敘事（6個來源）",
-          "value": "• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [Investing in Cognition](https://a16z.com/announcement/investing-in-cognition/) — a16z (2026-09-09)\n• [Duo Threats](https://stratechery.com/2026/duo-threats/) — Stratechery (2026-09-11)\n• [Most Important Policy Decision of Our Lifetime](https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime) — Bridgewater (2026-08-04)\n• [5 Ideas Reshaping How Founders Build](https://ff.co/5-ideas-reshaping-how-founders-build/) — ff.co (2026-07-14)",
+          "name": "01. AI／AGI 成為當前市場與企業策略的主導敘事（6個來源）⚠️ 與今天07:10重複",
+          "value": "• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-09-09，新佐證文章)\n• [Duo Threats](https://stratechery.com/2026/duo-threats/) — Stratechery (2026-09-11)\n• [Most Important Policy Decision of Our Lifetime](https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime) — Bridgewater (2026-08-04)\n• [5 Ideas Reshaping How Founders Build](https://ff.co/5-ideas-reshaping-how-founders-build/) — ff.co (2026-07-14)",
           "inline": false
         },
         {
-          "name": "02. 能源／電力成為AI熱潮與總體經濟的關鍵瓶頸（2個來源）",
-          "value": "• [On Energy Stocks As A Portfolio Diversifier](https://research.gavekal.com/) — Gavekal Research (2026-09-11)\n• [Behind-The-Meter Power For Datacenters](https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the) — SemiAnalysis (約2026年9月上旬)",
+          "name": "02. 能源／電力成為AI熱潮與總體經濟的關鍵瓶頸（3個來源，新增1個）⚠️ 與今天07:10重複",
+          "value": "• [On Energy Stocks As A Portfolio Diversifier](https://research.gavekal.com/) — Gavekal Research (2026-09-11)\n• [Behind-The-Meter Power For Datacenters](https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the) — SemiAnalysis (約2026年9月上旬)\n• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (2026-09-02，新佐證)",
           "inline": false
         },
         {
-          "name": "03. 地緣政治驅動主權資產與戰略資源重新佈局（2個來源）",
+          "name": "03. 地緣政治驅動主權資產與戰略資源重新佈局（2個來源）⚠️ 與今天07:10重複",
           "value": "• [NBIM致財政部信函：建議政府債券佔比降至50%](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (2026-09-01)\n• [Project Vault Doesn't Solve the Mineral Problem](https://www.youtube.com/watch?v=sj9GLylXmeo) — Peter Zeihan (2026-09-03)",
           "inline": false
         }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-13_07-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-13_22-10.html"}
     }
   ]
 }
