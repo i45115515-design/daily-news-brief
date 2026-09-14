@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日資訊彙整 2026-09-14 22:17</title>
+<style>
+  body {
+    font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+    background: #f5f6f8;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0 16px 48px;
+    line-height: 1.7;
+  }
+  .wrap { max-width: 800px; margin: 0 auto; }
+  header {
+    padding: 32px 0 16px;
+    border-bottom: 3px solid #2a5599;
+    margin-bottom: 24px;
+  }
+  h1 { font-size: 1.5rem; margin: 0 0 8px; color: #1a1a1a; }
+  .meta { color: #666; font-size: 0.9rem; }
+  .overview {
+    background: #fff;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+    border: 1px solid #e0e2e6;
+  }
+  .notice {
+    background: #fff4e5;
+    border-left: 4px solid #d98c00;
+    padding: 12px 16px;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    font-size: 0.92rem;
+    color: #5c3d00;
+  }
+  .dup-warning { color: #b3261e; font-weight: 600; }
+  .stale-note { color: #866300; font-size: 0.85rem; }
+  h2 { font-size: 1.2rem; margin-top: 32px; color: #2a5599; border-bottom: 1px solid #dde1e8; padding-bottom: 6px; }
+  .topic {
+    background: #fff;
+    border: 1px solid #e0e2e6;
+    border-left: 5px solid #2a5599;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+  }
+  .topic h3 { margin: 0 0 4px; font-size: 1.05rem; color: #1a1a1a; }
+  .topic .count { color: #2a5599; font-weight: 600; }
+  .evidence-list { list-style: none; padding: 0; margin: 12px 0 0; }
+  .evidence-list li { padding: 8px 0; border-top: 1px dashed #e5e7eb; }
+  .evidence-list li:first-child { border-top: none; }
+  .src { font-weight: 600; color: #444; }
+  .date { color: #888; font-size: 0.85rem; }
+  a { color: #1a56b0; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .section-note { font-size: 0.88rem; color: #777; margin: 8px 0 16px; }
+  .cat-block { margin-bottom: 20px; }
+  .cat-block h4 { font-size: 0.95rem; color: #333; margin-bottom: 6px; }
+  .item-list { list-style: none; padding: 0; margin: 0; }
+  .item-list li { padding: 6px 0; font-size: 0.92rem; }
+  .fail-list { columns: 2; column-gap: 32px; font-size: 0.9rem; color: #555; }
+  .fail-list li { break-inside: avoid; padding: 3px 0; }
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #ddd; font-size: 0.85rem; color: #999; }
+  @media (max-width: 480px) {
+    .fail-list { columns: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>📊 每日資訊彙整</h1>
+  <div class="meta">台灣時間 2026-09-14 22:17 執行</div>
+</header>
+
+<div class="overview">
+  <strong>總覽</strong>：本次共嘗試掃描 40 個資訊來源（16 個 YouTube 頻道、9 個機構投資人研究網站、8 個創投/科技思想類網站、7 個科技/半導體新知網站），成功取得可靠資料 25 個、無法取得資料 15 個。找出 4 個被多個獨立來源同時討論的共同主題（詳見下方）。今天稍早已有 07:14 的報告，已比對兩次主題重複情形，見下方標註。
+</div>
+
+<div class="notice">
+  ⚠️ <strong>本次執行方法說明</strong>：本次排程執行時，環境的 WebFetch 工具對任務清單中全部來源網域皆回傳 EGRESS_BLOCKED（網路白名單阻擋），因此全部改用 WebSearch 搜尋引擎結果作為備援管道。WebSearch 由搜尋摘要取得資訊、非即時瀏覽頁面，部分更新頻率極高的來源（尤其 YouTube 頻道）經常無法確認「目前最新」是哪一篇/支，故大量標示為「無法取得資料」而非以舊內容冒充最新。以下幾點請人工複核：
+  (1) 「ff.co」來源網址查證後實際內容為 Founders Forum Group，並非 Peter Thiel 創辦的創投公司 Founders Fund（官網應為 foundersfund.com），疑似來源清單網址誤植，本報告仍如實依該網址實際內容呈現並註明；
+  (2) Oaktree/Howard Marks 本次搜尋找到一篇較舊的備忘錄（"AI Hurtles Ahead"，2026-02-26），但因早於稍早報告已驗證過的 2026-04-09「What's Going on in Private Credit?」，故本報告仍採用日期較新者，兩次搜尋結果不一致，信心中等；
+  (3) Goehring &amp; Rozencwajg 本次找到一篇網誌短文（與稍早報告的季度評論標題相近但非同一篇），日期為推算值，信心中等；
+  (4) 部分文章日期由「幾天前／幾週前」等相對時間推算而來，非頁面直接標示，已於各項目註明推算性質；
+  (5) 財訊、Acquired、WSJ、Y Combinator 等 YouTube 頻道本次未能查得比稍早報告更新的內容，可能為頻道近期未更新，也可能是搜尋索引未收錄最新影片，故無新資訊可補充。
+  凡查無資料或無法確認時效性的來源，皆誠實標示為「無法取得資料」，未新增任何未經驗證的標題或連結。
+</div>
+
+<h2>🔥 重複主題（依來源數量排序）</h2>
+
+<div class="topic">
+  <h3>01. AI 運算基礎建設與硬體投資熱潮<span class="count">（4 個來源）</span> <span class="dup-warning">⚠️ 與今天 07:14 的報告重複</span></h3>
+  <ul class="evidence-list">
+    <li><a href="https://www.youtube.com/watch?v=x8QP9oXgahA" target="_blank" rel="noopener">Silicon Valley's Starving for Compute</a><br><span class="src">Asianometry</span> · <span class="date">約 2026-09-13/14（相對時間推算）</span></li>
+    <li><a href="https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi" target="_blank" rel="noopener">Long Live the Short King: Why 4-hi HBM Wins</a><br><span class="src">SemiAnalysis</span> · <span class="date">2026-09-13</span></li>
+    <li><a href="https://sequoiacap.com/article/the-cognitive-revolution" target="_blank" rel="noopener">The Cognitive Revolution (When Machines Do the Thinking)</a><br><span class="src">Sequoia Capital 官網</span> · <span class="date">2026-09-02</span></li>
+    <li><a href="https://a16z.com/the-machine-age-fund/" target="_blank" rel="noopener">The Machine Age Fund（宣布成立 11 億美元新基金，投資 AI 硬體、運算基礎設施）</a><br><span class="src">a16z</span> · <span class="date">2026-08-28</span></li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>02. 全球利率／公債殖利率飆升與資產配置辯論<span class="count">（3 個來源）</span> <span class="dup-warning">⚠️ 與今天 07:14 的報告重複</span></h3>
+  <ul class="evidence-list">
+    <li><a href="https://www.macromicro.me/blog/market-update-global-longterm-bond-yields-surge-are-bonds-still-a-good-investment-option" target="_blank" rel="noopener">【行情快報】全球長債殖利率飆升：債券還適合配置嗎？</a><br><span class="src">財經M平方 MacroMicro</span> · <span class="date">2026-09-10</span></li>
+    <li><a href="https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html" target="_blank" rel="noopener">Interest Rates and Stock Prices: An Old Debate Flares up!</a><br><span class="src">Aswath Damodaran（Musings on Markets）</span> · <span class="date">約 2026 年 9 月初</span></li>
+    <li><a href="https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/" target="_blank" rel="noopener">The Government Pension Fund Global – analyses and assessments of the investment strategy for bonds</a><br><span class="src">NBIM（挪威主權基金）</span> · <span class="date">2026-09-01</span></li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>03. AI 政策治理與總體經濟影響辯論<span class="count">（2 個來源）</span></h3>
+  <ul class="evidence-list">
+    <li><a href="https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime" target="_blank" rel="noopener">Our Thoughts on What Is Likely the Most Important Policy Decision of Our Lifetime（探討 AI 相關政策決定的關鍵性）</a><br><span class="src">Bridgewater Associates</span> · <span class="date">約 2026-08-04</span></li>
+    <li><a href="https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/" target="_blank" rel="noopener">Pacing the Frontier, AI's Digital Limits, AI Commissars</a><br><span class="src">Stratechery</span> · <span class="date">2026-09-14</span></li>
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>04. 能源／石油類股投資機會<span class="count">（2 個來源）</span></h3>
+  <ul class="evidence-list">
+    <li><span class="src">Gavekal Research</span> — On Energy Stocks As A Portfolio Diversifier（多方引述確認存在，官網確切文章網址未能取得，故不附連結）<span class="date">2026-09-11</span></li>
+    <li><a href="https://blog.gorozen.com/blog/why-havent-the-tanks-run-dry" target="_blank" rel="noopener">Why Haven't the Tanks Run Dry? What Investors Are Missing in Oil.</a><br><span class="src">Goehring &amp; Rozencwajg</span> · <span class="date">約 2026-08-24（相對時間推算，信心中等）</span></li>
+  </ul>
+</div>
+
+<p class="section-note">主題 01、02 與今天 07:14 的報告核心議題相同（AI 基礎建設投資熱潮、總體利率與資產配置辯論持續延燒），已依規則標註提醒；主題 03、04 為本次新出現的具體討論角度。</p>
+
+<h2>📚 各來源完整抓取結果</h2>
+<p class="section-note">以下列出本次成功取得資料的所有來源與文章（含未被歸類為重複主題的項目）。</p>
+
+<div class="cat-block">
+  <h4>YouTube頻道類</h4>
+  <ul class="item-list">
+    <li><span class="src">VisualPolitik</span> — <a href="https://www.youtube.com/watch?v=0frDxR7nXuc" target="_blank" rel="noopener">Coyuntura al 6 de septiembre de 2026</a>（每週時事回顧，之後可能已有更新集數但未查得） <span class="date">(約2026-09-06)</span></li>
+    <li><span class="src">Acquired</span> — <a href="https://www.youtube.com/watch?v=01QR2tmxSD4" target="_blank" rel="noopener">Disney: The Renaissance and the Empire</a>（本次搜尋未查得更新集數，沿用稍早報告已驗證資訊） <span class="date">(2026-08-09)</span></li>
+    <li><span class="src">Asianometry</span> — <a href="https://www.youtube.com/watch?v=x8QP9oXgahA" target="_blank" rel="noopener">Silicon Valley's Starving for Compute</a> <span class="date">(約2026-09-13/14)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">The Wall Street Journal</span> — <a href="https://www.youtube.com/watch?v=RUhdmIFpb-w" target="_blank" rel="noopener">The North Korean Operatives Hiding Inside U.S. Companies | WSJ Documentary</a>（本次搜尋未查得更新集數，沿用稍早報告已驗證資訊） <span class="date">(2026-08-13)</span></li>
+    <li><span class="src">財訊</span> — <a href="https://www.youtube.com/watch?v=kymMD41wPo8" target="_blank" rel="noopener">2026年台灣出口金額可能破兆 將是歷史上前所未見的時代｜#老謝開講 EP292</a>（本次搜尋未查得更新集數，沿用稍早報告已驗證資訊） <span class="date">(約2026-09-11)</span></li>
+    <li><span class="src">Peter Zeihan (Zeihan on Geopolitics)</span> — <a href="https://www.youtube.com/watch?v=QGdQQHac0Fk" target="_blank" rel="noopener">Moving Beyond the Patriot Missile</a>（頻道近乎每日更新，此為搜尋可確認之最新集數，實際可能已有更新未被索引，信心中等） <span class="date">(約2026年8月下旬)</span></li>
+  </ul>
+</div>
+
+<div class="cat-block">
+  <h4>機構投資人研究網站</h4>
+  <ul class="item-list">
+    <li><span class="src">Berkshire Hathaway</span> — <a href="https://www.berkshirehathaway.com/letters/2025ltr.pdf" target="_blank" rel="noopener">2025年度股東信（Greg Abel 首次以執行長身分撰寫）</a> <span class="date">(2026-02-28)</span></li>
+    <li><span class="src">Oaktree Capital / Howard Marks</span> — <a href="https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit" target="_blank" rel="noopener">What's Going on in Private Credit?</a>（本次另搜得一篇更早的備忘錄，但採用日期較新者，信心中等） <span class="date">(2026-04-09)</span></li>
+    <li><span class="src">Bridgewater Associates</span> — <a href="https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime" target="_blank" rel="noopener">Our Thoughts on What Is Likely the Most Important Policy Decision of Our Lifetime</a> <span class="date">(約2026-08-04)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">Gavekal Research</span> — On Energy Stocks As A Portfolio Diversifier（確切文章網址未查得，不附連結） <span class="date">(2026-09-11)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">Goehring &amp; Rozencwajg</span> — <a href="https://blog.gorozen.com/blog/why-havent-the-tanks-run-dry" target="_blank" rel="noopener">Why Haven't the Tanks Run Dry? What Investors Are Missing in Oil.</a> <span class="date">(約2026-08-24)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">NBIM（挪威主權基金）</span> — <a href="https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/" target="_blank" rel="noopener">The Government Pension Fund Global – analyses and assessments of the investment strategy for bonds</a> <span class="date">(2026-09-01)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">財經M平方 MacroMicro</span> — <a href="https://www.macromicro.me/blog/market-update-global-longterm-bond-yields-surge-are-bonds-still-a-good-investment-option" target="_blank" rel="noopener">全球長債殖利率飆升：債券還適合配置嗎？</a> <span class="date">(2026-09-10)</span> <span class="stale-note">（已列為重複主題）</span></li>
+  </ul>
+</div>
+
+<div class="cat-block">
+  <h4>創投/估值/科技思想類網站</h4>
+  <ul class="item-list">
+    <li><span class="src">Paul Graham</span> — <a href="https://paulgraham.com/prepare.html" target="_blank" rel="noopener">How Universities Should Prepare Founders</a>（本次搜尋未查得更新文章，沿用稍早報告已驗證資訊） <span class="date">(約2026-08-25)</span></li>
+    <li><span class="src">a16z</span> — <a href="https://a16z.com/the-machine-age-fund/" target="_blank" rel="noopener">The Machine Age Fund</a>（本次搜尋未查得更新文章，沿用稍早報告已驗證資訊） <span class="date">(2026-08-28)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">ff.co（來源清單標示為「Founders Fund」，但查證後此網域實際內容為 Founders Forum Group，並非 Peter Thiel 之創投 Founders Fund，疑似來源清單網址誤植，請人工複核）</span> — <a href="https://ff.co/5-ideas-reshaping-how-founders-build/" target="_blank" rel="noopener">5 Ideas Reshaping How Founders Build Right Now</a> <span class="date">(約2026-07-14)</span></li>
+    <li><span class="src">Sequoia Capital官網</span> — <a href="https://sequoiacap.com/article/the-cognitive-revolution" target="_blank" rel="noopener">The Cognitive Revolution (When Machines Do the Thinking)</a>（本次搜尋未查得更新文章，沿用稍早報告已驗證資訊） <span class="date">(2026-09-02)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">The Generalist</span> — <a href="https://www.generalist.com/p/ai-got-good-at-language-now-its-learning" target="_blank" rel="noopener">AI Got Good at Language. Now It's Learning the Language of Life.（專訪 Radical Numerics 共同創辦人 Eric Nguyen）</a>（本次搜尋未查得更新文章，沿用稍早報告已驗證資訊） <span class="date">(約2026-08-04)</span></li>
+    <li><span class="src">Kevin Kelly</span> — <a href="https://kk.org/thetechnium/weekly-links-09-07-2026/" target="_blank" rel="noopener">The Technium: Weekly Links, 09/07/2026</a>（本次另搜得一篇更早的週報，採用日期較新者） <span class="date">(2026-09-07)</span></li>
+  </ul>
+</div>
+
+<div class="cat-block">
+  <h4>科技/半導體新知、深度估值與企業洞見</h4>
+  <ul class="item-list">
+    <li><span class="src">Stratechery</span> — <a href="https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/" target="_blank" rel="noopener">Pacing the Frontier, AI's Digital Limits, AI Commissars</a> <span class="date">(2026-09-14)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">SemiAnalysis</span> — <a href="https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi" target="_blank" rel="noopener">Long Live the Short King: Why 4-hi HBM Wins</a> <span class="date">(2026-09-13)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">Kevin Xu (Interconnected)</span> — <a href="https://interconnected.blog/h1-2026-performance-update-getting-worse-before-getting-better/" target="_blank" rel="noopener">H1 2026 Performance Update: Getting Worse Before Getting Better</a>（本次搜尋未查得更新文章，沿用稍早報告已驗證資訊） <span class="date">(2026-07-24)</span></li>
+    <li><span class="src">Aswath Damodaran</span> — <a href="https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html" target="_blank" rel="noopener">Interest Rates and Stock Prices: An Old Debate Flares up!</a> <span class="date">(約2026年9月初)</span> <span class="stale-note">（已列為重複主題）</span></li>
+    <li><span class="src">Acquired Podcast（X/Twitter @AcquiredFM）</span> — <a href="https://x.com/AcquiredFM/status/2079958309206118757" target="_blank" rel="noopener">Announcing the official 2026 Acquired Meetup, San Francisco</a>（本次搜尋未查得更新推文，沿用稍早報告已驗證資訊） <span class="date">(2026-07-22)</span></li>
+    <li><span class="src">Dan Wang</span> — <a href="https://danwang.co/2025-letter/" target="_blank" rel="noopener">2025 letter</a>（年度信，不同轉載來源標示發布日期不一致；本次搜尋未查得更新文章） <span class="date">(約2026年初)</span></li>
+  </ul>
+</div>
+
+<h2>❌ 無法取得資料的來源（15 個）</h2>
+<p class="section-note">以下來源本次因環境網路限制（WebFetch 被阻擋）及 WebSearch 搜尋不到可信且可確認時效性的具體資訊，無法確認其目前最新內容，誠實列出，未進行任何猜測或杜撰。</p>
+<ul class="fail-list">
+  <li>Bloomberg Originals（YouTube）</li>
+  <li>Financial Times（YouTube）</li>
+  <li>Sequoia Capital（YouTube頻道）</li>
+  <li>Y Combinator（YouTube）</li>
+  <li>Computerphile（YouTube）</li>
+  <li>IEEE Spectrum（YouTube）</li>
+  <li>曲博科技教室 Dr. J Class（YouTube）</li>
+  <li>CNBC International（YouTube）</li>
+  <li>DIGITIMES（YouTube）</li>
+  <li>今周刊（YouTube）</li>
+  <li>Marathon Capital</li>
+  <li>Verdad Capital</li>
+  <li>ARK Invest</li>
+  <li>Gavin Baker (Medium)</li>
+  <li>Coatue</li>
+</ul>
+
+<footer>
+  本報告由排程任務自動產生 · 台灣時間 2026-09-14 22:17 · daily-news-brief repo
+</footer>
+
+</div>
+</body>
+</html>
