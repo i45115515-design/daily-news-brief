@@ -1,24 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-15 22:10",
+      "title": "每日資訊彙整 2026-09-16 07:09",
       "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {
-          "name": "01. AI運算基礎建設、晶片議題與Nvidia地位疑慮（5個來源）⚠️與今天07:16重複",
-          "value": "• [Pacing the Frontier, AI's Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/) — Stratechery (2026-09-14)\n• [Silicon Valley's Starving for Compute](https://www.youtube.com/watch?v=x8QP9oXgahA) — Asianometry (約2026-09-13)\n• [Nvidia's Backstop Universe – Heads I Win, Tails Who Loses?](https://newsletter.semianalysis.com/p/nvidias-backstop-universe-heads-i) — SemiAnalysis (2026-09-11)\n• [Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (約2026-09-10)\n• [While I Was Gone…](https://interconnect.substack.com/p/while-i-was-gone) — Kevin Xu/Interconnected (約2026-09-02)",
-          "inline": false
-        },
-        {
-          "name": "02. 聯準會利率政策與新任主席Kevin Warsh（2個來源）⚠️與今天07:16重複",
-          "value": "• [WEFC | Warsh Stays on Watch](https://en.macromicro.me/blog/wefc-warsh-stays-on-watch) — 財經M平方 MacroMicro (約2026-09-02)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026年9月初)",
-          "inline": false
-        }
+        {"name": "01. AI的發展、認知能力與侷限（5個來源）", "value": "• [Pacing the Frontier, AI's Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/) — Stratechery (2026-09-14)\n• [The AI Language We Can't Read: Neuralese](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (2026-09-10)\n• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)\n• [Global Outlook: Modern Mercantilism, AI](https://www.bridgewater.com/research-and-insights/global-outlook-our-cios-on-modern-mercantilism-ai-and-managing-money-today) — Bridgewater (2026-02-03)", "inline": false},
+        {"name": "02. 創業者/新創的建造方法論（3個來源）", "value": "• [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) — Paul Graham (2026-08-30)\n• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false},
+        {"name": "03. 利率、通膨與市場評價（2個來源）", "value": "• [MM一週盤前：美核心通膨超預期、本週決戰FOMC](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-core-inflation-exceeds-expectations-rate-hike-probability-rises-this-week-s-decisive-battle-is-the-fomc) — MacroMicro (2026-09-13)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false}
       ],
-      "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-15_22-10.html"
-      }
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-16_07-09.html"}
     }
   ]
 }
