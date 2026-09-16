@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-16 07:09",
-      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-16 22:10",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI的發展、認知能力與侷限（5個來源）", "value": "• [Pacing the Frontier, AI's Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/) — Stratechery (2026-09-14)\n• [The AI Language We Can't Read: Neuralese](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (2026-09-10)\n• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)\n• [Global Outlook: Modern Mercantilism, AI](https://www.bridgewater.com/research-and-insights/global-outlook-our-cios-on-modern-mercantilism-ai-and-managing-money-today) — Bridgewater (2026-02-03)", "inline": false},
-        {"name": "02. 創業者/新創的建造方法論（3個來源）", "value": "• [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) — Paul Graham (2026-08-30)\n• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false},
-        {"name": "03. 利率、通膨與市場評價（2個來源）", "value": "• [MM一週盤前：美核心通膨超預期、本週決戰FOMC](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-core-inflation-exceeds-expectations-rate-hike-probability-rises-this-week-s-decisive-battle-is-the-fomc) — MacroMicro (2026-09-13)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false}
+        {"name": "01. AI基礎建設、資料中心布局與主權AI（2個來源）", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (2026-09-15)\n• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false},
+        {"name": "02. AI熱潮的商業本質與認知極限審視（2個來源）⚠️與07:09報告重複", "value": "• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [The AI Language We Can't Read: Neuralese](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (2026-09-10)", "inline": false},
+        {"name": "03. 新創建造方法論與創投布局（2個來源）⚠️與07:09報告重複", "value": "• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-16_07-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-16_22-10.html"}
     }
   ]
 }
