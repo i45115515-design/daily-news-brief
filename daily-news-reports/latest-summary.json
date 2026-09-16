@@ -1,15 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-16 22:10",
-      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-17 07:09",
+      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設、資料中心布局與主權AI（2個來源）", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (2026-09-15)\n• [Own Your Intelligence: A How-to Guide for Sovereign AI](https://sequoiacap.com/article/own-your-intelligence-a-how-to-guide) — Sequoia Capital (2026-08-19)", "inline": false},
-        {"name": "02. AI熱潮的商業本質與認知極限審視（2個來源）⚠️與07:09報告重複", "value": "• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)\n• [The AI Language We Can't Read: Neuralese](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (2026-09-10)", "inline": false},
-        {"name": "03. 新創建造方法論與創投布局（2個來源）⚠️與07:09報告重複", "value": "• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false}
+        {"name": "01. AI企業導入、資料中心建設與「認知革命」敘事（4個來源）", "value": "• [Salesforce AI Force, Agents as UI, The Race to Headless](https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/) — Stratechery (2026-09-16)\n• [The Cognitive Revolution (When Machines Do the Thinking)](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital官網 (約2026-09-02)\n• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (約2026-09-15)\n• [RAM Fever](https://www.generalist.com/p/generalist-intelligence-july-10) — The Generalist (2026-07-10)", "inline": false},
+        {"name": "02. 總體經濟「新典範」與利率環境辯論（3個來源）", "value": "• [5 Key Points from Our Q3 MEO: $1T Megatrends](https://en.macromicro.me/blog/5-key-points-from-our-q3-meo-1t-megatrends-money-margin-macro) — 財經M平方 MacroMicro (2026-09-16)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09-10)\n• [From Our CIOs: Taking Stock of the New Paradigm](https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm-content-ctd) — Bridgewater Associates (2026-07-27)", "inline": false},
+        {"name": "03. 創業者建造方法論與創投生態布局（3個來源）", "value": "• [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) — Paul Graham (2026-08-30)\n• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false},
+        {"name": "04. 中國經濟與地緣政治觀察（2個來源）", "value": "• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnected.blog/h1-2026-performance-update-getting-worse-before-getting-better/) — Kevin Xu (2026-07-24)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (2026年初)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-16_22-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-17_07-09.html"}
     }
   ]
 }
