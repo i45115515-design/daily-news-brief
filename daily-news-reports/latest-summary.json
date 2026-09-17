@@ -1,16 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-17 22:09",
-      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題（本次多數主題與今天07:09報告重複）：",
+      "title": "每日資訊彙整 2026-09-18 07:09",
+      "description": "掃描40個來源，成功10個、失敗30個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI企業導入、資料中心建設與地緣政治敘事（4個來源）⚠️ 與今天07:09報告重複", "value": "• [Salesforce AI Force, Agents as UI, The Race to Headless](https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/) — Stratechery (2026-09-16)\n• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (2026-09-15)\n• [The Cognitive Revolution](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital官網 (約2026-09-02)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater Associates (2026-05-18)", "inline": false},
-        {"name": "02. 總體經濟「新典範」與利率環境辯論（2個來源）⚠️ 與今天07:09報告重複", "value": "• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09-10)\n• [5 Key Points from Our Q3 MEO](https://en.macromicro.me/blog/5-key-points-from-our-q3-meo-1t-megatrends-money-margin-macro) — 財經M平方 MacroMicro (2026-09-16)", "inline": false},
-        {"name": "03. 創業者建造方法論與創投生態布局（2個來源）⚠️ 與今天07:09報告重複", "value": "• [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) — Paul Graham (約2026-08-26～30)\n• [Expanding the a16z Growth Fund and Platform](https://a16z.com/expanding-the-a16z-growth-fund-and-platform/) — a16z (2026-08-31)", "inline": false},
-        {"name": "04. 中國經濟與地緣政治觀察（2個來源）⚠️ 與今天07:09報告重複", "value": "• [H1 2026 Performance Update: Getting Worse Before Getting Better](https://interconnected.blog/h1-2026-performance-update-getting-worse-before-getting-better/) — Kevin Xu (Interconnected) (2026-07-24)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-02)", "inline": false}
+        {"name": "01. AI基礎建設、跨國布局與地緣政治拉鋸（3個來源）", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (約2026-09-15)\n• [Don't Sleep on the BRICS AI Open Source Community](https://interconnect.substack.com/p/dont-sleep-on-the-brics-ai-open-source) — Kevin Xu (Interconnected) (2026-09-15)\n• [An Interview with OpenAI President Greg Brockman About Astra and Alignment](https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/) — Stratechery (2026-09-17)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-17_22-09.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-18_07-09.html"}
     }
   ]
 }
