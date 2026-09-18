@@ -1,13 +1,19 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-18 07:09",
-      "description": "掃描40個來源，成功10個、失敗30個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-18 22:10",
+      "description": "掃描40個來源，成功23個（含2個構成重複主題、7個較新鮮獨立內容、8個日期過舊或可信度存疑、6個與今天07:09報告相同無新文章）、失敗17個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設、跨國布局與地緣政治拉鋸（3個來源）", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (約2026-09-15)\n• [Don't Sleep on the BRICS AI Open Source Community](https://interconnect.substack.com/p/dont-sleep-on-the-brics-ai-open-source) — Kevin Xu (Interconnected) (2026-09-15)\n• [An Interview with OpenAI President Greg Brockman About Astra and Alignment](https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/) — Stratechery (2026-09-17)", "inline": false}
+        {
+          "name": "01. OpenAI近期動態：自研AI晶片與Astra布局（2個來源）⚠️與07:09報告主題重疊",
+          "value": "• [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — SemiAnalysis (約2026-09-11)\n• ARK Invest 週報 #524（OpenAI Astra／SpaceX燃氣渦輪垂直整合） — [電子報列表頁](https://www.ark-invest.com/newsletters) — ARK Invest (2026-09-09)",
+          "inline": false
+        }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-18_07-09.html"}
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-18_22-10.html"
+      }
     }
   ]
 }
