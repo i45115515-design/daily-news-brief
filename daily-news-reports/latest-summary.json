@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-20 07:13",
-      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-20 22:13",
+      "description": "掃描40個來源，成功29個、失敗11個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI風險與「AI末日」論戰持續延燒（2個來源）", "value": "• [Bridgewater's Jensen Says AI Will Kill People Before It's Curbed](https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed) — Bridgewater Associates (2026-09-11)\n• [2026.38: Doomforce](https://stratechery.com/2026/doomforce/) — Stratechery (2026-09-18)", "inline": false},
-        {"name": "02. AI資料中心建置阻力與供應鏈風險升溫（2個來源）", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (約2026-09-15)\n• [【行情快報】最完整的AI供應鏈拆解：掌握劇烈波動下的關鍵風險！](https://www.macromicro.me/blog/market-update-the-most-complete-breakdown-of-the-ai-supply-chain-understanding-the-key-risks-amidst-dramatic-fluctuations) — 財經M平方 MacroMicro (約2026-09-17~18)", "inline": false},
-        {"name": "03. 創業者建議與人才培育話題（2個來源）", "value": "• [How Universities Should Prepare Founders](https://www.paulgraham.com/prepare.html) — Paul Graham (2026-08-30)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (約2026年7月)", "inline": false}
+        {"name": "01. Paul Graham 談新創與創業者話題再度成焦點（2個來源）⚠️與07:13報告主題相關", "value": "• [Paul Graham On Startups, Ambition, and Great Founders](https://www.youtube.com/watch?v=5bxp78i96S8) — Y Combinator (約2026-09-05)\n• [Making Startups Powerful](https://www.paulgraham.com/powerful.html) — Paul Graham (約2026-09-15)", "inline": false},
+        {"name": "02. 聯準會利率政策成為總經評論焦點（2個來源）", "value": "• [聯準會三年來首度升息，點陣圖暗示年內升息兩碼！](https://www.macromicro.me/blog) — 財經M平方 MacroMicro (2026-09-17)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026年9月)", "inline": false},
+        {"name": "03. 俄烏戰爭與全球地緣政治秩序持續受關注（2個來源）", "value": "• [Bridgewater Alum Paul Podolsky on What Russia Tells Us About the Future of the Global Order](https://www.bridgewater.com/research-and-insights/bridgewater-alum-paul-podolsky-on-what-russia-tells-us-about-the-future-of-the-global-order-and-what-it-means-for-investors) — Bridgewater Associates (約2026-09-09)\n• [What Is Zelensky's Political Future?](https://www.youtube.com/watch?v=z1YvlUVkjAs) — Peter Zeihan (約2026-09-17)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-20_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-20_22-13.html"}
     }
   ]
 }
