@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-21 07:13",
-      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-21 22:14",
+      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題（本次2個主題皆與今天07:13的報告部分重疊，已加註⚠️）：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI擴張的隱憂：安全辯論、資料中心瓶頸與風險評估同時成焦點（5個來源）", "value": "• [2026.38: Doomforce](https://stratechery.com/2026/doomforce/) — Stratechery (2026-09-18)\n• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (2026-09-15)\n• [The AI Language We Can't Read: Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (約2026-09-10)\n• [Understanding AI's More Dangerous Phase](https://www.bridgewater.com/understanding-ais-more-dangerous-phase-content-ctd) — Bridgewater Associates (2026-06-01)\n• [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)", "inline": false},
-        {"name": "02. 美國利率政策與通膨數據牽動市場走向（2個來源）", "value": "• [美核心通膨超預期、升息機率升溫，本週決戰FOMC](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-core-inflation-exceeds-expectations-rate-hike-probability-rises-this-week-s-decisive-battle-is-the-fomc) — 財經M平方 MacroMicro (約2026-09-14)\n• [Interest Rates and Stock Prices: An Old Debate Flares Up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09-13)", "inline": false}
+        {"name": "01. AI熱潮持續發酵：基礎建設瓶頸、商業模式之爭與安全辯論同時成焦點（8個來源）⚠️ 與今天07:13重複", "value": "• [Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/) — Stratechery (2026-09-21)\n• [一文看懂中美 AI 模型戰爭：兩種商業模式、三個變局](https://www.macromicro.me/blog/thematic-study-understanding-the-uschina-ai-model-war-two-business-models-and-three-shifts) — 財經M平方 MacroMicro (2026-09-21)\n• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (約2026-09-15)\n• [The Cognitive Revolution (When Machines Do the Thinking)](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [The AI Language We Can't Read: Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (2026-09-10)", "inline": false},
+        {"name": "02. 利率政策與固定收益／股票估值辯論再度成為市場焦點（3個來源）⚠️ 與今天07:13重複", "value": "• [Our Thoughts on What Is Likely the Most Important Policy Decision of Our Lifetime](https://www.bridgewater.com/research-and-insights/our-thoughts-on-what-is-likely-the-most-important-policy-decision-of-our-lifetime) — Bridgewater Associates (2026-08-04)\n• [The Government Pension Fund Global – bond investment strategy](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (2026-09-01)\n• [Interest Rates and Stock Prices: An Old Debate Flares Up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-21_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-21_22-14.html"}
     }
   ]
 }
