@@ -1,16 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-22 22:19",
+      "title": "每日資訊彙整 2026-09-23 07:19",
       "description": "掃描40個來源，成功24個、失敗16個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI話題持續延燒（5個來源）⚠️與07:13重複", "value": "• [The AI Language We Can't Read: Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (約2026-09-08)\n• [2026下半年投資關鍵！AI行情變天？EP120](https://www.youtube.com/watch?v=XbWFt-0fEak) — 今周刊 (約2026-09-15)\n• [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign) — SemiAnalysis (2026-09-18)\n• [Arguments in Favor of AI Fair Use](https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/) — Kevin Kelly (2026-09-14)\n• [Introducing Generalist Intelligence](https://www.generalist.com/p/introducing-generalist-intelligence) — The Generalist (約2026-06-12)", "inline": false},
-        {"name": "02. 新創建造心法延續（3個來源）⚠️與07:13重複", "value": "• [The State of Startups in 2026](https://www.youtube.com/watch?v=yslXlV2BP_Y) — Y Combinator (約2026-09-17)\n• [Making Startups Powerful](https://paulgraham.com/powerful.html) — Paul Graham (約2026-09)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (約2026-07-14)", "inline": false},
-        {"name": "03. 資源與地緣政治博弈升溫（3個來源）", "value": "• [Gavekal Technologies: New Energy](https://research.gavekal.com/gavekal-technologies/gavekal-technologies-new-energy/) — Gavekal Research (約2026-09-16)\n• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (約2026 Q2末)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater (約2026-05)", "inline": false},
-        {"name": "04. 利率與總體經濟環境（2個來源）⚠️與07:13重複", "value": "• [MM一週盤前：美核心通膨超預期、升息機率升溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-core-inflation-exceeds-expectations-rate-hike-probability-rises-this-week-s-decisive-battle-is-the-fomc) — 財經M平方 MacroMicro (約2026-09-11)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09)", "inline": false}
+        {"name": "01. AI 模型與運算前緣議題持續發酵（3個來源）", "value": "• [Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/) — Stratechery (2026-09-21)\n• [Are Open Models Catching Up?](https://newsletter.semianalysis.com/p/are-open-models-catching-up) — SemiAnalysis (2026-08-21)\n• [The AI Language We Can't Read: Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (約2026-09-10)", "inline": false},
+        {"name": "02. 總體經濟與利率政策辯論延燒（3個來源）", "value": "• [More on Repealing the Laws of Economics](https://www.oaktreecapital.com/insights/memo/more-on-repealing-the-laws-of-economics) — Oaktree/Howard Marks (2026-09-22)\n• [5 Key Points from Our Q3 MEO](https://en.macromicro.me/blog/5-key-points-from-our-q3-meo-1t-megatrends-money-margin-macro) — MacroMicro (2026-09-17)\n• [Interest Rates and Stock Prices: An Old Debate Resurfaces!](https://aswathdamodaran.substack.com/p/interest-rates-and-stock-prices-an) — Damodaran (2026-09-10)", "inline": false},
+        {"name": "03. 新創與創投生態圈動態（2個來源）", "value": "• [The State of Startups in 2026](https://www.youtube.com/watch?v=yslXlV2BP_Y) — Y Combinator (約2026-09-17)\n• [Incubating The Horowitz Andreessen Academy](https://a16z.com/announcement/incubating-horowitz-andreessen-academy/) — a16z (2026-09-22)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-22_22-19.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-23_07-19.html"}
     }
   ]
 }
