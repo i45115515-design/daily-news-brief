@@ -1,15 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-22 07:13",
-      "description": "掃描40個來源，成功26個、失敗14個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-22 22:19",
+      "description": "掃描40個來源，成功24個、失敗16個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI 基礎建設投資與市場熱度持續升溫（5個來源）", "value": "• [Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar](https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference) — SemiAnalysis (約2026-09)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12)\n• [Our Partnership with Databricks](https://www.coatue.com/blog/perspective/our-partnership-with-databricks) — Coatue (約2026-07-20)\n• [2026下半年投資關鍵！AI行情變天？](https://www.youtube.com/watch?v=XbWFt-0fEak) — 今周刊 (約2026-09-16)\n• [AI 還會一直熱嗎？2026十大科技趨勢全解析](https://www.youtube.com/watch?v=oitLoeQEQCA) — DIGITIMES (約2026-01)", "inline": false},
-        {"name": "02. 新創建造心法與創投思維同時成為焦點（3個來源）", "value": "• [Making Startups Powerful](https://paulgraham.com/powerful.html) — Paul Graham (約2026-09)\n• [Catching the (Venture) Bus](https://a16z.com/catching-the-venture-bus/) — a16z (約2026-09-14)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group/ff.co (2026-07-14)", "inline": false},
-        {"name": "03. 利率典範轉移與資產估值辯論延燒（3個來源）", "value": "• [Taking Stock of the New Paradigm, with Co-CIO Karen Karniol-Tambour](https://www.bridgewater.com/research-and-insights/taking-stock-of-the-new-paradigm-with-co-cio-karen-karniol-tambour) — Bridgewater Associates (約2026-07-16)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09)\n• [What's Going on in Private Credit?](https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit) — Oaktree Capital (約2026-04-09)", "inline": false}
+        {"name": "01. AI話題持續延燒（5個來源）⚠️與07:13重複", "value": "• [The AI Language We Can't Read: Neuralese ft. Rob Miles](https://www.youtube.com/watch?v=iuHddnIzKRA) — Computerphile (約2026-09-08)\n• [2026下半年投資關鍵！AI行情變天？EP120](https://www.youtube.com/watch?v=XbWFt-0fEak) — 今周刊 (約2026-09-15)\n• [Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading](https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign) — SemiAnalysis (2026-09-18)\n• [Arguments in Favor of AI Fair Use](https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/) — Kevin Kelly (2026-09-14)\n• [Introducing Generalist Intelligence](https://www.generalist.com/p/introducing-generalist-intelligence) — The Generalist (約2026-06-12)", "inline": false},
+        {"name": "02. 新創建造心法延續（3個來源）⚠️與07:13重複", "value": "• [The State of Startups in 2026](https://www.youtube.com/watch?v=yslXlV2BP_Y) — Y Combinator (約2026-09-17)\n• [Making Startups Powerful](https://paulgraham.com/powerful.html) — Paul Graham (約2026-09)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Forum Group (約2026-07-14)", "inline": false},
+        {"name": "03. 資源與地緣政治博弈升溫（3個來源）", "value": "• [Gavekal Technologies: New Energy](https://research.gavekal.com/gavekal-technologies/gavekal-technologies-new-energy/) — Gavekal Research (約2026-09-16)\n• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (約2026 Q2末)\n• [Two Resource Grabs Reshaping Markets: Modern Mercantilism and AI](https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai) — Bridgewater (約2026-05)", "inline": false},
+        {"name": "04. 利率與總體經濟環境（2個來源）⚠️與07:13重複", "value": "• [MM一週盤前：美核心通膨超預期、升息機率升溫](https://www.macromicro.me/blog/mm-weekly-premarket-update-us-core-inflation-exceeds-expectations-rate-hike-probability-rises-this-week-s-decisive-battle-is-the-fomc) — 財經M平方 MacroMicro (約2026-09-11)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-22_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-22_22-19.html"}
     }
   ]
 }
