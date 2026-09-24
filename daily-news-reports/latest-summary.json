@@ -1,28 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-24 22:13",
-      "description": "掃描40個來源，成功23個、失敗17個。以下是被最多獨立來源同時談論的主題（本次三個主題皆與今天07:19報告的主題範疇重疊）：",
+      "title": "每日資訊彙整 2026-09-25 07:14",
+      "description": "掃描40個來源，成功26個、失敗14個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI產業動態與估值辯論（3個來源）⚠️ 與今天07:19的報告重複",
-          "value": "• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (2026-09-23)\n• [Greg Jensen on the Odd Lots Podcast: A February 2020 Moment for AI](https://www.bridgewater.com/research-and-insights/greg-jensen-on-the-odd-lots-podcast-a-february-2020-moment-for-ai) — Bridgewater Associates (2026-09-11，同07:19報告)\n• [AI's Bar Mitzvah Moment: From Hype & Hope to Business Questions!](https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html) — Aswath Damodaran (2026-08-20)",
+          "name": "01. AI技術前景、資本支出與風險辯論（5個來源）",
+          "value": "• [Sequoia Aims $10 Billion at AI, Reindustrialization](https://www.bloomberg.com/news/articles/2026-08-05/sequoia-aims-10-billion-at-ai-reindustrialization) — Sequoia Capital (2026-08-05)\n• [Greg Jensen on the Odd Lots Podcast: A February 2020 Moment for AI](https://www.bridgewater.com/research-and-insights/greg-jensen-on-the-odd-lots-podcast-a-february-2020-moment-for-ai) — Bridgewater Associates (2026-09-11)\n• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (2026-09-24約)\n• [Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/) — Stratechery (2026-09-21)\n• [While I Was Gone…](https://interconnect.substack.com/p/while-i-was-gone) — Kevin Xu/Interconnected (2026-09-02)",
           "inline": false
         },
         {
-          "name": "02. 利率、公債與總體經濟政策辯論（3個來源）⚠️ 與今天07:19的報告重複",
-          "value": "• [Another Blow For Bonds?](https://research.gavekal.com/) — Gavekal Research (2026-09-24，確切連結未能驗證)\n• [The Government Pension Fund Global: investment strategy for bonds](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (2026-09-01，同07:19報告)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (2026-09-22，同07:19報告)",
-          "inline": false
-        },
-        {
-          "name": "03. 新創與創業人才/教育生態動態（2個來源）⚠️ 與今天07:19的報告重複",
-          "value": "• [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) — Paul Graham (2026-08-30)\n• [Incubating The Horowitz Andreessen Academy](https://a16z.com/announcement/incubating-horowitz-andreessen-academy/) — a16z (2026-09-22，同07:19報告)",
+          "name": "02. 公債殖利率飆升與財政紀律疑慮（4個來源）",
+          "value": "• [Another Blow For Bonds?](https://research.gavekal.com/) — Gavekal Research (2026-09-24)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (2026-09-22)\n• [World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — NBIM via CNBC (2026-09-04)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-24_22-13.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-25_07-14.html"
       }
     }
   ]
