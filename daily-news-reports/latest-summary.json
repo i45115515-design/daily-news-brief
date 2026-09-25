@@ -1,23 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-25 07:14",
-      "description": "掃描40個來源，成功26個、失敗14個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-25 22:13",
+      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI技術前景、資本支出與風險辯論（5個來源）",
-          "value": "• [Sequoia Aims $10 Billion at AI, Reindustrialization](https://www.bloomberg.com/news/articles/2026-08-05/sequoia-aims-10-billion-at-ai-reindustrialization) — Sequoia Capital (2026-08-05)\n• [Greg Jensen on the Odd Lots Podcast: A February 2020 Moment for AI](https://www.bridgewater.com/research-and-insights/greg-jensen-on-the-odd-lots-podcast-a-february-2020-moment-for-ai) — Bridgewater Associates (2026-09-11)\n• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (2026-09-24約)\n• [Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/) — Stratechery (2026-09-21)\n• [While I Was Gone…](https://interconnect.substack.com/p/while-i-was-gone) — Kevin Xu/Interconnected (2026-09-02)",
+          "name": "01. 公債殖利率飆升、聯準會政策動向與財政紀律疑慮（5個來源）⚠️ 與今天07:14報告重複",
+          "value": "• [Another Blow For Bonds?](https://research.gavekal.com/) — Gavekal Research (2026-09-24約)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (2026-09-22)\n• [Analyses and assessments of the investment strategy for bonds](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (2026-09-01)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09)\n• [Warsh 上任首秀：大幅精簡聲明稿、拒交點陣圖！](https://www.macromicro.me/blog/market-update-fomc) — MacroMicro (2026-09約)",
           "inline": false
         },
         {
-          "name": "02. 公債殖利率飆升與財政紀律疑慮（4個來源）",
-          "value": "• [Another Blow For Bonds?](https://research.gavekal.com/) — Gavekal Research (2026-09-24)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (2026-09-22)\n• [World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — NBIM via CNBC (2026-09-04)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09)",
+          "name": "02. AI熱潮、算力基礎建設與風險辯論持續延燒（3個來源）⚠️ 與今天07:14報告重複",
+          "value": "• [My Two Cents on the AI Debate](https://www.youtube.com/watch?v=UoqizA1bOjc) — Peter Zeihan (2026-09-24約)\n• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (2026-09-24約)\n• [Partnering with Preview: Lights, Inference, Action](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/) — Sequoia Capital (2026-08-12約)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-25_07-14.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-25_22-13.html"
       }
     }
   ]
