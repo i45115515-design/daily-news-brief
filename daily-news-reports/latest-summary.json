@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-27 07:13",
-      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-27 22:14",
+      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 總體經濟：利率環境與「經濟法則」是否失靈的辯論（3個來源）", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (2026-09-22)\n• [September Client Q&A: Higher Rates, Higher Oil, Higher Stakes](https://en.macromicro.me/blog) — MacroMicro (2026-09-25)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (約2026-09)", "inline": false},
-        {"name": "02. AI基礎建設擴張與企業導入AI agent的結構性轉變（4個來源）", "value": "• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (2026-09-23)\n• [2026.39: Begun, the Aggregator Wars Have](https://stratechery.com/2026/begun-the-aggregator-wars-have/) — Stratechery (約2026-09-25)\n• [The Cognitive Revolution (When Machines Do the Thinking)](https://sequoiacap.com/article/the-cognitive-revolution) — Sequoia Capital (2026-09-02)\n• [Our Partnership with Databricks](https://www.coatue.com/blog/perspective/our-partnership-with-databricks) — Coatue (2026-07-20)", "inline": false},
-        {"name": "03. 石油與能源地緣政治轉變（2個來源）", "value": "• [The Venezuela Oil Deal Is Just the Start](https://www.youtube.com/watch?v=u1XSaK6UgRU) — Peter Zeihan (2026-09-18)\n• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (約2026年中)", "inline": false}
+        {"name": "01. AI基礎建設擴張與「AI是否為泡沫」的辯論（5個來源）⚠️與今天07:13重複", "value": "• [Everyone Says Datacenter Moratoriums Are Killing the US Buildout](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) — SemiAnalysis (2026-09-16)\n• [A February 2020 Moment for AI](https://www.bridgewater.com/research-and-insights/greg-jensen-on-the-odd-lots-podcast-a-february-2020-moment-for-ai) — Bridgewater (2026-09-11)\n• [Begun, the Aggregator Wars Have](https://stratechery.com/2026/begun-the-aggregator-wars-have/) — Stratechery (約2026-09-25)\n• [Tracking Global AI Talent Flow](https://interconnect.substack.com/p/there-and-back-again-tracking-global) — Kevin Xu (2026-09-24)\n• [My Two Cents on the AI Debate](https://www.youtube.com/watch?v=UoqizA1bOjc) — Peter Zeihan (2026-09-17)", "inline": false},
+        {"name": "02. 利率環境與債券殖利率上升的辯論（4個來源）⚠️與今天07:13重複", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (約2026-09-22)\n• [Another Blow For Bonds?](https://research.gavekal.com/author/tan-kai-xian/) — Gavekal Research (2026-09-24)\n• [聯準會三年來首度升息](https://www.macromicro.me/blog/market-update-the-federal-reserve-raises-interest-rates-for-the-first-time-in-three-years-and-the-dot-plot-suggests-a-25-basis-point-rate-hike-this-year) — MacroMicro (約2026-09-17)\n• [投資策略意見書：bonds](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/the-government-pension-fund-global--analyses-and-assessments-of-the-investment-strategy-for-bonds/) — NBIM (2026-09-01)", "inline": false},
+        {"name": "03. 早期創業與「如何建立公司」的思維（2個來源）", "value": "• [How to Earn a Billion Dollars](http://www.paulgraham.com/earn.html) — Paul Graham (約2026-06-14)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund/ff.co (約2026-07-14)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-27_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-27_22-14.html"}
     }
   ]
 }
