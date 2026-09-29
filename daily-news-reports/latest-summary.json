@@ -1,15 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-09-29 22:55",
-      "description": "掃描40個來源，成功28個、失敗12個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-09-30 07:20",
+      "description": "掃描40個來源，成功21個、失敗19個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 公債殖利率飆升／利率與財政紀律的辯論（3個來源）⚠️與今天07:13的報告重複", "value": "• [Another Blow For Bonds?](https://research.gavekal.com/) — Gavekal Research (2026-09-24)\n• [On the Question | September Client Q&A: Higher Rates, Higher Oil, Higher Stakes](https://en.macromicro.me/macro) — MacroMicro (約2026-09-25)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree/Howard Marks (約2026-09-22)", "inline": false},
-        {"name": "02. AI 代理人（Agent）投資熱潮加速（2個來源）", "value": "• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-28)\n• [One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/) — Stratechery (2026-09-29)", "inline": false},
-        {"name": "03. 創業者與「如何建立公司」的思維（2個來源）⚠️與今天07:13的報告重複", "value": "• [The State of Startups in 2026](https://www.youtube.com/watch?v=yslXlV2BP_Y) — Y Combinator (約2026-09-14)\n• [5 Ideas Reshaping How Founders Build Right Now](https://ff.co/5-ideas-reshaping-how-founders-build/) — Founders Fund (2026-07-14)", "inline": false}
+        {"name": "01. AI競賽重心從前沿模型轉向企業級應用、深度工作流與基礎設施（4個來源）", "value": "• [One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/) — Stratechery (2026-09-29)\n• The Race to Be Finance's AI Backbone: Why Deep Workflows Trump Frontier Models — Sequoia Capital官網 (2026-09-23，連結無法取得資料)\n• [ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns](https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard) — SemiAnalysis (約2026-09-23~25)\n• [The Machine Age Fund](https://a16z.com/the-machine-age-fund/) — a16z (2026-08-28)", "inline": false},
+        {"name": "02. 美國利率與財政政策論戰升溫，牽動資產評價（2個來源）", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital / Howard Marks (2026-09-22)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026年9月)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-29_22-55.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-09-30_07-20.html"}
     }
   ]
 }
