@@ -1,28 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-01 07:14",
-      "description": "掃描40個來源，成功31個、失敗9個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-01 22:13",
+      "description": "掃描40個來源，成功30個、失敗10個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI企業應用與基礎設施投資持續升溫（4個來源）",
-          "value": "• [OpenAI Dev Day, Dot and OpenAI's Product Transition](https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/) — Stratechery (2026-09-30)\n• [State of Markets II](https://a16z.com/state-of-markets-ii/) — a16z (2026-09-30)\n• [Listen Labs and Salesforce: Hear Your Customers](https://sequoiacap.com/article/listen-labs-and-salesforce-hear-your-customers) — Sequoia Capital (2026-09-29)\n• [Inside GLM-5.3: DRAM Memory TAM](https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53) — SemiAnalysis (2026-09-28)",
+          "name": "01. AI企業應用與基礎設施投資持續升溫（7個來源）⚠️與07:14報告重複",
+          "value": "• [An Interview About Muse, Amazon, and Walmart](https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/) — Stratechery (2026-10-01)\n• [State of Markets II](https://a16z.com/state-of-markets-ii/) — a16z (2026-09-30)\n• [Listen Labs and Salesforce](https://sequoiacap.com/article/listen-labs-and-salesforce-hear-your-customers) — Sequoia Capital (2026-09-29)\n• [A chatbot walks into a laboratory](https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory) — The Generalist (2026-09-29)\n• [Inside GLM-5.3: DRAM Memory TAM](https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53) — SemiAnalysis (2026-09-28)",
           "inline": false
         },
         {
-          "name": "02. 台灣科技/半導體出口與AI熱潮延燒（4個來源）",
-          "value": "• [台灣出口金額可能破兆 EP292](https://www.youtube.com/watch?v=kymMD41wPo8) — 財訊 (日期未確認)\n• [AI還會一直熱嗎？2026十大科技趨勢 EP331](https://www.youtube.com/watch?v=oitLoeQEQCA) — DIGITIMES (日期未確認)\n• [AI行情變天？EP120](https://www.youtube.com/watch?v=XbWFt-0fEak) — 今周刊 (日期未確認)\n• [科技產業盤點 EP234](https://www.youtube.com/watch?v=sJf3r8cktxw) — 曲博科技教室 (日期未確認)",
-          "inline": false
-        },
-        {
-          "name": "03. 全球利率與債券市場論戰持續（2個來源）",
-          "value": "• Not All Bond Markets Are Equal — Gavekal Research (2026-09-29，連結無法取得)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)",
+          "name": "02. 總體經濟／聯準會政策路徑與利率辯論（2個來源）⚠️與07:14報告「全球利率與債券市場論戰」重複",
+          "value": "• US Strategy: After The Inflationary Boom — Gavekal Research (2026-09-30，連結無法取得)\n• [創辦人撰文：重新定調聯準會路徑](https://www.macromicro.me/blog/founder-s-article-the-fed-is-redefining-its-path-but-the-fundamentals-remain-impeccable) — 財經M平方 MacroMicro (2026-09-30)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-01_07-14.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-01_22-13.html"
       }
     }
   ]
