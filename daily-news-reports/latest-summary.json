@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-03 22:14",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-04 07:13",
+      "description": "掃描40個來源，成功27個、失敗13個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 創投機構加碼投資AI新創（3個來源）", "value": "• [Listen Labs and Salesforce: Hear Your Customers](https://sequoiacap.com/article/listen-labs-and-salesforce-hear-your-customers) — Sequoia Capital 官網 (2026-09-29)\n• [Investing in doxxnet](https://a16z.com/announcement/investing-in-doxxnet/) — a16z (2026-10-01)\n• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-28)", "inline": false},
-        {"name": "02. 聯準會政策方向與利率路徑辯論（2個來源）⚠️ 與今天07:14的報告重複", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital / Howard Marks (2026-09-22)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false},
-        {"name": "03. 美中科技角力與AI基礎建設競賽（2個來源）", "value": "• [The Chinese AI Infrastructure Boom](https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom) — SemiAnalysis (2026-09-25)\n• [From Trees to Granite](https://interconnect.substack.com/p/from-trees-to-granite) — Kevin Xu (2026-09-29)", "inline": false}
+        {"name": "01. AI 資料中心電力需求（2個來源）", "value": "• [Greetings, Earthlings: Philip Johnston of Starcloud on Data Centers in Space](https://www.youtube.com/watch?v=FKHENV75b9Q) — Sequoia Capital (YouTube) (約2天前)\n• [Building Out the Power Grid: Large Power Transformers](https://www.youtube.com/watch?v=M8vAolvjZGs) — Peter Zeihan (2026-09-25~10-02)", "inline": false},
+        {"name": "02. 特化型AI模型與運算經濟性（2個來源）", "value": "• [Why a16z Says Specialized AI Beats One God Model](https://a16z.com/news-content/) — a16z (2026-10-03)\n• [Inside GLM-5.3: How Sparse Attention Affects DRAM Memory TAM](https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53) — SemiAnalysis (2026-09-28)", "inline": false},
+        {"name": "03. 中國地緣經濟與貿易關係（2個來源）", "value": "• [From Trees to Granite](https://interconnect.substack.com/p/from-trees-to-granite) — Kevin Xu / Interconnected (2026-09-29)\n• [Geoeconomic Monitor: Europe Fights China Shock](https://research.gavekal.com/) — Gavekal Research (2026-10-02)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-03_22-14.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-04_07-13.html"}
     }
   ]
 }
