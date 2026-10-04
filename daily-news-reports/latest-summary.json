@@ -1,16 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-04 22:13",
-      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-05 07:13",
+      "description": "掃描40個來源，成功24個、失敗16個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 利率與股市估值之辯（2個來源）", "value": "• [CEO House View: Rates Higher, Fundamentals Intact — The Growth Cycle Rolls On](https://en.macromicro.me/blog/ceo-house-view-rates-higher-fundamentals-intact-the-growth-cycle-rolls-on) — 財經M平方 MacroMicro (2026-10-01)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false},
-        {"name": "02. AI運算基礎設施：電力與記憶體需求（2個來源）⚠️ 與今天07:13的報告重複", "value": "• [Greetings, Earthlings: Starcloud on Data Centers in Space](https://www.youtube.com/watch?v=FKHENV75b9Q) — Sequoia Capital YouTube (約2026-10-02)\n• [How GLM5.3 Sparse Attention Affects HBM Memory Usage](https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53) — SemiAnalysis (2026-09-29)", "inline": false},
-        {"name": "03. 美國製造業重振與中美經貿角力（2個來源）⚠️ 部分與今天07:13的報告重複", "value": "• [The Case for the American Manufacturing Asset Class](https://a16z.com/the-case-for-the-american-manufacturing-asset-class/) — a16z (2026-10-02)\n• [From Trees to Granite: US-China Relations Super Bowl At Halftime](https://interconnect.substack.com/p/from-trees-to-granite) — Kevin Xu (2026-09-29)", "inline": false},
-        {"name": "04. 能源與基礎設施投資熱潮（2個來源）", "value": "• [New investment in unlisted renewable energy infrastructure](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure/) — NBIM (2026-10-02)\n• [Podcast: The Oil Supply Shock Hiding in Plain Sight](https://blog.gorozen.com/blog/podcast-the-oil-supply-shock-hiding-in-plain-sight) — Goehring & Rozencwajg (2026-09-10)", "inline": false}
+        {"name": "01. AI運算基礎設施投資熱潮（3個來源）", "value": "• [Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (約2026-10-01)\n• [Greetings, Earthlings: Starcloud on Data Centers in Space](https://www.youtube.com/watch?v=FKHENV75b9Q) — Sequoia Capital YouTube (約2026-10-02)\n• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-28)", "inline": false},
+        {"name": "02. 利率與總經基本面之辯（2個來源）", "value": "• [CEO House View: Rates Higher, Fundamentals Intact](https://en.macromicro.me/blog/ceo-house-view-rates-higher-fundamentals-intact-the-growth-cycle-rolls-on) — MacroMicro 財經M平方 (2026-10-01)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false},
+        {"name": "03. 中國地緣經濟角力（2個來源）", "value": "• [From Trees to Granite: The US-China Relations Super Bowl At Halftime](https://interconnect.substack.com/p/from-trees-to-granite) — Kevin Xu / Interconnected (約2026-09-29)\n• [Geoeconomic Monitor: Europe Fights China Shock](https://research.gavekal.com/) — Gavekal Research (2026-10-02)", "inline": false},
+        {"name": "04. 能源政策與商品供給角力（2個來源）", "value": "• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (2026-08-28)\n• [Carbon Pricing's Impact on Global Industry Is Quietly Growing](https://www.bridgewater.com/research-and-insights) — Bridgewater Associates (2026年9月)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-04_22-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-05_07-13.html"}
     }
   ]
 }
