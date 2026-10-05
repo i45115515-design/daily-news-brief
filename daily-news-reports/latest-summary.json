@@ -1,16 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-05 07:13",
-      "description": "掃描40個來源，成功24個、失敗16個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-05 22:13",
+      "description": "掃描40個來源，成功22個、失敗18個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI運算基礎設施投資熱潮（3個來源）", "value": "• [Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX](https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia) — SemiAnalysis (約2026-10-01)\n• [Greetings, Earthlings: Starcloud on Data Centers in Space](https://www.youtube.com/watch?v=FKHENV75b9Q) — Sequoia Capital YouTube (約2026-10-02)\n• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-28)", "inline": false},
-        {"name": "02. 利率與總經基本面之辯（2個來源）", "value": "• [CEO House View: Rates Higher, Fundamentals Intact](https://en.macromicro.me/blog/ceo-house-view-rates-higher-fundamentals-intact-the-growth-cycle-rolls-on) — MacroMicro 財經M平方 (2026-10-01)\n• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/2026/09/interest-rates-and-stock-prices-old.html) — Aswath Damodaran (2026-09-10)", "inline": false},
-        {"name": "03. 中國地緣經濟角力（2個來源）", "value": "• [From Trees to Granite: The US-China Relations Super Bowl At Halftime](https://interconnect.substack.com/p/from-trees-to-granite) — Kevin Xu / Interconnected (約2026-09-29)\n• [Geoeconomic Monitor: Europe Fights China Shock](https://research.gavekal.com/) — Gavekal Research (2026-10-02)", "inline": false},
-        {"name": "04. 能源政策與商品供給角力（2個來源）", "value": "• [Why the Tanks Have Not (Yet) Run Dry](https://www.gorozen.com/commentaries/2026-q2) — Goehring & Rozencwajg (2026-08-28)\n• [Carbon Pricing's Impact on Global Industry Is Quietly Growing](https://www.bridgewater.com/research-and-insights) — Bridgewater Associates (2026年9月)", "inline": false}
+        {"name": "01. AI資料中心資本支出熱潮與隱憂（3個來源）⚠️與今天07:13報告重複", "value": "• [The Macro Implications of the AI Capex Boom](https://www.bridgewater.com/research-and-insights/the-macro-implications-of-the-ai-capex-boom) — Bridgewater Associates (近期)\n• [CPUs are Back: The Datacenter CPU Landscape in 2026](https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu) — SemiAnalysis (2026年內)\n• [MM一週盤前：央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — MacroMicro 財經M平方 (約2026-10初)", "inline": false},
+        {"name": "02. 利率與總經基本面之辯（2個來源）⚠️與今天07:13報告重複", "value": "• [Interest Rates and Stock Prices: An Old Debate Flares up!](https://aswathdamodaran.blogspot.com/) — Aswath Damodaran (2026-09-10)\n• [MM一週盤前：央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — MacroMicro 財經M平方 (約2026-10初)", "inline": false},
+        {"name": "03. 美伊地緣政治緊張升溫（2個來源）", "value": "• [U.S. Sanctions on Iran Take a New Approach](https://www.youtube.com/watch?v=BDaQXA0Tj80) — Peter Zeihan (約2026-09-30)\n• [MM一週盤前：央行分歧加劇、巨頭現金流下滑](https://www.macromicro.me/blog/mm-weekly-premarket-update-hawkish-signals-from-the-central-bank-and-escalating-tensions-between-the-us-and-iran-this-week-s-focus-is-on-nonfarm-payrolls) — MacroMicro 財經M平方 (約2026-10初)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-05_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-05_22-13.html"}
     }
   ]
 }
