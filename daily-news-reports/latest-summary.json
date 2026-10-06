@@ -1,23 +1,18 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-06 22:14",
-      "description": "掃描40個來源，成功17個、失敗23個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-07 07:13",
+      "description": "掃描40個來源，成功11個、失敗29個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI投資熱潮估值與訂閱定價之辯（2個來源）⚠️與今天07:13報告重複",
-          "value": "• [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) — SemiAnalysis (2026-10-05)\n• [An Investor Letter From Cathie Wood](https://www.ark-invest.com/articles/market-commentary/investor-letter-cathie-wood) — ARK Invest (2026-09-22)",
-          "inline": false
-        },
-        {
-          "name": "02. AI代理人(AI Agent)創業鉅額融資熱潮（2個來源）",
-          "value": "• [Partnering with Cymphony: Security Unlocks Adoption](https://sequoiacap.com/article/partnering-with-cymphony-security-unlocks-adoption) — Sequoia Capital (2026-09-09)\n• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-29)",
+          "name": "01. 美國公債殖利率飆升至多年高點，財政赤字壓力引發市場憂慮（2個來源）",
+          "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital / Howard Marks (2026-09-22)\n• [【行情快報】美債殖利率創高，股市還能續強？四大關鍵一次解析！](https://www.macromicro.me/blog/market-update-us-treasury-yields-hit-record-highs-can-the-stock-market-continue-its-upward-trend-four-key-factors-analyzed-at-once) — 財經M平方 MacroMicro (約2026-10-06)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-06_22-14.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-07_07-13.html"
       }
     }
   ]
