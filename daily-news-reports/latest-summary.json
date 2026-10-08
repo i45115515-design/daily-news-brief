@@ -1,17 +1,22 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-08 07:14",
-      "description": "掃描40個來源，成功15個、失敗25個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-08 22:13",
+      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI 代理人（Agent）熱潮：VC加碼、標準成形、訂閱經濟競爭（5個來源）",
-          "value": "• [David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion](https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion/) — a16z (2026-10-04)\n• [Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/) — Stratechery (2026-10-07)\n• [Partnering with Mecka: Bringing AI to the Physical World](https://sequoiacap.com/article/partnering-with-mecka) — Sequoia Capital (2026-10-07)\n• [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) — SemiAnalysis (2026-10-05)\n• [Partnering with Instinct](https://www.coatue.com/blog/perspective/partnering-with-instinct) — Coatue (2026-09-28)",
+          "name": "01. AI投資與基礎建設熱潮持續延燒（4個來源）⚠️與07:14重複",
+          "value": "• [Partnering with Mecka: Bringing AI to the Physical World](https://sequoiacap.com/article/partnering-with-mecka) — Sequoia Capital (2026-10-07)\n• [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) — SemiAnalysis (2026-10-05)\n• [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/) — a16z (2026-10-07)\n• [Jaan Tallinn would like us to survive](https://generalist.com/p/jaan-tallinn-would-like-us-to-survive) — The Generalist (2026-10-08)",
+          "inline": false
+        },
+        {
+          "name": "02. 總經／市場展望密集發布：Q4/3Q策略展望季（4個來源）",
+          "value": "• [Q4 Outlook: Hiking From Strength](https://en.macromicro.me/blog/q4-outlook-hiking-from-strength-why-rising-yields-have-not-tightened-funding) — 財經M平方 MacroMicro (2026-10-07)\n• [Public Markets Update](https://www.coatue.com/blog/perspective/public-markets-update-2026-10-07) — Coatue (2026-10-07)\n• [Quarterly Strategy Review: 3Q26](https://research.gavekal.com/) — Gavekal Research (2026-10-05)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree / Howard Marks (2026-09-22)",
           "inline": false
         }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-08_07-14.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-08_22-13.html"}
     }
   ]
 }
