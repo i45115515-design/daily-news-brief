@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-09 07:13",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-09 22:14",
+      "description": "掃描40個來源，成功12個、失敗28個（本次WebFetch因環境DNS限制全面失效，多改用WebSearch交叉查證，信心度偏低）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI支出效益與獲利能否兌現引發熱議（4個來源）", "value": "• [The Top 100 Gen AI Consumer Apps — 7th Edition](https://a16z.com/100-gen-ai-apps-7/) — a16z (2026-10-05)\n• [Anthropic Subscriptions Offer 5x+ More Value Than OpenAI](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) — SemiAnalysis (2026-10-05)\n• [Earnings, Cashflows and Stock Prices: The AI Spending plays through!](https://aswathdamodaran.substack.com/p/earnings-cashflows-and-stock-prices) — Aswath Damodaran (2026-10-08)\n• [Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/) — Stratechery (2026-10-07)", "inline": false}
+        {"name": "01. 半導體先進製程與晶片設計話題（2個來源，信心中等）", "value": "• 曲博科技教室 EP188（ft. 閎康科技董事長談先進製程/矽光子） — 曲博科技教室 Dr. J Class (約2026-08-14)\n• AI, EDA, and Chip Design — Asianometry (約2026-09-03)\n⚠️ 日期為近似值，連結未能完全驗證", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-09_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-09_22-14.html"}
     }
   ]
 }
