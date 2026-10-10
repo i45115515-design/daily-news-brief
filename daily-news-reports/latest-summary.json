@@ -1,13 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-10 07:13",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-10 22:13",
+      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資本支出與基礎設施擴張熱潮（2個來源）", "value": "• [The Macro Implications of the AI Capex Boom](https://www.bridgewater.com/research-and-insights/the-macro-implications-of-the-ai-capex-boom) — Bridgewater Associates (2026-01-07)\n• [AI is Expanding Across the Stack](https://www.coatue.com/blog/perspective/ai-is-expanding-across-the-stack) — Coatue (2026-04-28)", "inline": false}
+        {"name": "01. AI效應擴散至股市、財富與企業獲利（2個來源）", "value": "• [Why AI Is Vacuuming Up the World's Wealth](https://www.bloomberg.com/news/articles/2026-10-08/why-ai-is-vacuuming-up-the-world-s-wealth) — Bloomberg Originals (2026-10-08)\n• [Stock Prices, Earnings and Cashflows: The AI Effect plays through!](https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html) — Aswath Damodaran (2026-10-08)", "inline": false},
+        {"name": "02. AI創投資金持續湧入新創公司（2個來源）", "value": "• [Investing in TypeSafe AI](https://a16z.com/announcement/investing-in-typesafe-ai/) — a16z (2026-10-09)\n• [Partnering with Catalyst: Turning Ideas into Trades](https://sequoiacap.com/article/partnering-with-catalyst-turning-ideas-into-trades) — Sequoia Capital (2026-10-08)", "inline": false},
+        {"name": "03. AI安全與監管辯論升溫（2個來源）", "value": "• [Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier) — SemiAnalysis (2026-10-08)\n• [Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive) — The Generalist (2026-10-08)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-10_07-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-10_22-13.html"}
     }
   ]
 }
