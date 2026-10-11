@@ -1,14 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-11 07:18",
-      "description": "掃描40個來源，成功8個、失敗32個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-11 22:13",
+      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI估值過熱／泡沫疑慮持續升溫（4個來源）", "value": "• [AI Hurtles Ahead](https://oaktreecapital.com/insights/memo/ai-hurtles-ahead) — Oaktree/Howard Marks (2026-02-26)\n• [The Era of Computing Power Securitization Has Arrived](https://en.macromicro.me/blog/the-era-of-computing-power-securitization-has-arrived-will-ai-repeat-the-2008-subprime-crisis) — MacroMicro (2026-08-21)\n• [Ray Dalio warns AI bubble echoes 1929 and 2000](https://fortune.com/2026/08/04/ray-dalio-ai-bubble-1929-2000-ipos-wealth-is-not-money/) — Bridgewater/Dalio (2026-08-04)\n• [China Enters the Data Center, AI Profits Walk Out](https://www.castfox.net/podcast/riskreversal-pod-1366742) — Gavekal/Gave (2026-07-10)", "inline": false},
-        {"name": "02. 大型機構投資人陸續減碼AI／科技股持倉（2個來源）", "value": "• [Bridgewater Q2 2026持倉揭露：減碼Nvidia/AMD/Micron/Amazon](https://pluang.com/en/news-feed/portofolio-saham-terbaru-ray-dalio) — Bridgewater Associates (持倉2026-06-30)\n• [Tracking Coatue Management Portfolio - Q1 2026 Update](https://seekingalpha.com/article/4925703-tracking-philippe-laffonts-coatue-management-portfolio-q1-2026-update) — Coatue (約2026 Q2)", "inline": false}
+        {"name": "01. 頂級創投機構近期密集宣布加碼AI新創投資（2個來源）", "value": "• [Investing in TypeSafe AI](https://a16z.com/announcement/investing-in-typesafe-ai/) — a16z (2026-10-09)\n• [Partnering with Mecka: Bringing AI to the Physical World](https://sequoiacap.com/article/partnering-with-mecka) — Sequoia Capital (2026-10-07)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-11_07-18.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-11_22-13.html"}
     }
   ]
 }
