@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-11 22:13",
+      "title": "每日資訊彙整 2026-10-12 07:14",
       "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. 頂級創投機構近期密集宣布加碼AI新創投資（2個來源）", "value": "• [Investing in TypeSafe AI](https://a16z.com/announcement/investing-in-typesafe-ai/) — a16z (2026-10-09)\n• [Partnering with Mecka: Bringing AI to the Physical World](https://sequoiacap.com/article/partnering-with-mecka) — Sequoia Capital (2026-10-07)", "inline": false}
+        {"name": "01. 兩大創投機構同時談及「TypeSafe」（2個來源）", "value": "• [Investing in TypeSafe AI](https://a16z.com/announcement/investing-in-typesafe-ai/) — a16z (2026-10-09)\n• [TypeSafe: The Jevolution](https://sequoiacap.com/article/typesafe-the-jevolution) — Sequoia Capital (2026-10-10)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-11_22-13.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-12_07-14.html"}
     }
   ]
 }
