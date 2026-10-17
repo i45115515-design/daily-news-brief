@@ -1,15 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-17 07:12",
-      "description": "掃描40個來源，成功3個、失敗37個（含全部16個YouTube頻道）。本次3個成功來源各自談論不同主題，沒有任何主題被2個以上互相獨立的來源同時報導，故無符合門檻的重複主題：",
+      "title": "每日資訊彙整 2026-10-17 22:07",
+      "description": "掃描40個來源，成功6個、失敗34個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "Berkshire Hathaway 股東信", "value": "• [Greg Abel首次致股東信（涵蓋2025年度）](https://www.berkshirehathaway.com/letters/letters.html) — Berkshire Hathaway (2026-02-28)", "inline": false},
-        {"name": "NBIM（挪威主權基金）", "value": "• [與Copenhagen Infrastructure Partners達成12億歐元再生能源基金投資協議](https://www.nbim.no/en/the-fund/news-list/) — NBIM (2026-10-02)", "inline": false},
-        {"name": "Paul Graham", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — Paul Graham (2026-06)", "inline": false}
+        {"name": "01. AI未來發展與風險的跨領域討論（3個來源）", "value": "• [David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion](https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion/) — a16z (2026-10-04)\n• [Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive) — The Generalist (2026-10-08)\n• [A Catechism for Robots](https://kk.org/thetechnium/a-catechism-for-robots/) — Kevin Kelly (2026-04-13)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-17_07-12.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-17_22-07.html"}
     }
   ]
 }
