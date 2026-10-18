@@ -40,6 +40,7 @@
   a { color: #2f6feb; text-decoration: none; }
   a:hover { text-decoration: underline; }
   .conf { color: #b35900; }
+  .dup { color: #cf222e; font-weight: 600; }
   .fail-list { columns: 2; column-gap: 24px; font-size: 0.92rem; color: #57606a; }
   .fail-list li { margin-bottom: 4px; }
   footer { margin-top: 2.5em; font-size: 0.85rem; color: #8b949e; }
@@ -50,44 +51,94 @@
 <p class="meta">台灣時間 2026-10-19 07:06</p>
 
 <div class="notice">
-<strong>執行說明：</strong>本次掃描 40 個設定來源。直接連線（WebFetch）對本次嘗試的每一個網域（包含非 YouTube 的一般網站，例如 stratechery.com、berkshirehathaway.com 等）全數回報 DNS 解析失敗（getaddrinfo ENOTFOUND），判斷為執行環境本次對外連線的基礎設施問題，而非個別網站失效（經查，上一次 2026-10-18 22:14 的報告也遇到相同狀況）。因此全程改以 WebSearch 交叉查證取代直接讀取頁面。對於搜尋結果模糊、矛盾、過於陳舊，或無法同時取得可信「標題＋日期＋原始連結」三項組合的來源，一律照實標記為「無法取得資料」，未做任何猜測或編造連結。本次成功取得具可信標題＋日期＋連結的來源共 6 個，其餘 34 個來源如實列於文末。
+<strong>執行說明：</strong>本次掃描 40 個設定來源。直接連線（WebFetch）對本次嘗試的每一個目標網域（包含非 YouTube 網域，如 stratechery.com、berkshirehathaway.com、oaktreecapital.com 等）全部回報 DNS 解析失敗，判斷為執行環境的網路白名單限制，因此全程改以 WebSearch 交叉查證取代直接讀取頁面。這與上一次（2026-10-18 22:14）執行時觀察到的狀況相同，代表這個問題至少已連續發生兩次執行，很可能不是單次偶發的暫時性故障，建議人工檢查這個雲端環境的網路存取設定（Network access）。對於搜尋結果模糊、矛盾、過於陳舊，或無法取得可信連結與日期組合的項目，一律照實標記為「無法取得資料」，未做任何猜測或編造連結。本次成功取得具可信標題＋日期＋連結的來源共 20 個，其餘 20 個來源如實列於文末。
 </div>
 
 <h2>🔥 本次重複主題</h2>
 
 <div class="topic">
-<p>本次成功取得資料的 6 個來源，各自報導的是彼此不相關的獨立主題（創業思考、金融科技新創、美中關係評論、主權基金綠能投資、企業併購史、中國年度觀察），<strong>未發現有 2 個以上互相獨立的來源在本次執行時間點附近同時報導/討論同一共同主題</strong>。這與搜尋覆蓋率因前述網路連線問題大幅下降有直接關係（成功率僅 6/40），故沒有勉強湊出重複主題，照實呈現。</p>
+<h3><span class="count">01. AI晶片供應鏈與資本支出持續加速（2個獨立來源）</span></h3>
+<p class="src">兩個互相獨立的半導體／宏觀研究來源，近期分別從「晶片封裝設備」與「晶圓代工廠營收展望」角度，呈現AI相關資本支出仍在加速的同一趨勢。</p>
+<ul>
+<li><a href="https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding">ASML Is Building a Hybrid Bonding Tool, Sending More Chills to Besi</a><br>
+<span class="src">來源：SemiAnalysis・2026-10-15</span></li>
+<li><a href="https://en.macromicro.me/blog/tsmc-s-ai-boom-deepens-revenue-growth-forecast-raised-to-44-as-advancednode-demand-climbs">TSMC's AI Boom Deepens: Revenue Growth Forecast Raised to 44% as Advanced-Node Demand Climbs</a><br>
+<span class="src">來源：財經M平方 MacroMicro・2026-10-16</span></li>
+</ul>
 </div>
 
-<h2>本次成功取得的各來源最新內容（單一來源，未達重複門檻）</h2>
+<div class="topic">
+<h3><span class="count">02. 美國公債殖利率飆升與財政／債務壓力（2個獨立來源）</span></h3>
+<p class="src">兩個互相獨立的投資研究來源，近期分別討論美國政府試圖以政策工具（如國債買回計畫）壓抑長端殖利率的做法，以及公債殖利率走高對美國財政負擔的衝擊，屬於同一宏觀主題的不同切面。</p>
+<ul>
+<li><a href="https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii">Shall We Repeal the Laws of Economics – Part III</a><br>
+<span class="src">來源：Oaktree Capital / Howard Marks備忘錄・2026-09-22</span></li>
+<li><a href="https://en.macromicro.me/blog/treasury-yields-are-surging-three-ways-out-of-the-debt-trap">US Debt Is Tightening Its Grip: Three Ways Out of the Trap</a><br>
+<span class="src">來源：財經M平方 MacroMicro・2026-09-04<span class="conf">（發布時間較早，但為該來源另一篇與主題01不同的最新相關文章）</span></span></li>
+</ul>
+</div>
+
+<h2>其他各來源最新內容（單一來源，未達重複門檻）</h2>
 <ul>
 
-<li><a href="https://paulgraham.com/earn.html">How to Earn a Billion Dollars</a><br>
-<span class="src">來源：Paul Graham・2026年6月</span></li>
+<li><a href="https://www.coatue.com/blog/perspective/public-markets-update-2026-10-07">Public Markets Update Deck</a><br>
+<span class="src">來源：Coatue・2026-10-07</span></li>
 
-<li><a href="https://www.generalist.com/p/38x-in-ten-months-inside-one-of-fintechs">38x in ten months: inside one of fintech's...</a><br>
-<span class="src">來源：The Generalist・2026-08-18</span></li>
+<li><a href="https://a16z.com/introducing-securing-americas-infrastructure-foundation">Introducing Securing America's Infrastructure Foundation</a><br>
+<span class="src">來源：a16z・2026-10-15</span></li>
 
-<li><a href="https://stratechery.com/2026/its-not-you-its-me/">It's Not You, It's Me（2026.41 Daily Update，含「Friends Without Benefits」一節，主題為美中關係）</a><br>
-<span class="src">來源：Stratechery・2026-10-09</span></li>
+<li><a href="https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/">Apple HomeView, The New Apple TV, The App Story</a><br>
+<span class="src">來源：Stratechery・2026-10-14</span></li>
 
-<li><a href="https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/">New investment in unlisted renewable energy infrastructure（承諾12億歐元投入Copenhagen Infrastructure Partners第六期旗艦綠能基金CI VI）</a><br>
-<span class="src">來源：NBIM（挪威主權基金）・2026-10-01</span></li>
+<li><a href="https://sequoiacap.com/article/partnering-with-catalyst-turning-ideas-into-trades">Partnering with Catalyst: Turning Ideas into Trades</a><br>
+<span class="src">來源：Sequoia Capital官網・2026-10-08</span></li>
 
-<li><a href="https://www.acquired.fm/episodes/home-depot">Home Depot</a><br>
-<span class="src">來源：Acquired（Podcast/YouTube）・2026-09-14</span></li>
+<li><a href="https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive">Jaan Tallinn would like us to survive</a><br>
+<span class="src">來源：The Generalist・2026-10-08</span></li>
 
-<li><a href="https://danwang.co/2025-letter/">2025 Letter（中國與矽谷、AI、製造業年度觀察信）</a><br>
-<span class="src">來源：Dan Wang・2026年1月（第三方報導引用之連結，未能直接連線原站驗證，發布時間也較舊，為該來源目前查得的最新內容）<span class="conf">⚠️ 連結未經原站直接驗證</span></span></li>
+<li><a href="https://www.ark-invest.com/articles/market-commentary/investor-letter-cathie-wood">An Investor Letter From Cathie Wood</a><br>
+<span class="src">來源：ARK Invest・2026-09-22</span></li>
+
+<li><a href="https://www.acquired.fm/episodes/home-depot">The Home Depot</a><br>
+<span class="src">來源：Acquired（YouTube頻道內容，以官方節目網站acquired.fm確認）・2026-09-14<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://www.gorozen.com/commentaries/2026-q2">G&amp;R Q2 2026 Commentary</a><br>
+<span class="src">來源：Goehring &amp; Rozencwajg・2026-08-28<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html">AI's Bar Mitzvah Moment: From Hype &amp; Hope to Business Questions!</a><br>
+<span class="src">來源：Aswath Damodaran (Musings on Markets)・2026-08-20<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://paulgraham.com/prepare.html">How Universities Should Prepare Founders</a><br>
+<span class="src">來源：Paul Graham・2026年8月<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://marathoncapital.com/news-events">Marathon Capital Names Adam Ludwiczak as Head of European Investment Banking</a><br>
+<span class="src">來源：Marathon Capital・2026-09-09<span class="conf">（連結為該公告所在的新聞總覽頁，查無單篇公告的獨立網址；發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://kk.org/cooltools/whats-in-my-now-moses-masenoi/">What's in my NOW? — Moses Masenoi</a><br>
+<span class="src">來源：Kevin Kelly（Cool Tools）・2026-10-14</span></li>
+
+<li><a href="https://www.berkshirehathaway.com/letters/letters.html">2025年度股東信（Greg Abel首次執筆）</a><br>
+<span class="src">來源：Berkshire Hathaway 股東信・2026-02-28<span class="conf">（發布時間較早，但為該來源目前查得的最新內容；Berkshire通常僅每年發布一次年度股東信）</span></span></li>
+
+<li><a href="https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/fund-forms-new-retail-partnership-in-the-us/">Fund forms new retail partnership in the US</a><br>
+<span class="src">來源：NBIM（挪威主權基金）・2026-07-07<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://verdadcap.com/archive/japans-big-equity-bet">Japan's Big Equity Bet</a><br>
+<span class="src">來源：Verdad Capital・2026-05-04<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://research.gavekal.com/gavekal-technologies/gavekal-technologies-chips/">Gavekal Technologies: Chips</a><br>
+<span class="src">來源：Gavekal Research・2026-07-30<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
+
+<li><a href="https://danwang.co/2025-letter/">2025 letter</a><br>
+<span class="src">來源：Dan Wang・2026-01-01<span class="conf">（發布時間較早，但為該來源目前查得的最新內容）</span></span></li>
 
 </ul>
 
-<h2>無法取得資料的來源（34個）</h2>
+<h2>無法取得資料的來源</h2>
 <ul class="fail-list">
 <li>Bloomberg Originals（YouTube頻道）</li>
 <li>Financial Times（YouTube頻道）</li>
 <li>VisualPolitik（YouTube頻道）</li>
-<li>Sequoia Capital（YouTube頻道）</li>
 <li>Y Combinator（YouTube頻道）</li>
 <li>Asianometry（YouTube頻道）</li>
 <li>Computerphile（YouTube頻道）</li>
@@ -98,25 +149,12 @@
 <li>DIGITIMES（YouTube頻道）</li>
 <li>財訊（YouTube頻道）</li>
 <li>今周刊（YouTube頻道）</li>
-<li>Peter Zeihan（YouTube頻道）</li>
-<li>Berkshire Hathaway 股東信</li>
-<li>Oaktree Capital / Howard Marks備忘錄</li>
+<li>Peter Zeihan (Zeihan on Geopolitics)（YouTube頻道）</li>
+<li>Sequoia Capital（YouTube頻道）</li>
 <li>Bridgewater Associates</li>
-<li>Marathon Capital</li>
-<li>Gavekal Research</li>
-<li>Goehring &amp; Rozencwajg</li>
-<li>Verdad Capital</li>
-<li>財經M平方 MacroMicro</li>
-<li>ARK Invest</li>
-<li>a16z</li>
 <li>Founders Fund</li>
-<li>Sequoia Capital官網</li>
 <li>Gavin Baker（Medium）</li>
-<li>Kevin Kelly</li>
-<li>SemiAnalysis</li>
-<li>Kevin Xu（Interconnected）</li>
-<li>Coatue</li>
-<li>Aswath Damodaran (Musings on Markets)</li>
+<li>Kevin Xu（Interconnected.blog）</li>
 <li>Acquired Podcast（X/Twitter帳號）</li>
 </ul>
 

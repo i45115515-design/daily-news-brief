@@ -2,15 +2,11 @@
   "embeds": [
     {
       "title": "每日資訊彙整 2026-10-19 07:06",
-      "description": "掃描40個來源，成功6個、失敗34個（本次WebFetch對所有一般網站網域皆回報DNS解析失敗，判斷為環境網路問題，改以WebSearch交叉查證）。本次6個成功來源各自主題不同，未發現2個以上獨立來源同時談論的共同主題，以下為各來源最新內容：",
+      "description": "掃描40個來源，成功20個、失敗20個（WebFetch對一般網站網域仍回報DNS解析失敗，改以WebSearch交叉查證）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "Paul Graham", "value": "• [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — 2026年6月", "inline": false},
-        {"name": "The Generalist", "value": "• [38x in ten months: inside one of fintech's...](https://www.generalist.com/p/38x-in-ten-months-inside-one-of-fintechs) — 2026-08-18", "inline": false},
-        {"name": "Stratechery", "value": "• [It's Not You, It's Me（含「Friends Without Benefits」，美中關係）](https://stratechery.com/2026/its-not-you-its-me/) — 2026-10-09", "inline": false},
-        {"name": "NBIM（挪威主權基金）", "value": "• [New investment in unlisted renewable energy infrastructure](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/) — 2026-10-01", "inline": false},
-        {"name": "Acquired", "value": "• [Home Depot](https://www.acquired.fm/episodes/home-depot) — 2026-09-14", "inline": false},
-        {"name": "Dan Wang ⚠️連結未經原站驗證", "value": "• [2025 Letter](https://danwang.co/2025-letter/) — 2026年1月", "inline": false}
+        {"name": "01. AI晶片供應鏈與資本支出持續加速（2個來源）", "value": "• [ASML Is Building a Hybrid Bonding Tool, Sending More Chills to Besi](https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding) — SemiAnalysis (2026-10-15)\n• [TSMC's AI Boom Deepens: Revenue Growth Forecast Raised to 44%](https://en.macromicro.me/blog/tsmc-s-ai-boom-deepens-revenue-growth-forecast-raised-to-44-as-advancednode-demand-climbs) — 財經M平方 MacroMicro (2026-10-16)", "inline": false},
+        {"name": "02. 美國公債殖利率飆升與財政/債務壓力（2個來源）", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital / Howard Marks (2026-09-22)\n• [US Debt Is Tightening Its Grip: Three Ways Out of the Trap](https://en.macromicro.me/blog/treasury-yields-are-surging-three-ways-out-of-the-debt-trap) — 財經M平方 MacroMicro (2026-09-04)", "inline": false}
       ],
       "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-19_07-06.html"}
     }
