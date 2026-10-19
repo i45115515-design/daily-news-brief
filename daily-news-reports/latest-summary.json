@@ -1,14 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-19 07:06",
+      "title": "每日資訊彙整 2026-10-19 22:18",
       "description": "掃描40個來源，成功20個、失敗20個（WebFetch對一般網站網域仍回報DNS解析失敗，改以WebSearch交叉查證）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI晶片供應鏈與資本支出持續加速（2個來源）", "value": "• [ASML Is Building a Hybrid Bonding Tool, Sending More Chills to Besi](https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding) — SemiAnalysis (2026-10-15)\n• [TSMC's AI Boom Deepens: Revenue Growth Forecast Raised to 44%](https://en.macromicro.me/blog/tsmc-s-ai-boom-deepens-revenue-growth-forecast-raised-to-44-as-advancednode-demand-climbs) — 財經M平方 MacroMicro (2026-10-16)", "inline": false},
-        {"name": "02. 美國公債殖利率飆升與財政/債務壓力（2個來源）", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital / Howard Marks (2026-09-22)\n• [US Debt Is Tightening Its Grip: Three Ways Out of the Trap](https://en.macromicro.me/blog/treasury-yields-are-surging-three-ways-out-of-the-debt-trap) — 財經M平方 MacroMicro (2026-09-04)", "inline": false}
+        {"name": "01. AI安全與治理論辯升溫（2個來源）", "value": "• [Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier) — SemiAnalysis (2026-10-08)\n• [Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive) — The Generalist (2026-10-08)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-19_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-19_22-18.html"}
     }
   ]
 }
