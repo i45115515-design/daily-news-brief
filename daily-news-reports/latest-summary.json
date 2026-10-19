@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-19 22:18",
-      "description": "掃描40個來源，成功20個、失敗20個（WebFetch對一般網站網域仍回報DNS解析失敗，改以WebSearch交叉查證）。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-20 07:06",
+      "description": "掃描40個來源，成功7個、失敗33個（本次WebFetch對所有網域皆回報DNS解析失敗，改以WebSearch交叉查證，但多數查無可信直接連結）。因可信來源過少且發布時間分散，本次未發現2個以上獨立來源在相近時間報導同一主題，以下列出本次查得的最新內容：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI安全與治理論辯升溫（2個來源）", "value": "• [Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier) — SemiAnalysis (2026-10-08)\n• [Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive) — The Generalist (2026-10-08)", "inline": false}
+        {"name": "本次查得的最新內容（無重複主題）", "value": "• [The Home Depot](https://www.acquired.fm/episodes/home-depot) — Acquired (2026-09-14)\n• [Quarterly Thematic Update: Q2 2026](https://europe.ark-funds.com/2026/08/quarterly-thematic-update-q2-2026/) — ARK Invest (2026-08)\n• [Stop Saying Half of 2026 US Datacenter Capacity Is Canceled](https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter) — SemiAnalysis (2026-06-18)\n• [2025年度股東信](https://www.berkshirehathaway.com/letters/letters.html) — Berkshire Hathaway (2026-02-28)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-19_22-18.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-20_07-06.html"}
     }
   ]
 }
