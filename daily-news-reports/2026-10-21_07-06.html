@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日資訊彙整 2026-10-21 07:06</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 24px 16px 60px;
+    line-height: 1.7;
+    color: #1f2328;
+    background: #fbfbfa;
+  }
+  h1 { font-size: 1.5rem; margin-bottom: 0.2em; }
+  .meta { color: #6a737d; font-size: 0.9rem; margin-bottom: 1.5em; }
+  h2 { font-size: 1.15rem; border-bottom: 1px solid #e5e9ee; padding-bottom: 6px; margin-top: 2em; }
+  h3 { font-size: 1rem; margin-top: 1.4em; margin-bottom: 0.4em; }
+  .overview {
+    background: #ffffff;
+    border: 1px solid #e5e9ee;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+  }
+  .notice {
+    background: #fff8e6;
+    border: 1px solid #f0d58c;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin: 1em 0;
+    font-size: 0.95rem;
+  }
+  .topic {
+    background: #ffffff;
+    border: 1px solid #e5e9ee;
+    border-left: 5px solid #0969da;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 16px;
+  }
+  .topic .count { color: #0969da; font-weight: 600; }
+  ul { padding-left: 1.2em; }
+  .evidence-list { list-style: none; padding: 0; margin: 10px 0 0; }
+  .evidence-list li { padding: 8px 0; border-top: 1px dashed #e5e9ee; margin-bottom: 0; }
+  .evidence-list li:first-child { border-top: none; }
+  li { margin-bottom: 10px; }
+  .src { color: #57606a; font-size: 0.9rem; }
+  a { color: #2f6feb; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .conf { color: #b35900; }
+  .dup { color: #cf222e; font-weight: 600; }
+  .cat-block { margin-bottom: 18px; }
+  .cat-block h4 { font-size: 0.95rem; color: #333; margin-bottom: 6px; }
+  .item-list { list-style: none; padding: 0; margin: 0; }
+  .item-list li { padding: 6px 0; font-size: 0.92rem; }
+  .fail-list { columns: 2; column-gap: 24px; font-size: 0.92rem; color: #57606a; }
+  .fail-list li { margin-bottom: 4px; }
+  footer { margin-top: 2.5em; font-size: 0.85rem; color: #8b949e; }
+</style>
+</head>
+<body>
+<h1>每日資訊彙整</h1>
+<p class="meta">台灣時間 2026-10-21 07:06</p>
+
+<div class="overview">
+<strong>總覽：</strong>本次共嘗試掃描 40 個設定來源（16 個 YouTube 頻道、9 個機構投資人研究網站、8 個創投/估值/科技思想類網站、7 個科技/半導體新知與企業洞見網站）。對所有來源的 WebFetch 直接連線本次全部回報 DNS 解析失敗或遭代理阻擋（youtube.com 全站、以及多個機構研究網站皆是），判斷為執行環境當下的網路白名單限制，因此全程改以 WebSearch 交叉查證取代直接讀取頁面。本次成功取得具可信標題＋日期＋連結組合的來源有 19 個，其餘 21 個來源（含全部 16 個 YouTube 頻道）查無可信且可確認時效性的具體資訊，如實列於文末。在這 19 個可信來源中，找出 4 個主題各被 2 個以上獨立來源同時討論，依重複來源數排序列於下方。
+</div>
+
+<div class="notice">
+⚠️ <strong>本次執行方法說明與人工複核提醒：</strong>
+(1) 16 個 YouTube 頻道本次 WebFetch 與 WebSearch 皆查無可驗證的頻道最新影片網址（youtube.com 本身在此環境遭網路白名單阻擋，RSS feed 亦無法連線），搜尋結果多為第三方追蹤站的過期快照或無法確認時效性的聚合頁，為避免誤植已誠實全數歸類為「無法取得資料」；
+(2) Coatue 的「AI is Expanding Across the Stack」一文經搜尋確認為其 Insights 列表頁上目前可見的項目，但發布日期（2026-04-28）明顯早於執行時間點，另有一則疑似更新的 10 月「Chart of the Day」短文查無法獨立驗證存在，故仍以可確認的項目列入，請留意其時效性較弱；
+(3) Gavekal Research 的「The Confluence Of Risks」與 財經M平方 MacroMicro 的快報文章，皆查得標題與日期但查無單篇文章的獨立永久連結（訂閱制或頁面結構限制），下方連結為研究首頁/部落格首頁而非單篇文章；
+(4) 任務原始清單中的「Founders Fund — https://ff.co/founders-insights/」經查證 ff.co 實際上是「Founders Forum Group」，並非 Peter Thiel 的 Founders Fund（官網為 foundersfund.com）；因任務指定的網址即為 ff.co，本報告仍依指定網址回報其最新內容，但特此註明名稱可能與使用者原意不符，供人工複核；
+(5) Acquired Podcast 的 X/Twitter 帳號、Gavin Baker 的 Medium、Bridgewater Associates、Marathon Capital、Verdad Capital 五個來源經多次搜尋仍查無可信且可確認時效性的具體資訊，誠實歸類為「無法取得資料」。
+</div>
+
+<h2>🔥 重複主題（依重複來源數排序）</h2>
+
+<div class="topic">
+<h3>01. AI 基礎建設加速 vs. 估值承壓的雙重敘事<span class="count">（4 個獨立來源）</span></h3>
+<ul class="evidence-list">
+<li><a href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration">Datacenters 2027: The Year of Acceleration, +50GW in a Single Year</a><br>
+<span class="src">來源：SemiAnalysis・2026-10-19</span></li>
+<li><a href="https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html">Stock Prices, Earnings and Cashflows: The AI Effect plays through!</a><br>
+<span class="src">來源：Aswath Damodaran (Musings on Markets)・2026-10-08</span></li>
+<li><a href="https://www.coatue.com/blog/perspective">AI is Expanding Across the Stack</a><br>
+<span class="src">來源：Coatue（Caryn Marooney）・2026-04-28<span class="conf">（日期較舊，見上方說明）</span></span></li>
+<li><a href="https://www.macromicro.me/blog">【行情快報】5% 殖利率吸走資金？AI 行情迎來壓力測試！</a><br>
+<span class="src">來源：財經M平方 MacroMicro・2026-10-20<span class="conf">（連結為部落格首頁，查無單篇文章獨立網址）</span></span></li>
+</ul>
+</div>
+
+<div class="topic">
+<h3>02. 機器人／具身智慧（Embodied AI）成為資金新焦點<span class="count">（3 個獨立來源）</span></h3>
+<ul class="evidence-list">
+<li><a href="https://www.generalist.com/p/pete-florence-when-robots-improvise">Pete Florence: When Robots Improvise</a><br>
+<span class="src">來源：The Generalist・2026-10-20</span></li>
+<li><a href="https://a16z.com/announcement/investing-in-eka-robotics/">Investing in Eka Robotics</a><br>
+<span class="src">來源：a16z・2026-10-20</span></li>
+<li><a href="https://www.ark-invest.com/articles/valuation-models/arks-expected-share-price-for-tesla-2031">ARK's Expected Share Price For Tesla In 2031</a><br>
+<span class="src">來源：ARK Invest・2026-10-19<span class="conf">（估值模型中納入 Tesla 人形機器人 Optimus 的貢獻假設）</span></span></li>
+</ul>
+</div>
+
+<div class="topic">
+<h3>03. 市場風險與「泡沫」警訊聲浪再起<span class="count">（2 個獨立來源）</span></h3>
+<ul class="evidence-list">
+<li><a href="https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii">Shall We Repeal the Laws of Economics – Part III</a><br>
+<span class="src">來源：Oaktree Capital / Howard Marks 備忘錄・2026-09-22</span></li>
+<li><a href="https://research.gavekal.com/">The Confluence Of Risks</a><br>
+<span class="src">來源：Gavekal Research（Louis-Vincent Gave）・2026-10-19<span class="conf">（連結為研究首頁，查無單篇文章獨立網址）</span></span></li>
+</ul>
+</div>
+
+<div class="topic">
+<h3>04. 中國科技與製造政策觀察<span class="count">（2 個獨立來源）</span></h3>
+<ul class="evidence-list">
+<li><a href="https://danwang.co/2025-letter/">2025 Letter</a><br>
+<span class="src">來源：Dan Wang・2026-01-01<span class="conf">（為目前查得該站最新文章，發布時間較早）</span></span></li>
+<li><a href="https://interconnected.blog/from-trees-to-granite/">From Trees to Granite</a><br>
+<span class="src">來源：Kevin Xu（Interconnected）・2026-09-29</span></li>
+</ul>
+</div>
+
+<h2>📚 本次成功取得資料的其他來源</h2>
+
+<div class="cat-block">
+<h4>機構投資人研究網站</h4>
+<ul class="item-list">
+<li><span class="src">Berkshire Hathaway 股東信</span> — <a href="https://www.berkshirehathaway.com/letters/2025ltr.pdf">Greg Abel 首次執筆的 2025 年度股東信</a> <span class="conf">(2026-02-28，每年僅發布一次，為目前最新一份)</span></li>
+<li><span class="src">Goehring &amp; Rozencwajg</span> — <a href="https://www.gorozen.com/commentaries/2026-q2">Why the Tanks Have Not (Yet) Run Dry — 2026年Q2天然資源市場評論</a> <span class="conf">(2026-08-28)</span></li>
+<li><span class="src">NBIM（挪威主權基金）</span> — <a href="https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/">與 Copenhagen Infrastructure Partners 達成 12 億歐元可再生能源基金（CI VI）投資協議</a> <span class="conf">(2026-10-02)</span></li>
+</ul>
+</div>
+
+<div class="cat-block">
+<h4>創投/估值/科技思想類網站</h4>
+<ul class="item-list">
+<li><span class="src">Paul Graham</span> — <a href="https://paulgraham.com/powerful.html">Making Startups Powerful</a> <span class="conf">(2026年9月)</span></li>
+<li><span class="src">Founders Fund（ff.co，非 foundersfund.com，見上方說明）</span> — <a href="https://ff.co/asias-best-founders/">What Asia's Best Founders Do Differently</a> <span class="conf">(原發布2026-09-07，頁面最後更新2026-10-19)</span></li>
+<li><span class="src">Sequoia Capital 官網</span> — <a href="https://sequoiacap.com/article/typesafe-the-jevolution">TypeSafe: The Jevolution</a> <span class="conf">(2026-10-10)</span></li>
+<li><span class="src">Kevin Kelly（kk.org / The Technium）</span> — <a href="https://kk.org/thetechnium/weekly-links-10-02-2026/">Weekly Links, 10/02/2026</a> <span class="conf">(2026-10-02)</span></li>
+</ul>
+</div>
+
+<div class="cat-block">
+<h4>科技/半導體新知與企業洞見</h4>
+<ul class="item-list">
+<li><span class="src">Stratechery</span> — <a href="https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/">Muse Spark Open, Meta + Apple, Thin and Thick</a> <span class="conf">(2026-10-20)</span></li>
+</ul>
+</div>
+
+<h2>無法取得資料的來源（21 個）</h2>
+<ul class="fail-list">
+<li>Bloomberg Originals（YouTube頻道）</li>
+<li>Financial Times（YouTube頻道）</li>
+<li>VisualPolitik（YouTube頻道）</li>
+<li>Acquired（YouTube頻道）</li>
+<li>Sequoia Capital（YouTube頻道）</li>
+<li>Y Combinator（YouTube頻道）</li>
+<li>Asianometry（YouTube頻道）</li>
+<li>Computerphile（YouTube頻道）</li>
+<li>IEEE Spectrum（YouTube頻道）</li>
+<li>曲博科技教室 Dr. J Class（YouTube頻道）</li>
+<li>The Wall Street Journal（YouTube頻道）</li>
+<li>CNBC International（YouTube頻道）</li>
+<li>DIGITIMES（YouTube頻道）</li>
+<li>財訊（YouTube頻道）</li>
+<li>今周刊（YouTube頻道）</li>
+<li>Peter Zeihan (Zeihan on Geopolitics)（YouTube頻道）</li>
+<li>Bridgewater Associates</li>
+<li>Marathon Capital</li>
+<li>Verdad Capital</li>
+<li>Gavin Baker（Medium）</li>
+<li>Acquired Podcast（X/Twitter帳號）</li>
+</ul>
+
+<footer>
+由每日資訊彙整排程任務自動產出・本報告僅彙整公開資訊，不含任何個人/敏感資料。
+</footer>
+</body>
+</html>
