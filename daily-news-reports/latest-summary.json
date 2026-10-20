@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-20 07:06",
-      "description": "掃描40個來源，成功8個、失敗32個（本次WebFetch對所有網域皆回報DNS解析失敗，改以WebSearch交叉查證，但多數查無可信直接連結）。因可信來源過少且發布時間分散，本次未發現2個以上獨立來源在相近時間報導同一主題，以下列出本次查得的最新內容：",
+      "title": "每日資訊彙整 2026-10-20 22:10",
+      "description": "掃描40個來源，成功7個、失敗33個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "本次查得的最新內容（無重複主題）", "value": "• [The Home Depot](https://www.acquired.fm/episodes/home-depot) — Acquired (2026-09-14)\n• [NBIM與CIP達成12億歐元可再生能源基金投資協議](https://www.nbim.no/en/the-fund/news-list/) — NBIM (2026-10-02)\n• [Quarterly Thematic Update: Q2 2026](https://europe.ark-funds.com/2026/08/quarterly-thematic-update-q2-2026/) — ARK Invest (2026-08)\n• [What's Going on in Private Credit?](https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit) — Oaktree Capital (2026-04-09)", "inline": false}
+        {"name": "01. AI基礎建設資本支出與估值辯論（3個來源）", "value": "• [Super Intelligence Is Not Right, Either](https://stratechery.com/archives/) — Stratechery (2026-10-02)\n• [David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion](https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion/) — a16z (2026-10-04)\n• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo-podcast/shall-we-repeal-the-laws-of-economics) — Oaktree / Howard Marks (約2026-09-22~10-03)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-20_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-20_22-10.html"}
     }
   ]
 }
