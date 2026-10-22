@@ -1,33 +1,28 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-22 07:06",
+      "title": "每日資訊彙整 2026-10-22 22:13",
       "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. AI 基礎建設加速 vs. 估值承壓的雙重敘事（3個來源）",
-          "value": "• [Datacenters 2027: The Year of Acceleration, +50GW in a Single Year](https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration) — SemiAnalysis (2026-10-19)\n• [Superhuman Hardware Design Is The Easy Part](https://a16z.com/superhuman-hardware-design-is-the-easy-part) — a16z (2026-10-20)\n• [Stock Prices, Earnings and Cashflows: The AI Effect plays through!](https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html) — Aswath Damodaran (2026-10-08)",
+          "name": "01. AI 基礎建設加速 vs. 估值承壓的雙重敘事（4個來源）⚠️與07:06報告重複",
+          "value": "• [Datacenters 2027: The Year of Acceleration, +50GW in a Single Year](https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration) — SemiAnalysis (2026-10-19)\n• [Superhuman Hardware Design Is The Easy Part](https://a16z.com/superhuman-hardware-design-is-the-easy-part) — a16z (2026-10-20)\n• [Stock Prices, Earnings and Cashflows: The AI Effect plays through!](https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html) — Aswath Damodaran (2026-10-08)\n• [【行情快報】5%殖利率吸走資金？AI行情迎來壓力測試！](https://www.macromicro.me/blog) — 財經M平方 MacroMicro (2026-10-20)",
           "inline": false
         },
         {
-          "name": "02. 機器人／具身智慧（Embodied AI）成為資金新焦點（2個來源）",
-          "value": "• [Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise) — The Generalist (2026-10-20)\n• [ARK's Expected Share Price For Tesla In 2031](https://www.ark-invest.com/articles/valuation-models/arks-expected-share-price-for-tesla-2031) — ARK Invest (2026-10-19)",
-          "inline": false
-        },
-        {
-          "name": "03. 市場風險與「泡沫」警訊聲浪再起（2個來源）",
+          "name": "02. 市場風險與「泡沫」警訊聲浪再起（2個來源）⚠️與07:06報告重複",
           "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree / Howard Marks (2026-09-22)\n• [The Confluence Of Risks](https://research.gavekal.com/) — Gavekal Research (2026-10-19)",
           "inline": false
         },
         {
-          "name": "04. 中國科技與製造政策觀察（2個來源）",
+          "name": "03. 中國科技與製造政策觀察（2個來源）⚠️與07:06報告重複",
           "value": "• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)\n• [From Trees to Granite](https://interconnected.blog/from-trees-to-granite/) — Kevin Xu / Interconnected (2026-09-29)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-22_07-06.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-22_22-13.html"
       }
     }
   ]
