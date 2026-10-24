@@ -1,15 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-24 07:06",
-      "description": "掃描40個來源，成功17個、失敗23個。本次WebFetch直連仍全數受環境網路白名單限制（已排除工具故障，確認github.com可正常連線），全程改用WebSearch查證；與2026-10-23 22:07報告比對後查無任何來源有更新，故本次內容沿用該報告已驗證資料。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-24 22:06",
+      "description": "掃描40個來源，成功16個、失敗24個。本次WebFetch直連仍全數受環境網路白名單限制（getaddrinfo ENOTFOUND），全程改用WebSearch查證；與今天07:06報告比對後查無任何來源有更新，以下3個主題皆與該報告重複：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI基礎建設加速 vs. 估值承壓的雙重敘事（4個來源）", "value": "• [Datacenters 2027: The Year of Acceleration](https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration) — SemiAnalysis (2026-10-19)\n• [Superhuman Hardware Design Is The Easy Part](https://a16z.com/superhuman-hardware-design-is-the-easy-part/) — a16z (2026-10-20)\n• [Stock Prices, Earnings and Cashflows: The AI Effect](https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html) — Aswath Damodaran (2026-10-08)\n• [行情快報：AI行情迎來壓力測試](https://www.macromicro.me/blog) — 財經M平方 (2026-10-20)", "inline": false},
-        {"name": "02. 市場風險與「泡沫」警訊聲浪再起（2個來源）", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital (2026-09-22)\n• [The Confluence Of Risks](https://research.gavekal.com/) — Gavekal Research (2026-10-19)", "inline": false},
-        {"name": "03. 中國科技與製造政策觀察（2個來源）", "value": "• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)\n• [From Trees to Granite](https://interconnected.blog/from-trees-to-granite/) — Kevin Xu (2026-09-29)", "inline": false}
+        {"name": "01. AI基礎建設加速 vs. 估值承壓的雙重敘事（3個來源）⚠️ 與今天07:06的報告重複", "value": "• [Datacenters 2027: The Year of Acceleration](https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration) — SemiAnalysis (2026-10-19)\n• [Superhuman Hardware Design Is The Easy Part](https://a16z.com/superhuman-hardware-design-is-the-easy-part/) — a16z (2026-10-20)\n• [Stock Prices, Earnings and Cashflows: The AI Effect](https://aswathdamodaran.blogspot.com/2026/10/stock-prices-earnings-and-cashflows-ai.html) — Aswath Damodaran (2026-10-08)", "inline": false},
+        {"name": "02. 市場風險與「泡沫」警訊聲浪再起（2個來源）⚠️ 與今天07:06的報告重複", "value": "• [Shall We Repeal the Laws of Economics – Part III](https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii) — Oaktree Capital (2026-09-22)\n• [The Confluence Of Risks](https://research.gavekal.com/) — Gavekal Research (2026-10-19)", "inline": false},
+        {"name": "03. 中國科技與製造政策觀察（2個來源）⚠️ 與今天07:06的報告重複", "value": "• [2025 Letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)\n• [From Trees to Granite](https://interconnected.blog/from-trees-to-granite/) — Kevin Xu (2026-09-29)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-24_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-24_22-06.html"}
     }
   ]
 }
