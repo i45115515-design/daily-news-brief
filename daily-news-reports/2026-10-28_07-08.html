@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日資訊彙整 2026-10-28 07:08</title>
+<style>
+  body { font-family: -apple-system, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #f5f6f8; color: #222; margin: 0; padding: 0 1rem 3rem; }
+  .container { max-width: 760px; margin: 0 auto; }
+  header { padding: 2rem 0 1rem; }
+  h1 { font-size: 1.5rem; margin: 0 0 0.5rem; }
+  .meta { color: #666; font-size: 0.9rem; }
+  .overview { background: #fff; border-radius: 8px; padding: 1.2rem 1.5rem; margin: 1.5rem 0; border-left: 4px solid #a9512e; }
+  .warning { background: #fff3e0; border-left: 4px solid #e65100; border-radius: 8px; padding: 1rem 1.5rem; margin: 1rem 0; font-size: 0.95rem; }
+  .theme { background: #fff; border-radius: 8px; padding: 1.2rem 1.5rem; margin: 1rem 0; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .theme h2 { font-size: 1.1rem; margin: 0 0 0.6rem; color: #a9512e; }
+  .theme ul { margin: 0; padding-left: 1.2rem; }
+  .theme li { margin-bottom: 0.4rem; line-height: 1.5; }
+  .theme a { color: #1a5fb4; text-decoration: none; }
+  .theme a:hover { text-decoration: underline; }
+  .src { color: #777; font-size: 0.85rem; }
+  .fail-section { margin-top: 2rem; }
+  .fail-section h2 { font-size: 1.05rem; color: #555; }
+  .fail-list { display: flex; flex-wrap: wrap; gap: 0.4rem; font-size: 0.85rem; color: #888; }
+  .fail-list span { background: #ebebec; padding: 0.2rem 0.6rem; border-radius: 12px; }
+  footer { margin-top: 2rem; font-size: 0.8rem; color: #999; text-align: center; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>📰 每日資訊彙整</h1>
+    <div class="meta">2026-10-28（台灣時間）07:08 執行</div>
+  </header>
+
+  <div class="overview">
+    <strong>總覽：</strong>本次排程掃描 40 個固定關注來源，僅成功取得 1 個來源的可驗證資料（標題＋日期＋連結），其餘 39 個來源均無法取得可信、可驗證的最新文章/影片資訊。由於「重複主題」的判定門檻為至少 2 個不同、互相獨立的來源同時報導/討論，本次掃描<strong>未發現任何達到門檻的重複主題</strong>。
+  </div>
+
+  <div class="warning">
+    ⚠️ 本次執行網路環境對本報告清單中絕大多數網站的直接連線（WebFetch）皆被環境網路白名單擋下（DNS 無法解析），改用 WebSearch 備援後，仍只有極少數來源能找到可驗證、非編造的確切標題／日期／連結組合。這與前次（2026-10-27 22:18，40個來源成功8個）相比明顯更差，記錄於此供後續排程參考，但本次並未發生 git push 失敗或 Discord 通知管線異常（詳見下方 commit/push 驗證結果）。
+  </div>
+
+  <div class="theme">
+    <h2>本次唯一取得之可驗證資訊（僅單一來源，未達「2個以上來源」門檻，故不列為重複主題）</h2>
+    <ul>
+      <li>
+        <a href="https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/" target="_blank" rel="noopener">New investment in unlisted renewable energy infrastructure</a>
+        <span class="src">— NBIM（挪威主權基金）(2026-10-01)：NBIM 宣布向 Copenhagen Infrastructure Partners 旗下 CI VI 基金投資 12 億歐元非上市再生能源基礎設施。</span>
+      </li>
+    </ul>
+  </div>
+
+  <div class="fail-section">
+    <h2>無法取得資料的來源清單（39個）</h2>
+    <div class="fail-list">
+      <span>Bloomberg Originals</span><span>Financial Times</span><span>VisualPolitik</span><span>Acquired (YouTube)</span>
+      <span>Sequoia Capital (YouTube)</span><span>Y Combinator</span><span>Asianometry</span><span>Computerphile</span>
+      <span>IEEE Spectrum</span><span>曲博科技教室 Dr. J Class</span><span>The Wall Street Journal</span><span>CNBC International</span>
+      <span>DIGITIMES</span><span>財訊</span><span>今周刊</span><span>Peter Zeihan</span>
+      <span>Berkshire Hathaway 股東信</span><span>Oaktree Capital / Howard Marks備忘錄</span><span>Bridgewater Associates</span><span>Marathon Capital</span>
+      <span>Gavekal Research</span><span>Goehring &amp; Rozencwajg</span><span>Verdad Capital</span><span>財經M平方 MacroMicro</span>
+      <span>ARK Invest</span><span>Paul Graham</span><span>a16z</span><span>Founders Fund</span>
+      <span>Sequoia Capital官網</span><span>The Generalist</span><span>Gavin Baker (Medium)</span><span>Kevin Kelly</span>
+      <span>Stratechery</span><span>SemiAnalysis</span><span>Kevin Xu</span><span>Coatue</span>
+      <span>Aswath Damodaran</span><span>Acquired Podcast (X/Twitter)</span><span>Dan Wang</span>
+    </div>
+  </div>
+
+  <footer>
+    此報告由排程任務自動產生，僅彙整公開資訊來源之標題與連結。<br>
+    daily-news-brief · GitHub Pages
+  </footer>
+</div>
+</body>
+</html>
