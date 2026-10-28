@@ -1,14 +1,19 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-28 22:19",
-      "description": "掃描40個來源，成功12個、失敗28個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-29 07:07",
+      "description": "掃描40個來源，成功2個、失敗38個。本次沒有被2個以上獨立來源同時討論的共同主題——絕大多數來源因執行環境網路白名單限制（DNS無法解析）而無法存取，建議檢查此環境的網路設定。",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI投資熱潮是否過熱？樂觀擴張與審慎疑慮的分歧（3個來源）", "value": "• [State of Markets II](https://a16z.com/state-of-markets-ii/) — a16z (2026-09-30)\n• [Is a 5% Treasury Yield Pulling Capital Away? The AI Rally Faces Its Stress Test](https://en.macromicro.me/blog/is-a-5-treasury-yield-pulling-capital-away-the-ai-rally-faces-its-stress-test) — 財經M平方 MacroMicro (2026-10-21)\n• [Partnering with Blacksmith](https://sequoiacap.com/article/partnering-with-blacksmith) — Sequoia Capital官網 (2026-10-21)", "inline": false},
-        {"name": "02. 創業者／創辦人的成功特質探討（2個來源）", "value": "• [Making Startups Powerful](https://paulgraham.com/powerful.html) — Paul Graham (2026年9月)\n• [What Asia's Best Founders Do Differently](https://ff.co/asias-best-founders/) — Founders Fund (2026-10-19)", "inline": false}
+        {
+          "name": "本次成功取得的資料（未達2來源重複門檻，僅供參考）",
+          "value": "• [Productivity Stack 2026](https://www.generalist.com/p/productivity-stack-2026) — The Generalist (2026-01-22)\n• [New investment in unlisted renewable energy infrastructure](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/) — NBIM (2026-10-01)",
+          "inline": false
+        }
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-28_22-19.html"}
+      "footer": {
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-29_07-07.html"
+      }
     }
   ]
 }
