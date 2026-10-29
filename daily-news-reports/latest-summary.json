@@ -1,19 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-29 22:24",
-      "description": "掃描40個來源，成功1個、失敗39個。本次沒有被2個以上獨立來源同時討論的共同主題——絕大多數來源因執行環境網路白名單限制（DNS無法解析）而無法存取，此問題今天兩次執行皆發生，建議檢查此環境的 Network access 設定。",
-      "color": 11105572,
+      "title": "每日資訊彙整 2026-10-30 07:06",
+      "description": "⚠️ 本次執行環境網路白名單限制了絕大多數目標網站的連線，掃描40個來源，成功1個、失敗39個。因成功來源不足，本次無法比對出跨來源共同主題。需要在環境設定中將目標網域加入 Allowed domains 才能恢復正常抓取。",
+      "color": 15158332,
       "fields": [
-        {
-          "name": "本次成功取得的資料（未達2來源重複門檻，僅供參考）",
-          "value": "• [New investment in unlisted renewable energy infrastructure](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/new-investment-in-unlisted-renewable-energy-infrastructure2/) — NBIM (2026-10-01) ⚠️ 與今天07:07的報告重複",
-          "inline": false
-        }
+        {"name": "本次唯一成功取得的內容（非共同主題，僅供參考）", "value": "• [Big Ideas 2026](https://www.ark-invest.com/big-ideas-2026) — ARK Invest (2026-01-21)", "inline": false},
+        {"name": "⚠️ 失敗原因", "value": "WebFetch 對 stratechery.com、berkshirehathaway.com、oaktreecapital.com、semianalysis.com 等非YouTube網域 DNS 解析失敗，屬環境網路白名單限制，非內容問題。", "inline": false}
       ],
-      "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-29_22-24.html"
-      }
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-30_07-06.html"}
     }
   ]
 }
