@@ -1,14 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-30 07:06",
-      "description": "⚠️ 本次執行環境網路白名單限制了絕大多數目標網站的連線，掃描40個來源，成功1個、失敗39個。因成功來源不足，本次無法比對出跨來源共同主題。需要在環境設定中將目標網域加入 Allowed domains 才能恢復正常抓取。",
+      "title": "每日資訊彙整 2026-10-30 22:55",
+      "description": "⚠️ 本次執行環境網路白名單限制持續（與今天07:06相同），掃描40個來源，成功0個、失敗40個。因無任何來源同時取得可驗證標題/日期/連結，本次無法比對出跨來源共同主題。需要在環境設定中將目標網域加入 Allowed domains 才能恢復正常抓取。",
       "color": 15158332,
       "fields": [
-        {"name": "本次唯一成功取得的內容（非共同主題，僅供參考）", "value": "• [Big Ideas 2026](https://www.ark-invest.com/big-ideas-2026) — ARK Invest (2026-01-21)", "inline": false},
-        {"name": "⚠️ 失敗原因", "value": "WebFetch 對 stratechery.com、berkshirehathaway.com、oaktreecapital.com、semianalysis.com 等非YouTube網域 DNS 解析失敗，屬環境網路白名單限制，非內容問題。", "inline": false}
+        {"name": "⚠️ 失敗原因", "value": "WebFetch 對 stratechery.com、berkshirehathaway.com、oaktreecapital.com、semianalysis.com、a16z.com、ark-invest.com、macromicro.me、aswathdamodaran.blogspot.com 等非YouTube網域 DNS 解析失敗，屬環境網路白名單限制。WebSearch備援僅能找到第三方彙整站的過舊或無日期資訊，缺乏可驗證的原始連結，依規範不編造，故本次全數標記為無法取得資料。", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-30_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-30_22-55.html"}
     }
   ]
 }
