@@ -1,24 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-10-31 07:06",
-      "description": "掃描40個來源，成功20個（部分僅取得推測性資訊）、失敗20個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-10-31 22:06",
+      "description": "掃描40個來源，成功2個、失敗38個。本次網路白名單限制比今天早上的報告更嚴格（早上成功20個），導致僅2個來源取得可信資訊，且兩者主題不同，未發現2個以上獨立來源同時談論的共同主題。",
       "color": 11105572,
       "fields": [
-        {
-          "name": "01. AI 技術與投資熱度延續（3個來源）",
-          "value": "• [The American Dynamism 50 2026: Production is Deterrence](https://a16z.com/american-dynamism-50-2026) — a16z (2026-10-29)\n• [A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/?p=20319) — Stratechery (2026-10-15)\n• [ASML is Building a Hybrid Bonding Tool](https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding) — SemiAnalysis (2026-10-15)",
-          "inline": false
-        },
-        {
-          "name": "02. 中國經濟與投資前景的評估（2個來源，信心度較低）",
-          "value": "• [US Exceptionalism Versus Chinese Uninvestibility](https://research.gavekal.com/) — Gavekal Research (2025-12-09)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)",
-          "inline": false
-        }
+        {"name": "本次取得資訊來源（各自獨立主題，未構成共同主題）", "value": "• [October 22 Market Update Webinar](https://www.ark-invest.com/videos/webinar-archive/october-22-market-update-webinar) — ARK Invest (2026-10-22)\n• [NBIM與Copenhagen Infrastructure Partners簽署協議，投資12億歐元於CI VI再生能源基金](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/) — NBIM 挪威主權基金 (2026-10-01)", "inline": false}
       ],
-      "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-31_07-06.html"
-      }
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-10-31_22-06.html"}
     }
   ]
 }
