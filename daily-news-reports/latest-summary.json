@@ -1,14 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-04 22:10",
-      "description": "掃描40個來源，成功0個、失敗40個。WebFetch對全部目標網域仍無法連線（DNS解析失敗），WebSearch備援同樣沒有任何來源能同時確認標題、日期、原始連結，無法進行重複主題比對。",
-      "color": 15548997,
+      "title": "每日資訊彙整 2026-11-05 22:07",
+      "description": "掃描40個來源，成功13個、失敗27個。以下是被最多獨立來源同時談論的主題：",
+      "color": 11105572,
       "fields": [
-        {"name": "⚠️ 環境網路限制持續（連續第5次執行皆為0/40）", "value": "WebFetch測試stratechery.com等目標網域回報getaddrinfo ENOTFOUND（DNS解析失敗，主機不在雲端環境網路白名單內）。此問題已連續影響2026-11-02 22:34、2026-11-03 07:06、2026-11-03 22:14、2026-11-04 07:06、2026-11-04 22:10共5次排程執行，需人工到雲端環境設定（Cloud environment選單→Edit→Network access）調整白名單，排程任務本身無法自行修復。", "inline": false},
-        {"name": "重複主題", "value": "本次0個來源取得資料，無法進行任何主題比對。", "inline": false}
+        {"name": "01. AI資料中心／基礎設施建置與電力融資熱潮（3個來源）", "value": "• [Elon Is Doing It Again: SpaceX Will Be The World's Biggest AI Cloud](https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will) — SemiAnalysis (2026-11-03)\n• [Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence](https://sequoiacap.com/podcast/crusoe-ceo-chase-lochmiller-turning-stranded-energy-into-intelligence) — Sequoia Capital (2026-11-04)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-04_22-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-05_22-07.html"}
     }
   ]
 }
