@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-05 22:07",
-      "description": "掃描40個來源，成功13個、失敗27個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-06 07:07",
+      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資料中心／基礎設施建置與電力融資熱潮（3個來源）", "value": "• [Elon Is Doing It Again: SpaceX Will Be The World's Biggest AI Cloud](https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will) — SemiAnalysis (2026-11-03)\n• [Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence](https://sequoiacap.com/podcast/crusoe-ceo-chase-lochmiller-turning-stranded-energy-into-intelligence) — Sequoia Capital (2026-11-04)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)", "inline": false}
+        {"name": "01. AI 算力與資料中心建置的資本結構爭議（3個來源）", "value": "• [The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference](https://newsletter.semianalysis.com/p/tpu-strikes-the-king) — SemiAnalysis (近期)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)\n• [The Anthropic Feedback Loop: The Cost of Capital Delusion and Diversion!](https://aswathdamodaran.blogspot.com/2026/11/the-anthropic-feedback-loop-cost-of.html) — Aswath Damodaran (2026-11-03)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-05_22-07.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-06_07-07.html"}
     }
   ]
 }
