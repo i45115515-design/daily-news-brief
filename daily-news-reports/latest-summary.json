@@ -1,13 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-06 07:07",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-06 22:08",
+      "description": "掃描40個來源，成功16個、失敗24個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI 算力與資料中心建置的資本結構爭議（3個來源）", "value": "• [The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference](https://newsletter.semianalysis.com/p/tpu-strikes-the-king) — SemiAnalysis (近期)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)\n• [The Anthropic Feedback Loop: The Cost of Capital Delusion and Diversion!](https://aswathdamodaran.blogspot.com/2026/11/the-anthropic-feedback-loop-cost-of.html) — Aswath Damodaran (2026-11-03)", "inline": false}
+        {"name": "01. AI基礎設施／資料中心資本結構與Google角色爭議（4個來源）⚠️與今天07:07報告重複", "value": "• [Sharp Tech on Video: The U.S. Votes on Data Centers...](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/) — Stratechery (2026-11-06)\n• [The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference](https://newsletter.semianalysis.com/p/tpu-strikes-the-king) — SemiAnalysis (2026-11-05)\n• [The Anthropic Feedback Loop: Cost of Capital Delusion](https://aswathdamodaran.blogspot.com/2026/11/the-anthropic-feedback-loop-cost-of.html) — Aswath Damodaran (2026-11-03)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)", "inline": false},
+        {"name": "02. 日本股市與資金流向（2個來源）", "value": "• [Is Japan's Repatriation Wave Starting?](https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting/) — Gavekal Research (2026-11-06)\n• [Japan's Big Equity Bet](https://verdadcap.com/archive/japans-big-equity-bet) — Verdad Capital (2026-05-04)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-06_07-07.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-06_22-08.html"}
     }
   ]
 }
