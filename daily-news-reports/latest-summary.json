@@ -1,15 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-08 07:06",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-08 22:06",
+      "description": "掃描40個來源，成功28個、失敗12個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI資料中心／運算基礎設施擴建競賽（2個來源）", "value": "• [We Visited China's Stargate in Inner Mongolia](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (約數小時前)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)", "inline": false},
-        {"name": "02. 日本股市與跨境資金流向（2個來源）", "value": "• [Is Japan's Repatriation Wave Starting?](https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting/) — Gavekal Research (2026-11-06)\n• [Japan's Big Equity Bet](https://verdadcap.com/archive/japans-big-equity-bet) — Verdad Capital (2026-05-04，⚠️時效較舊)", "inline": false},
-        {"name": "03. AI擴散至政治與國安領域（2個來源）", "value": "• [AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/) — Stratechery (2026-11-04)\n• [Defense in Depth, Rebuilt for Machine Speed](https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/) — a16z (日期未標示)", "inline": false}
+        {"name": "01. AI相關股市與估值泡沫疑慮升溫（3個來源）", "value": "• [Tech Stocks and AI Bonds Are Tumbling. Is the AI Trade in Trouble?](https://www.youtube.com/watch?v=mmwgT9FSWSo) — WSJ (約7天前)\n• [Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/) — Stratechery (2026-11-06)\n• [The Anthropic Feedback Loop: The Cost of Capital Delusion and Diversion!](https://aswathdamodaran.blogspot.com/2026/11/the-anthropic-feedback-loop-cost-of.html) — Aswath Damodaran (2026-11-03)", "inline": false},
+        {"name": "02. AI資料中心／運算基礎設施擴建與重整（2個來源）⚠️與今天07:06報告重複", "value": "• [We Visited China's Stargate in Inner Mongolia](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (約19小時前)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring and Recapitalization](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)", "inline": false},
+        {"name": "03. 日本股市與跨境資金流向（2個來源）⚠️與今天07:06報告重複", "value": "• [Is Japan's Repatriation Wave Starting?](https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting/) — Gavekal Research (2026-11-06)\n• [Japan's Big Equity Bet](https://verdadcap.com/archive/japans-big-equity-bet) — Verdad Capital (2026-05-04)", "inline": false},
+        {"name": "04. AI對勞動市場與財富分配的衝擊（2個來源）", "value": "• [What AI Is Doing To Jobs Is Worse Than We Thought](https://www.youtube.com/watch?v=-tV4xm2TipQ) — VisualPolitik (2026-11-06)\n• [Why AI Is Sucking Up the World's Wealth](https://www.youtube.com/watch?v=xZPPWP0ZKCI) — Bloomberg Originals (約30天前)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-08_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-08_22-06.html"}
     }
   ]
 }
