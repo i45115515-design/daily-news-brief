@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-10 07:06",
-      "description": "掃描40個來源，成功12個、失敗28個（16個YouTube頻道因環境網路白名單整域封鎖全數失敗）。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-10 22:10",
+      "description": "掃描40個來源，成功14個、失敗26個（16個YouTube頻道因環境網路白名單整域封鎖全數失敗）。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI/資料中心基礎設施建設熱潮與資本支出疑慮（3個來源）", "value": "• [我們造訪了中國內蒙古的「Stargate」計畫](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (2026-11-07)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)", "inline": false},
-        {"name": "02. 美中製造業競爭力與再工業化辯論（2個來源）", "value": "• [America Can Build Again. Here's How](https://a16z.com/america-can-build-again-heres-how/) — a16z (日期未標示)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)", "inline": false}
+        {"name": "01. AI/資料中心基礎設施建設熱潮與資本支出疑慮（3個來源）⚠️ 與今天07:06的報告重複", "value": "• [我們造訪了中國內蒙古的「Stargate」計畫](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (2026-11-07)\n• [Marathon Capital Advises on RELLIS Data Center Restructuring](https://marathoncapital.com/news-events/marathon-capital-advises-on-rellis-data-center-restructuring-and-recapitalization) — Marathon Capital (2026-10-21)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)", "inline": false},
+        {"name": "02. 美中製造業競爭力與再工業化辯論（2個來源）⚠️ 與今天07:06的報告重複", "value": "• [America Can Build Again. Here's How](https://a16z.com/america-can-build-again-heres-how/) — a16z (日期未標示)\n• [2025 letter](https://danwang.co/2025-letter/) — Dan Wang (2026-01-01)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-10_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-10_22-10.html"}
     }
   ]
 }
