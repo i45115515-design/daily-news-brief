@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-11 07:06",
-      "description": "掃描40個來源，成功16個、失敗24個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-11 22:08",
+      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI概念股估值與市場集中度風險（2個來源）", "value": "• [The AI Trade Deconstructed: AI Builders, AI Suppliers and AI Product firms!](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [Geopolitical risk and concentration risk in the equity index of the GPFG](https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2026/geopolitical-risk-and-concentration-risk-in-the-equity-index-of-the-government-pension-fund-global-gpfg/) — NBIM (2026-11-02)", "inline": false},
-        {"name": "02. AI晶片／伺服器基建與美中科技焦點（2個來源）", "value": "• [We Visited China's Stargate in Inner Mongolia](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (2026-11-07)\n• [The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley](https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/) — Stratechery (2026-11-10)", "inline": false}
+        {"name": "01. AI晶片供應鏈、基建布局與估值熱度（4個來源，⚠️與今天07:06的報告重複）", "value": "• [The AI Supply Chain Post Elections](https://research.gavekal.com/teaser/the-ai-supply-chain-post-elections/) — Gavekal Research (2026-11-11)\n• [Intel Earnings, AMD Earnings, Intel and AMD's Divergence](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/) — Stratechery (2026-11-11)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [We Visited China's Stargate in Inner Mongolia](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (2026-11-07)", "inline": false},
+        {"name": "02. 能源轉型基建的機構資金動向（太陽能、儲能電池）（2個來源）", "value": "• [Marathon Capital Advises Arevon on Sale of Solar Portfolio](https://marathoncapital.com/news-events/marathon-capital-advises-arevon-on-sale-of-operating-distributed-solar-portfolio-to-altus-power) — Marathon Capital (2026-11-10)\n• [First direct investment in battery storage](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/first-direct-investment-in-battery-storage/) — NBIM (2026-11-04)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-11_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-11_22-08.html"}
     }
   ]
 }
