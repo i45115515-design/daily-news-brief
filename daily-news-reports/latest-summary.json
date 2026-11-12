@@ -1,15 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-12 07:06",
-      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-12 22:07",
+      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI晶片供應鏈、基建布局與地緣政治競賽（5個來源）", "value": "• [The AI Supply Chain Post Elections](https://research.gavekal.com/teaser/the-ai-supply-chain-post-elections/) — Gavekal Research (2026-11-11)\n• [Intel Earnings, AMD Earnings, Intel and AMD's Divergence](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/) — Stratechery (2026-11-11)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [We Visited China's Stargate in Inner Mongolia](https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner) — SemiAnalysis (2026-11-07)\n• [The Accelerating Resource Grabs in AI and Modern Mercantilism](https://www.bridgewater.com/the-accelerating-resource-grabs-in-ai-and-modern-mercantilism-content-ctd) — Bridgewater Associates (日期不明)", "inline": false},
-        {"name": "02. 2026年第三季財務／基金績效回顧（2個來源）", "value": "• [Q3 2026 Performance Update: Suitably Paranoid](https://interconnected.blog/q3-2026-performance-update-suitably-paranoid/) — Kevin Xu (2026-10-30)\n• [Negative return in the third quarter](https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/negative-return-in-the-third-quarter/) — NBIM (2026-10-22)", "inline": false},
-        {"name": "03. AI相關新創投資動向（2個來源）", "value": "• [A Model For Everyone: Trajectory's Continual Learning Training Data](https://www.sequoiacap.com/podcast/a-model-for-everyone-how-ronak-from-trajectory-is-building-products-for-continual-learning) — Sequoia Capital (2026-11-11)\n• [Investing in General Translation](https://a16z.com/announcement/investing-in-general-translation/) — a16z (日期不明)", "inline": false}
+        {"name": "01. AI估值泡沫疑慮引發股市拋售（3個來源）", "value": "• [The Nvidia Blast Zone](https://research.gavekal.com/teaser/gkdg-the-nvidia-blast-zone/) — Gavekal Research (2026-11-12)\n• [Equity Risk-Off: What Next?](https://research.gavekal.com/teaser/equity-risk-off-what-next/) — Gavekal Research (2026-11-12)\n• [2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/) — Stratechery (日期不明)\n• [The Anthropic Feedback Loop](https://aswathdamodaran.blogspot.com/2026/11/the-anthropic-feedback-loop-cost-of.html) — Aswath Damodaran (2026-11-03)", "inline": false},
+        {"name": "02. AI議題成為美國期中選舉政治焦點（2個來源）", "value": "• [The Datacenter Backlash Goes Bipartisan](https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan) — SemiAnalysis (2026-11-01)\n• [AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/) — Stratechery (2026-11-04)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-12_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-12_22-07.html"}
     }
   ]
 }
