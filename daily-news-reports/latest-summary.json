@@ -1,13 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-13 07:11",
-      "description": "掃描40個來源，成功15個、失敗25個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-13 22:51",
+      "description": "掃描40個來源，成功20個、失敗20個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. Nvidia 與 AI 交易估值風險重新評估（3個來源）", "value": "• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [The Nvidia Blast Zone](https://research.gavekal.com/teaser/gkdg-the-nvidia-blast-zone/) — Gavekal Research (2026-11-12)\n• [The AI Trade Deconstructed: AI Builders, AI Suppliers and AI Product firms!](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)", "inline": false}
+        {"name": "01. Nvidia 後 Jensen Huang 時代的產業地位與美國 AI 供應鏈焦慮（3個來源）⚠️ 與今天 07:11 的報告重複", "value": "• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge](https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/) — Stratechery (2026-11-12)\n• [The AI Trade Deconstructed: AI Builders, AI Suppliers and AI Product firms!](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-13_07-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-13_22-51.html"}
     }
   ]
 }
