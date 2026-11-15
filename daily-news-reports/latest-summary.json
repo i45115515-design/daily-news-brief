@@ -1,14 +1,15 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-15 22:10",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-16 07:06",
+      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. Nvidia 後黃仁勳時代的晶片霸權焦慮（2個來源）⚠️與今天07:06重複", "value": "• [Sharp Tech on Video: Nvidia After Jensen Huang...](https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/) — Stratechery (2026-11-12)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12，同07:06報告)", "inline": false},
-        {"name": "02. AI投資泡沫與估值辯論（2個來源）⚠️與今天07:06重複", "value": "• [A Layman Thinks About AI](https://www.brookfield.com/sites/default/files/documents/A%20Memo%20From%20Howard%20Marks_A%20Layman%20Thinks%20About%20AI.pdf) — Howard Marks/Oaktree (2026-11-11)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09，同07:06報告)", "inline": false}
+        {"name": "01. AI投資熱潮與產業動向持續升溫（3個來源）", "value": "• [The AI Trade Deconstructed: AI Builders, AI Suppliers and AI Product firms!](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [A Layman Thinks About AI](https://www.brookfield.com/views-news/insights/layman-thinks-about-ai) — Oaktree / Howard Marks (2026-11)\n• [A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning Training Data](https://sequoiacap.com/podcast/a-model-for-everyone-how-ronak-from-trajectory-is-building-products-for-continual-learning) — Sequoia Capital官網 (未標示日期)", "inline": false},
+        {"name": "02. Nvidia 後黃仁勳時代的晶片霸權焦慮（2個來源）", "value": "• [Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge](https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/) — Stratechery (2026-11-12)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)", "inline": false},
+        {"name": "03. 生技／醫療成為創投圈新焦點（2個來源）", "value": "• [Big Pharma Can Rival Big Software](https://a16z.com/big-pharma-can-rival-big-software/) — a16z (未標示日期)\n• [Health & Longevity Startups to Watch | Dubai 2026](https://ff.co/health-startups-to-watch-dubai/) — Founders Fund (未標示日期)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-15_22-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-16_07-06.html"}
     }
   ]
 }
