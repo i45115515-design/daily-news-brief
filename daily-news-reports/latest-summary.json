@@ -1,15 +1,16 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-17 07:10",
-      "description": "掃描40個來源，成功16個、失敗24個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-17 22:15",
+      "description": "掃描40個來源，成功28個、失敗12個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. Nvidia執行長黃仁勳因醜聞辭職，公司面臨繼任風險（3個來源）", "value": "• [Obituaries（Jensen Huang, CEO of Nvidia, 1993–2026）](https://stratechery.com/2026/obituaries/) — Stratechery (2026-11-16)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [So What's Next With…](https://interconnected.blog/so-whats-next-with/) — Kevin Xu/Interconnected (2026-11-13)", "inline": false},
-        {"name": "02. AI投資熱潮的估值與理性辯論（2個來源）", "value": "• [A Layman Thinks About AI](https://www.brookfield.com/sites/default/files/documents/A%20Memo%20From%20Howard%20Marks_A%20Layman%20Thinks%20About%20AI.pdf) — Oaktree/Howard Marks (2026-11-11)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)", "inline": false},
-        {"name": "03. AI時代的資安與企業IT防禦升溫（2個來源）", "value": "• [The Dream of the 1990s Is Alive Again in Cybersecurity](https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/) — a16z (2026-11-16)\n• [Access Granted: How Serval Is Transforming IT for the AI Age](https://www.sequoiacap.com/article/access-granted) — Sequoia Capital (約2026-11-13)", "inline": false}
+        {"name": "01. Nvidia執行長接班與公司前景（3個來源）⚠️與07:10報告重複", "value": "• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [So What's Next With…](https://interconnected.blog/so-whats-next-with/) — Kevin Xu/Interconnected (2026-11-13)\n• [Why Nvidia Matters](https://research.gavekal.com/teaser/why-nvidia-matters/) — Gavekal Research (2026-11-17，新增)", "inline": false},
+        {"name": "02. AI投資熱潮的估值辯論（3個來源）⚠️與07:10報告重複", "value": "• [A Layman Thinks About AI](https://www.brookfield.com/views-news/insights/layman-thinks-about-ai) — Oaktree/Howard Marks (2026-11-11)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [Issue #532](https://www.ark-invest.com/newsletters/issue-532) — ARK Invest (2026-11-02，新增)", "inline": false},
+        {"name": "03. AI時代的資安與企業IT防禦（2個來源）⚠️與07:10報告重複，無新進展", "value": "• [The Dream of the 1990s Is Alive Again in Cybersecurity](https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity/) — a16z (2026-11-16)\n• [Access Granted](https://sequoiacap.com/article/access-granted) — Sequoia Capital (2026-10-06)", "inline": false},
+        {"name": "04. AI機器人訓練與機器人技術新創（2個來源）", "value": "• [Inside the Robot Data Factory](https://www.youtube.com/watch?v=0idrTKCDhuE) — Sequoia Capital/YouTube (約2026-10-20)\n• [Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise) — The Generalist (2026-10-20)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-17_07-10.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-17_22-15.html"}
     }
   ]
 }
