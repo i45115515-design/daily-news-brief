@@ -1,14 +1,13 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-19 07:06",
-      "description": "掃描40個來源，成功25個、失敗15個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-19 22:15",
+      "description": "掃描40個來源，成功19個、失敗21個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. Nvidia 財報與「AI 交易」估值辯論（5個來源）", "value": "• [Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/) — Stratechery (2026-11-18)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [Market Close: Nvidia Stock Comeback Fizzles](https://www.youtube.com/watch?v=uYwrTzHt-NQ) — CNBC International (2026-11-18)\n• [The AI Trade Deconstructed](https://aswathdamodaran.blogspot.com/2026/11/the-ai-trade-deconstructed-ai-builders.html) — Aswath Damodaran (2026-11-09)\n• [A Layman Thinks About AI](https://www.brookfield.com/sites/default/files/documents/A%20Memo%20From%20Howard%20Marks_A%20Layman%20Thinks%20About%20AI.pdf) — Howard Marks/Oaktree (2026-11-11)", "inline": false},
-        {"name": "02. 2026年美國期中選舉（2個來源）", "value": "• [WSJ's Washington Coverage Chief Breaks Down Three Key Election Day Trends](https://www.youtube.com/shorts/rp597OE9qLg) — The Wall Street Journal (2026-11-03)\n• [WEFC | For the Midterm Maelstrom Is Near](https://en.macromicro.me/blog/wefc-for-the-midterm-maelstrom-is-near-pdf-download) — MacroMicro (2026-11-02)", "inline": false}
+        {"name": "01. AI 投資估值與泡沫辯論延燒（3個來源）⚠️ 與今天 07:06 的報告重複", "value": "• [The Rocky Road from Aggregate to Per Share Value: Anthropic's IPO update](https://aswathdamodaran.blogspot.com/2026/11/the-rocky-road-from-aggregate-to-per.html) — Aswath Damodaran (2026-11-18)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [A Layman Thinks About AI](https://www.brookfield.com/sites/default/files/documents/A%20Memo%20From%20Howard%20Marks_A%20Layman%20Thinks%20About%20AI.pdf) — Oaktree Capital / Howard Marks (2026-11-11)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-19_07-06.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-19_22-15.html"}
     }
   ]
 }
