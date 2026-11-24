@@ -1,23 +1,23 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-24 22:06",
-      "description": "掃描40個來源，成功14個、失敗26個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-25 07:07",
+      "description": "掃描40個來源，成功16個、失敗24個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
         {
-          "name": "01. 黃仁勳（Jensen Huang）辭任／回任 Nvidia CEO 與 AI 產業信任問題持續發酵（4個來源）⚠️ 與今天 07:06 的報告重複",
+          "name": "01. 黃仁勳（Jensen Huang）辭任／回任 Nvidia CEO 與 AI 產業信任問題（4個來源）",
           "value": "• [The Individual Exception](https://stratechery.com/2026/the-individual-exception/) — Stratechery (2026-11-24)\n• [So What's Next With…](https://interconnected.blog/so-whats-next-with/) — Kevin Xu/Interconnected (2026-11-13)\n• [Nvidia and the World Without Jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen) — SemiAnalysis (2026-11-12)\n• [The Cost of Human Frailty: Nvidia's Jensen Huang Test!](https://aswathdamodaran.blogspot.com/2026/11/the-cost-of-human-frailty-nvidias.html) — Aswath Damodaran (2026-11-19)",
           "inline": false
         },
         {
-          "name": "02. AI 對投資判斷與內容生態的衝擊持續被討論（2個來源，關聯較弱）",
+          "name": "02. AI對投資判斷與內容生態的衝擊持續被討論（2個來源，關聯較弱）",
           "value": "• [A Layman Thinks About AI](https://www.brookfield.com/sites/default/files/documents/A%20Memo%20From%20Howard%20Marks_A%20Layman%20Thinks%20About%20AI.pdf) — Oaktree/Howard Marks (2026-11-11)\n• [Slop Style](https://kk.org/thetechnium/slop-style/) — Kevin Kelly (2026-11-23)",
           "inline": false
         }
       ],
       "footer": {
-        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-24_22-06.html"
+        "text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-25_07-07.html"
       }
     }
   ]
