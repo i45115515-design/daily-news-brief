@@ -1,14 +1,14 @@
 {
   "embeds": [
     {
-      "title": "每日資訊彙整 2026-11-27 07:11",
-      "description": "掃描40個來源，成功18個、失敗22個。以下是被最多獨立來源同時談論的主題：",
+      "title": "每日資訊彙整 2026-11-27 22:07",
+      "description": "掃描40個來源，成功16個、失敗24個。以下是被最多獨立來源同時談論的主題：",
       "color": 11105572,
       "fields": [
-        {"name": "01. AI投資熱潮的基本面辯論持續延燒（3個來源）", "value": "• [Video: India As The Anti-AI Trade](https://research.gavekal.com/teaser/video-india-as-the-anti-ai-trade/) — Gavekal Research (2026-11-26)\n• [Evaluating Recent Model Releases on GDPx](https://newsletter.semianalysis.com/p/evaluating-recent-model-releases) — SemiAnalysis (2026-11-25/26)\n• [A Layman Thinks About AI](https://www.brookfield.com/views-news/insights/layman-thinks-about-ai) — Oaktree Capital/Howard Marks備忘錄 (2026-11-11)", "inline": false},
-        {"name": "02. Nvidia／Jensen Huang 關鍵人物風險（2個來源）", "value": "• [The Individual Exception](https://stratechery.com/2026/the-individual-exception/) — Stratechery (2026-11-24)\n• [The Cost of Human Frailty: Nvidia's Jensen Huang Test!](https://aswathdamodaran.blogspot.com/2026/11/the-cost-of-human-frailty-nvidias.html) — Aswath Damodaran (2026-11-19)", "inline": false}
+        {"name": "01. Nvidia／Jensen Huang 風險與市場衝擊（3個來源）⚠️與今天07:11報告重複", "value": "• [Geoeconomic Monitor: The Nvidia Aftershock](https://research.gavekal.com/teaser/geoeconomic-monitor-the-nvidia-aftershock/) — Gavekal Research (2026-11-27)\n• [The Individual Exception](https://stratechery.com/2026/the-individual-exception/) — Stratechery (2026-11-24)\n• [The Cost of Human Frailty: Nvidia's Jensen Huang Test!](https://aswathdamodaran.blogspot.com/2026/11/the-cost-of-human-frailty-nvidias.html) — Aswath Damodaran (2026-11-19)", "inline": false},
+        {"name": "02. AI投資熱潮的基本面辯論（2個來源）⚠️與今天07:11報告重複", "value": "• [Evaluating Recent Model Releases on GDPx](https://newsletter.semianalysis.com/p/evaluating-recent-model-releases) — SemiAnalysis (2026-11-25/26)\n• [A Layman Thinks About AI](https://www.brookfield.com/views-news/insights/layman-thinks-about-ai) — Oaktree Capital / Howard Marks (2026-11-11)", "inline": false}
       ],
-      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-27_07-11.html"}
+      "footer": {"text": "完整報告：https://i45115515-design.github.io/daily-news-brief/daily-news-reports/2026-11-27_22-07.html"}
     }
   ]
 }
